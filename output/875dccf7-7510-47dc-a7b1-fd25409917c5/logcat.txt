@@ -1,0 +1,1478 @@
+--------- beginning of main
+12-11 01:54:27.630  1205  1205 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3095 
+12-11 01:54:27.671  1205  1205 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2167 repeatCheckTimes = 0, locked = false
+12-11 01:54:27.671  1205  1205 I GoogleInputMethodService: GoogleInputMethodService.onDestroy():1426 
+12-11 01:54:27.724  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019900, callback=btp@1c741d8, lastModifier=2, keyCodes=[47], actions=[0]}
+--------- beginning of system
+12-11 01:54:27.747   549   567 W Looper  : Slow dispatch took 157ms android.ui h=com.android.server.policy.PhoneWindowManager$PolicyHandler c=android.database.ContentObserver$$ExternalSyntheticLambda0@e65ec7d m=0
+12-11 01:54:27.753  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module jcn is unavailable
+12-11 01:54:27.755  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzp->kxd] takes 28ms
+12-11 01:54:27.755  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ddl is unavailable
+12-11 01:54:27.756  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module kjy is unavailable
+12-11 01:54:27.757  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=0, callback=jju@19c3443, lastModifier=0, keyCodes=[204], actions=[0]}
+12-11 01:54:27.759  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019898, callback=jju@58d4f3e, lastModifier=1, keyCodes=[62, 59], actions=[0, 0]}
+12-11 01:54:27.759  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=0, callback=jju@58d4f3e, lastModifier=1, keyCodes=[62, 60], actions=[0, 0]}
+12-11 01:54:27.761  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module kkb is unavailable
+12-11 01:54:27.761  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module kyf is unavailable
+12-11 01:54:27.762  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module llx is unavailable
+12-11 01:54:27.794  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzp->kxd] takes 86ms
+12-11 01:54:27.795   549   549 W Looper  : Slow dispatch took 175ms main h=android.os.Handler c=android.database.ContentObserver$$ExternalSyntheticLambda0@c69d379 m=0
+12-11 01:54:27.868  1205  1205 I EmojifyExtensionImpl: EmojifyExtensionImpl.onDestroy():603 Destroying Emojify extension dyh@4f40e96.
+12-11 01:54:27.879  1205  1222 W SP      : File ref is being finalized but wasn't closed, file: main_en_840_2024120100_1[2]
+12-11 01:54:27.926  1205  1205 I AccessPointsListHolderController: AccessPointsListHolderController.removeAccessPoint():409 The access point share is not added
+12-11 01:54:27.927  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dji is unavailable
+12-11 01:54:27.928  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gdv is unavailable
+12-11 01:54:27.929  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ecp is unavailable
+12-11 01:54:27.929  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fsz is unavailable
+12-11 01:54:27.931  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module efv is unavailable
+12-11 01:54:27.932  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eov is unavailable
+12-11 01:54:27.933  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 23ms
+12-11 01:54:27.940  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module geb is unavailable
+12-11 01:54:27.942  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 32ms
+12-11 01:54:27.943  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dvf is unavailable
+12-11 01:54:27.943  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dwy is unavailable
+12-11 01:54:27.944  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ekz is unavailable
+12-11 01:54:27.955  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eph is unavailable
+12-11 01:54:27.955  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module exg is unavailable
+12-11 01:54:27.956  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eyu is unavailable
+12-11 01:54:27.959  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fbh is unavailable
+12-11 01:54:27.965  1205  1205 I JapaneseMozcExtension: JapaneseMozcExtension.onDestroy():52 
+12-11 01:54:27.966  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fbu is unavailable
+12-11 01:54:27.969  1205  1769 I InputActionMetricsProcessor: InputActionMetricsProcessor.onDetached():107 Detached from metrics manager.
+12-11 01:54:27.970  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fjr is unavailable
+12-11 01:54:27.972  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fmy is unavailable
+12-11 01:54:27.973  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IEmojiOrGifExtension is unavailable
+12-11 01:54:27.975  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IEmoticonExtension is unavailable
+12-11 01:54:27.979  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module frg is unavailable
+12-11 01:54:27.979  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fum is unavailable
+12-11 01:54:27.989  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gnu is unavailable
+12-11 01:54:27.990  1205  1205 I UniversalDictationExtension: UniversalDictationExtension.onDestroyExtension():87 onDestroy [UD]
+12-11 01:54:27.991  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gnv is unavailable
+12-11 01:54:27.997  1205  1205 I InputContextSharingModule: InputContextSharingModule.onDestroy():54 onDestroy()
+12-11 01:54:27.999  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gsf is unavailable
+12-11 01:54:28.001  1205  1205 I OnDevicePackDownloadModule: OnDevicePackDownloadModule.onDestroy():95 onDestroy()
+12-11 01:54:28.001  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gsq is unavailable
+12-11 01:54:28.002  1205  1205 I NewS3RecognizerModule: NewS3RecognizerModule.onDestroy():21 onDestroy [news3]
+12-11 01:54:28.011  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gun is unavailable
+12-11 01:54:28.012  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ido is unavailable
+12-11 01:54:28.014  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019895, callback=cab@c57f71a, lastModifier=2, keyCodes=[48], actions=[0]}
+12-11 01:54:28.016  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019894, callback=cab@4f85a8d, lastModifier=65536, keyCodes=[76], actions=[0]}
+12-11 01:54:28.018  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019890, callback=cab@1004ad4, lastModifier=2, keyCodes=[50], actions=[0]}
+12-11 01:54:28.019  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132018462, callback=cab@fa106e1, lastModifier=2, keyCodes=[39], actions=[0]}
+12-11 01:54:28.019  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019893, callback=cab@7c0dcdb, lastModifier=2, keyCodes=[37], actions=[0]}
+12-11 01:54:28.025  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dhi is unavailable
+12-11 01:54:28.026  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module foo is unavailable
+12-11 01:54:28.028  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module for is unavailable
+12-11 01:54:28.029  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gna is unavailable
+12-11 01:54:28.030  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module kju is unavailable
+12-11 01:54:28.033  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ifo is unavailable
+12-11 01:54:28.034  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IBannerExtension is unavailable
+12-11 01:54:28.035  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module luq is unavailable
+12-11 01:54:28.037  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 126ms
+12-11 01:54:28.038  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module lwi is unavailable
+12-11 01:54:28.038  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 143ms
+12-11 01:54:28.039  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eyt is unavailable
+12-11 01:54:28.040  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 170ms
+12-11 01:54:28.040  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dud is unavailable
+12-11 01:54:28.042  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd, jzs->kxd, jzs->kxd, jzs->kxd] takes 171ms
+12-11 01:54:28.043  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dxu is unavailable
+12-11 01:54:28.043  1205  1205 I AbstractOpenableExtension: AbstractOpenableExtension.maybeDestroyExistingKeyboardGroupManager():535 Destroy existing keyboard group manager in dzh
+12-11 01:54:28.046  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IExpressionMomentExtension is unavailable
+12-11 01:54:28.049  1205  1205 I AbstractOpenableExtension: AbstractOpenableExtension.maybeDestroyExistingKeyboardGroupManager():535 Destroy existing keyboard group manager in fsj
+12-11 01:54:28.053  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module FastAccessBarExtension is unavailable
+12-11 01:54:28.053  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IBitmojiExtension is unavailable
+12-11 01:54:28.054  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 190ms
+12-11 01:54:28.057  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dqf is unavailable
+12-11 01:54:28.057  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 221ms
+12-11 01:54:28.057  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fnz is unavailable
+12-11 01:54:28.058  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IUniversalMediaExtension is unavailable
+12-11 01:54:28.058  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd, jzs->kxd] takes 253ms
+12-11 01:54:28.059  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dfu is unavailable
+12-11 01:54:28.062  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gme is unavailable
+12-11 01:54:28.062  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 267ms
+12-11 01:54:28.063  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ddp is unavailable
+12-11 01:54:28.064  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gia is unavailable
+12-11 01:54:28.064  1205  1205 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener ipg@c7d7401 was not registered for notification class jwe
+12-11 01:54:28.065  1205  1205 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener ipf@62c55e8 was not registered for notification class jvx
+12-11 01:54:28.066  1205  1205 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener kxd@9134491 was not registered for notification class igb
+12-11 01:54:28.067  1205  1205 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener iow@5bb44e7 was not registered for notification class jay
+12-11 01:54:28.079  1205  1205 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener idi@8260823 was not registered for notification class iez
+12-11 01:54:28.080  1205  1205 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener idh@8807ad9 was not registered for notification class ifb
+12-11 01:54:28.080  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019899, callback=fgv@bd40d9f, lastModifier=2, keyCodes=[62], actions=[0]}
+12-11 01:54:28.083  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019897, callback=null, lastModifier=2, keyCodes=[8], actions=[0]}
+12-11 01:54:28.085  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module idm is unavailable
+12-11 01:54:28.087  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module lhv is unavailable
+12-11 01:54:28.089  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module loi is unavailable
+12-11 01:54:28.091  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ghz is unavailable
+12-11 01:54:28.098  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eoz is unavailable
+12-11 01:54:28.116  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dty is unavailable
+12-11 01:54:28.117  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=0, callback=fgv@aa70577, lastModifier=0, keyCodes=[57, 57], actions=[1, 0]}
+12-11 01:54:28.117  1205  1205 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=0, callback=fgv@2396902, lastModifier=0, keyCodes=[58, 58], actions=[1, 0]}
+12-11 01:54:28.118  1205  1205 I AbstractOpenableExtension: AbstractOpenableExtension.maybeDestroyExistingKeyboardGroupManager():535 Destroy existing keyboard group manager in fpu
+12-11 01:54:28.120  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IEmojiSearchExtension is unavailable
+12-11 01:54:28.121  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module lua is unavailable
+12-11 01:54:28.145  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dgx is unavailable
+12-11 01:54:28.147  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [ktn->kui] takes 25ms
+12-11 01:54:28.148  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ITranslateUIExtension is unavailable
+12-11 01:54:28.149  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IGifKeyboardExtension is unavailable
+12-11 01:54:28.150  1205  1205 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IStickerExtension is unavailable
+12-11 01:54:28.163  1205  1205 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 367ms
+12-11 01:54:28.169  1205  1205 I GoogleInputMethodService: GoogleInputMethodService.onDestroy():1462 Maybe update OEM display config because of service destruction
+12-11 01:54:28.189  1205  1205 I DeviceModeModule: DeviceModeModule.calculateAndNotify():198 Window metrics is not available, fallback to app context.
+12-11 01:54:28.190  1205  1205 I DeviceModeModule: DeviceModeModule.calculateAndNotify():225 Device mode 'phone' from display metrics 'DisplayMetrics{density=0.0, width=1080, height=2280, scaledDensity=0.0, xdpi=440.0, ydpi=440.0}' or smallestScreenWidthDp: 392
+12-11 01:54:28.194  1205  1205 I GoogleInputMethodService: GoogleInputMethodService.clearInputMethodServiceData():1546 clearInputMethodServiceData for onDestroy
+12-11 01:54:28.209  1205  1205 I GoogleInputMethodService: GoogleInputMethodService.discardAllKeyboardViewAndInputView():1750 discardAllKeyboardViewAndInputView()
+12-11 01:54:28.215  1205  1205 I InputMethodEntryManager: InputMethodEntryManager.notifyCurrentInputMethodEntryOnContextChanged():555 notifyCurrentInputMethodEntryOnContextChanged()
+12-11 01:54:28.215  1205  1205 I InputMethodEntryManager: InputMethodEntryManager.notifyCurrentInputMethodEntryOnContextChanged():576 Notify current input method entry changed on context change
+12-11 01:54:28.224  1205  1205 I KeyboardThemeProvider: KeyboardThemeProvider.reset():40 Reset keyboard theme
+12-11 01:54:28.225  1205  1205 I KeyboardContextProvider: KeyboardContextProvider.setBaseContextAndInvalidKeyboardContextCache():88 setBaseContextAndInvalidKeyboardContextCache(): null
+12-11 01:54:28.263   549  1231 W InputManager-JNI: Input channel object '4633650 InputMethod (client)' was disposed without first being removed with the input manager!
+12-11 01:54:28.288  1205  1205 I AbstractOpenableExtension: AbstractOpenableExtension$3.onSuccess():549 KeyboardGroupManager destroyed in dzh.
+12-11 01:54:28.288  1205  1205 I AbstractOpenableExtension: AbstractOpenableExtension$3.onSuccess():549 KeyboardGroupManager destroyed in fsj.
+12-11 01:54:28.289  1205  1205 I AbstractOpenableExtension: AbstractOpenableExtension$3.onSuccess():549 KeyboardGroupManager destroyed in fpu.
+12-11 01:54:30.511  1463  1463 I byzo    : (REDACTED) Starting %s background task %s.
+12-11 01:54:30.664  1463  1811 I bwww    : Using pair HTTP connection
+12-11 01:54:30.737  1463  3825 I aoxr    : [Upload] Connected
+12-11 01:54:30.773   549   567 E RemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService
+12-11 01:54:30.851  1463  3825 I bwww    : Using pair HTTP connection
+12-11 01:54:30.862  1463  3814 I aoxr    : [Upload] Connected
+12-11 01:54:30.871  1463  1463 E vuw     : onError
+12-11 01:54:30.871  1463  1463 E vuw     : avyw: errorCode: 65561, engine: 2
+12-11 01:54:30.871  1463  1463 E vuw     : 	at bwwy.a(PG:3)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at aoxn.ho(PG:1)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at ioyb.e(PG:2)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at axzh.d(PG:21)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at axzh.ja(PG:6)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at aoxo.c(PG:14)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at aoxp.run(PG:1)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at awly.run(PG:2)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at awoa.run(PG:1)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at awoa.run(PG:1)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at awmf.run(PG:5)
+12-11 01:54:30.871  1463  1463 E vuw     : Caused by: avyy: errorCode: 65586, engine: 2
+12-11 01:54:30.871  1463  1463 E vuw     : 	... 15 more
+12-11 01:54:30.871  1463  1463 E vuw     : Caused by: avyu: errorCode: 401, engine: 2
+12-11 01:54:30.871  1463  1463 E vuw     : 	at vut.a(PG:5)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at aoyk.hu(PG:2)
+12-11 01:54:30.871  1463  1463 E vuw     : 	at axzh.d(PG:15)
+12-11 01:54:30.871  1463  1463 E vuw     : 	... 12 more
+12-11 01:54:30.883  1463  1463 W vdi     : Failed to sync device settings.
+12-11 01:54:30.883  1463  1463 I vdi     : Retrying to sync device settings.
+12-11 01:54:34.577  1249  1412 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:54:34.711   396   436 W ServiceManager: Permission failure: android.permission.CAPTURE_BLACKOUT_CONTENT from uid=2000 pid=5417
+12-11 01:54:34.807   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:54:34.813  5417  5421 I Gralloc4: mapper 4.x is not supported
+12-11 01:54:34.966  1099  5422 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:34.997  1099  5244 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:35.076  1463  4309 W aoxv    : (REDACTED) [%s] response code: %d
+12-11 01:54:35.937  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015453.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:54:36.061  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015453.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:54:36.173  1099  5422 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:36.191  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:36.662  1249  1409 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:54:36.776  1099  5422 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:36.786  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:38.046   549  2017 I ActivityManager: Force stopping com.instagram.lite appid=10175 user=0: from pid 5453
+12-11 01:54:38.051   549  2017 I ActivityManager: Killing 4196:com.instagram.lite:fbns/u0a175 (adj 905): stop com.instagram.lite due to from pid 5453
+12-11 01:54:38.066   549  2017 I ActivityManager: Killing 4586:com.instagram.lite/u0a175 (adj 945): stop com.instagram.lite due to from pid 5453
+12-11 01:54:38.101   549   579 I libprocessgroup: Successfully killed process cgroup uid 10175 pid 4196 in 45ms
+12-11 01:54:38.144   332   332 I Zygote  : Process 4196 exited due to signal 9 (Killed)
+12-11 01:54:38.152   332   332 I Zygote  : Process 4586 exited due to signal 9 (Killed)
+12-11 01:54:38.152   549   579 I libprocessgroup: Successfully killed process cgroup uid 10175 pid 4586 in 0ms
+12-11 01:54:38.340   549   567 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity (has extras)} from uid 0
+12-11 01:54:38.431   549  1337 W ActivityManager: Unable to start service Intent { act=android.service.smartspace.SmartspaceService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSmartspaceService } U=0: not found
+12-11 01:54:38.432   549  1337 W RemoteSmartspaceService: could not bind to Intent { act=android.service.smartspace.SmartspaceService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSmartspaceService } using flags 67112961
+12-11 01:54:38.436   549   549 W ActivityManager: Unbind failed: could not find connection for android.app.LoadedApk$ServiceDispatcher$InnerConnection@e9345d
+12-11 01:54:41.214   549   558 I system_server: Background young concurrent copying GC freed 319899(20MB) AllocSpace objects, 71(3020KB) LOS objects, 47% free, 24MB/46MB, paused 13.221ms,339us total 127.481ms
+12-11 01:54:43.226  1415  1415 I GmsCoreXrpcWrapper: (REDACTED) Returning a channel provider with trafficStatsTag=%d trafficStatsUid=%d
+12-11 01:54:43.249  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:43.322  1099  1352 W GLSUser : [DeviceKeyStore] Cannot load key: Device key file not found.
+12-11 01:54:43.482  1099  1352 W GmsUrlRequestImpl: Content-Type header is overwritten.
+12-11 01:54:43.784  1099  1352 W GLSUser : [AppCertManager] Exception while requesting key: 
+12-11 01:54:43.784  1099  1352 W GLSUser : java.util.concurrent.ExecutionException: bpyn: Parse Proto Exception with response code 400
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at exkm.s(:com.google.android.gms@243433041@24.34.33 (190800-666809342):21)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at exkm.get(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at xft.b(:com.google.android.gms@243433041@24.34.33 (190800-666809342):513)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at xfr.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):70)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at xfr.fr(:com.google.android.gms@243433041@24.34.33 (190800-666809342):16)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at nqj.onTransact(:com.google.android.gms@243433041@24.34.33 (190800-666809342):97)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at android.os.Binder.transact(Binder.java:1064)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at bjtl.onTransact(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at android.os.Binder.transact(Binder.java:1064)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at bbdu.onTransact(:com.google.android.gms@243433041@24.34.33 (190800-666809342):148)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at android.os.Binder.execTransact(Binder.java:1143)
+12-11 01:54:43.784  1099  1352 W GLSUser : Caused by: bpyn: Parse Proto Exception with response code 400
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at bpzp.b(:com.google.android.gms@243433041@24.34.33 (190800-666809342):80)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at bqch.d(:com.google.android.gms@243433041@24.34.33 (190800-666809342):18)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at bqcv.onSucceeded(:com.google.android.gms@243433041@24.34.33 (190800-666809342):9)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at m.mr.onSucceeded(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):3)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at m.lp.run(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):25)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):76)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:54:43.784  1099  1352 W GLSUser : Caused by: fojs: Protocol message contained an invalid tag (zero).
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at fogo.k(:com.google.android.gms@243433041@24.34.33 (190800-666809342):43)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at fokr.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):368)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at fokr.i(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at foiw.x(:com.google.android.gms@243433041@24.34.33 (190800-666809342):25)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at foiq.g(:com.google.android.gms@243433041@24.34.33 (190800-666809342):3)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at fogk.e(:com.google.android.gms@243433041@24.34.33 (190800-666809342):1)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at fogk.d(:com.google.android.gms@243433041@24.34.33 (190800-666809342):3)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at fogk.p(:com.google.android.gms@243433041@24.34.33 (190800-666809342):1)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at bpzp.g(:com.google.android.gms@243433041@24.34.33 (190800-666809342):68)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	at bpzp.b(:com.google.android.gms@243433041@24.34.33 (190800-666809342):11)
+12-11 01:54:43.784  1099  1352 W GLSUser : 	... 10 more
+12-11 01:54:43.788  1099  1352 W GLSUser : [DeviceKeyStore] Cannot load key: Device key file not found.
+12-11 01:54:43.804  1415  2870 E ggxu    : *~*~*~ Previous channel {0} was garbage collected without being shut down! ~*~*~*
+12-11 01:54:43.804  1415  2870 E ggxu    :     Make sure to call shutdown()/shutdownNow()
+12-11 01:54:43.804  1415  2870 E ggxu    : java.lang.RuntimeException: ManagedChannel allocation site
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at ggxt.<init>(:com.google.android.gms@243433041@24.34.33 (190800-666809342):21)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at ggxu.<init>(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at ggxs.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):249)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at ggiy.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):5)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at faij.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):173)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at eqat.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):13)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at exoo.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):3)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at exnp.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):19)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at exoq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):5)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):76)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:54:43.804  1415  2870 E ggxu    : 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:54:44.392  1415  3769 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@164e894
+12-11 01:54:44.398  1415  4729 I NotificationsModuleTask: Registering accounts to Chime Failed & Rescheduled for later. [CONTEXT service_id=358 ]
+12-11 01:54:44.404  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:47.043   549   839 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:54:47.045   549   839 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:54:47.254   549   839 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:54:47.254   549   839 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:54:47.312   549   839 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:54:47.314   549   839 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:54:49.717  1249  2436 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:54:49.763   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:54:49.764  5504  5506 I Gralloc4: mapper 4.x is not supported
+12-11 01:54:49.854  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:49.864  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:50.553  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015509.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:54:50.636  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015509.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:54:50.736  1099  5507 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:50.755  1099  5508 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:51.063  1249  1412 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:54:51.392  1099  5507 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:51.401  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:53.236  1249  1412 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:54:53.255   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:54:53.255  5550  5554 I Gralloc4: mapper 4.x is not supported
+12-11 01:54:53.330  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:53.344  1099  5507 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:53.865  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015513.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:54:53.892  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015513.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:54:53.980  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:53.993  1099  5508 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:54.267  1249  1412 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:54:54.373  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:54.384  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:56.672  1249  1412 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:54:56.692   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:54:56.694  5593  5595 I Gralloc4: mapper 4.x is not supported
+12-11 01:54:56.822  1099  5508 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:56.841  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:57.473  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015516.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:54:57.537  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015516.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:54:57.648  1099  5508 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:57.661  1099  5507 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:58.006  1249  1412 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:54:58.132  1099  5508 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:54:58.146  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:54:59.695   549   606 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.instagram.lite/com.facebook.lite.MainActivity} from uid 2000
+12-11 01:54:59.716   549   606 W ActivityTaskManager: Can't find TaskDisplayArea to determine support for multi window. Task id=86 attached=false
+12-11 01:54:59.905   549   578 W ActivityManager: Slow operation: 56ms so far, now at startProcess: returned from zygote!
+12-11 01:54:59.906   549   578 W ActivityManager: Slow operation: 57ms so far, now at startProcess: done updating battery stats
+12-11 01:54:59.908   549   578 W ActivityManager: Slow operation: 59ms so far, now at startProcess: building log message
+12-11 01:54:59.909   549   578 I ActivityManager: Start proc 5627:com.instagram.lite/u0a175 for pre-top-activity {com.instagram.lite/com.facebook.lite.MainActivity}
+12-11 01:54:59.908  5627  5627 W .instagram.lit: Unexpected CPU variant for X86 using defaults: x86_64
+12-11 01:54:59.909   549   578 W ActivityManager: Slow operation: 60ms so far, now at startProcess: starting to update pids map
+12-11 01:54:59.909   549   578 W ActivityManager: Slow operation: 60ms so far, now at startProcess: done updating pids map
+12-11 01:54:59.919  1463  1463 I dolh    : onPause
+12-11 01:55:00.038  5627  5627 I ndk_translation: Initialized NDK translation (aarch64), version 0.2.3
+12-11 01:55:00.398   549   811 W ActivityManager: Unable to start service Intent { act=android.service.smartspace.SmartspaceService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSmartspaceService } U=0: not found
+12-11 01:55:00.398   549   811 W RemoteSmartspaceService: could not bind to Intent { act=android.service.smartspace.SmartspaceService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSmartspaceService } using flags 67112961
+12-11 01:55:00.433   549   549 W ActivityManager: Unbind failed: could not find connection for android.app.LoadedApk$ServiceDispatcher$InnerConnection@2e12c60
+12-11 01:55:00.545  1463  1463 I dodk    : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+12-11 01:55:00.576  1463  1463 I dodk    : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+12-11 01:55:01.471  5627  5627 E .instagram.lit: Not starting debugger since process cannot load the jdwp agent.
+12-11 01:55:01.670  5627  5627 W EarlyExceptionHandler: Early UncaughtException handler initialized
+12-11 01:55:01.696  5627  5627 W EarlyErrorReporting: Lacrima init done in EarlyErrorReporting for: com.instagram.lite
+12-11 01:55:01.696  5627  5657 W lacrima : LacrimaConfigBuilder.setUserIdActorId not called, using 0
+12-11 01:55:01.697  5627  5657 W lacrima : LacrimaConfigBuilder.setUserIdActingAccountId not called, using 0
+12-11 01:55:01.717  5627  5627 W SoLoader: Initializing SoLoader: 2
+12-11 01:55:01.719  5627  5627 W SoLoader: context.getApplicationContext returned null, holding reference to original context.ApplicationSoSource fallbacks to: /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/lib/arm64
+12-11 01:55:01.721  5627  5627 W SoLoader: Recording new base apk path: /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk
+12-11 01:55:01.721  5627  5627 W SoLoader: Previously recorded 0 base apk paths.
+12-11 01:55:01.728  5627  5627 W SoLoader: SoLoader initialized: 2
+12-11 01:55:01.763  5627  5627 W FbSoLoader: Initialized FBSoLoader
+12-11 01:55:01.897  5627  5657 W lacrima : Sending pending reports
+12-11 01:55:01.909  5627  5657 W EarlyErrorReporting: Lacrima init executor done in EarlyErrorReporting for: com.instagram.lite
+12-11 01:55:02.539  5627  5627 W v9p     : Failed AADLO
+12-11 01:55:02.596  5627  5627 W Verifier: Could not disable RTV
+12-11 01:55:02.607  5627  5627 W DexStoreUtils: Ignoring dex metadata pragma: .superpack_files 1
+12-11 01:55:02.677  5627  5666 W lacrima : Start AnrAppDeathDetector... X.02c
+12-11 01:55:02.685  5627  5666 W lacrima : Cannot find registered detector
+12-11 01:55:02.828  5627  5627 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:02.849  5627  5627 W .instagram.lit: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:03.162  5627  5627 W BackgroundStartupDetector: Attempted to check for a background start before initialization
+12-11 01:55:03.344  5627  5627 W ErrorReportingUtils: Lacrima init done in ErrorReportingUtils for: com.instagram.lite
+12-11 01:55:03.398  5627  5676 W PackageUtil: No appinfo found for com.facebook.orca
+12-11 01:55:03.400  5627  5676 W PackageUtil: No appinfo found for com.facebook.mlite
+12-11 01:55:03.401  5627  5676 W PackageUtil: No appinfo found for com.facebook.katana
+12-11 01:55:03.420  5627  5666 W lacrima : The minidump file is empty!
+12-11 01:55:03.423  5627  5666 W lacrima : Start AnrDetector... X.018
+12-11 01:55:03.423  5627  5666 W ProcessAnrErrorMonitor: startMonitoring with delay: 4000
+12-11 01:55:03.436  5627  5666 W ErrorReportingUtils: Lacrima later init done in ErrorReportingUtils for: com.instagram.lite
+12-11 01:55:03.465  5627  5668 W lacrima : FixedLengthFiles.init() called twice.
+12-11 01:55:03.465  5627  5668 W lacrima : FixedLengthFiles.init() called twice.
+12-11 01:55:03.521  5627  5675 W AppEventHub: font-cache-ready-but-not-connected
+12-11 01:55:03.585  5627  5627 W 0Jp     : Ignoring dex metadata pragma: .superpack_files 1
+12-11 01:55:03.587  5627  5627 W 0Jp     : Ignoring dex metadata pragma: .locator_id 8
+12-11 01:55:03.634  5627  5627 W 0Jp     : Ignoring dex metadata pragma: .superpack_files 1
+12-11 01:55:03.636  5627  5627 W 0Jp     : Ignoring dex metadata pragma: .locator_id 20
+12-11 01:55:03.639  5627  5627 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:03.662  5627  5627 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:03.671  5627  5627 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:03.684  5627  5627 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:03.685  5627  5627 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:03.892  5627  5627 W X.0Fe   : Creating default notification channel, id=other, name=Other
+12-11 01:55:04.328  5627  5687 W .instagram.lit: Verification of boolean X.0LW.A19(X.0Dw, java.lang.Integer, java.lang.String, int, int, boolean) took 342.443ms (75288.42 bytecodes/s) (725512B approximate peak alloc)
+12-11 01:55:04.440  5627  5687 W .instagram.lit: Verification of void X.0LW.ARO(X.0f3) took 103.642ms (78500.99 bytecodes/s) (201160B approximate peak alloc)
+12-11 01:55:05.015  1415  5702 I GmscoreIpa: Starting mediastore instant index [CONTEXT service_id=255 ]
+12-11 01:55:05.707   549   606 W ServiceManager: Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10175 pid=5627
+12-11 01:55:05.856  5627  5673 E AppModuleFallbackLoader: Same class failed twice X.4i3
+12-11 01:55:06.165  5627  5644 I .instagram.lit: Compiler allocated 8062KB to compile void com.facebook.lite.heroplayer.impl.LiteHeroServiceClient.bindHeroPlayerService(android.content.Context, X.1R7)
+12-11 01:55:06.267  2360  2360 I Finsky  : [2] afjz.onStartJob(127): SCH: job service start with id 9455.
+12-11 01:55:06.321  2360  5713 I Finsky  : [156] miz.a(213): SCH: Satisfied jobs for 9455 are: 12-1
+12-11 01:55:06.368  2360  5714 I Finsky  : [157] acdb.accept(98): SCH: Job 12-1 starting
+12-11 01:55:06.375  2360  2360 I Finsky  : [2] ContentSyncJob.h(9): [ContentSync] job started
+12-11 01:55:06.378  5627  5627 I Choreographer: Skipped 31 frames!  The application may be doing too much work on its main thread.
+12-11 01:55:06.393  1099  5423 W TapAndPay: NfcAdapter is null while obtaining CardEmulation instance. [CONTEXT service_id=79 ]
+12-11 01:55:06.393  1099  5423 W TapAndPay: java.lang.NullPointerException: NfcAdapter is null
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at android.nfc.cardemulation.CardEmulation.getInstance(CardEmulation.java:150)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at dkmu.<init>(:com.google.android.gms@243433041@24.34.33 (190800-666809342):15)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at com.google.android.gms.tapandpay.hce.task.TapAndPayAidRegistrationTaskOperation.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskChimeraService.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):32)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at bqfr.call(:com.google.android.gms@243433041@24.34.33 (190800-666809342):32)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):76)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:55:06.393  1099  5423 W TapAndPay: 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:55:06.416  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:06.428  1099  1108 I .gms.persisten: Background young concurrent copying GC freed 148350(8640KB) AllocSpace objects, 0(0B) LOS objects, 22% free, 27MB/35MB, paused 6.186ms,415us total 114.143ms
+12-11 01:55:06.461  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:06.477   396   529 W ServiceManager: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10175 pid=5627
+12-11 01:55:06.479   396   529 W ServiceManager: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10175 pid=5627
+12-11 01:55:06.670   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+12-11 01:55:06.675  5627  5692 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-11 01:55:06.678  5627  5692 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+12-11 01:55:07.020  2360  5715 I Finsky  : [158] mqv.f(36): Completed 0 account content syncs with 0 successful.
+12-11 01:55:07.032   396   529 E HWComposer: getSupportedContentTypes: getSupportedContentTypes failed for display 4619827259835644672: Unsupported (8)
+12-11 01:55:07.037  2360  2360 I Finsky  : [2] ContentSyncJob.a(12): [ContentSync] Installation state replication succeeded.
+12-11 01:55:07.040  2360  2360 I Finsky  : [2] afih.q(56): SCH: jobFinished: 12-1. TimeElapsed: 666ms.
+12-11 01:55:07.052   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:55:07.053  5627  5692 I Gralloc4: mapper 4.x is not supported
+12-11 01:55:07.095  5627  5645 I .instagram.lit: Background concurrent copying GC freed 64711(4868KB) AllocSpace objects, 18(484KB) LOS objects, 49% free, 5816KB/11MB, paused 16.276ms,2.734ms total 678.575ms
+12-11 01:55:07.106  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:07.112  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:07.116  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:07.125   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+12-11 01:55:07.126  5627  5692 W Gralloc4: allocator 4.x is not supported
+12-11 01:55:07.139  2360  2707 I Finsky  : [59] qwh.accept(58): SCH: Scheduling phonesky job Id: 1-1337, CT: 1733836240977, Constraints: [{ L: 43138062, D: 86338062, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY }]
+12-11 01:55:07.168  2360  2672 I Finsky  : [53] mja.apply(252): SCH: Scheduling 1 system job(s)
+12-11 01:55:07.169  2360  2672 I Finsky  : [53] afie.b(244): SCH: Scheduling system job Id: 9461, L: 17071871, D: 60271871, C: false, I: false, N: 1
+12-11 01:55:07.205  2360  5714 I Finsky  : [157] afjz.a(24): SCH: job service finished with id 9455.
+12-11 01:55:07.250  5627  5650 I OpenGLRenderer: Davey! duration=1383ms; Flags=1, FrameTimelineVsyncId=5609, IntendedVsync=283052339042, Vsync=283569005688, InputEventId=0, HandleInputStart=283575060800, AnimationStart=283575126600, PerformTraversalsStart=283575222300, DrawStart=284347385600, FrameDeadline=283069005708, FrameInterval=283572287500, FrameStartTime=16666666, SyncQueued=284347965000, SyncStart=284351134200, IssueDrawCommandsStart=284379532100, SwapBuffers=284425582600, FrameCompleted=284438610200, DequeueBufferDuration=102800, QueueBufferDuration=3942100, GpuCompleted=284435412500, SwapBuffersCompleted=284438610200, DisplayPresentTime=0, 
+12-11 01:55:07.310   549   566 W system_server: Failed to determine oat file name for dex location /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk: Dalvik cache directory does not exist
+12-11 01:55:07.333   549   566 I ActivityTaskManager: Displayed com.instagram.lite/com.facebook.lite.MainActivity: +7s587ms
+12-11 01:55:07.508  5627  5677 W ProcessAnrErrorMonitor: Starting process monitor checks for process 'com.instagram.lite'
+12-11 01:55:07.673  5627  5724 W .instagram.lit: Verification of java.lang.Object X.0l8.A00() took 132.743ms (9959.04 bytecodes/s) (32600B approximate peak alloc)
+12-11 01:55:07.741   549  2018 W InputManager-JNI: Input channel object '119556 Splash Screen com.instagram.lite (client)' was disposed without first being removed with the input manager!
+12-11 01:55:07.852  1463  1463 I dolh    : onStop
+12-11 01:55:07.979   396   396 W SurfaceFlinger: couldn't log to binary event log: overflow.
+12-11 01:55:07.994   396   396 W SurfaceFlinger: couldn't log to binary event log: overflow.
+12-11 01:55:07.999   549   549 W Looper  : Slow dispatch took 120ms main h=com.android.server.job.controllers.QuotaController$QcHandler c=null m=3
+12-11 01:55:08.203   549  2018 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:08.208   549  2018 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:08.661   364   364 E android.hardware.power.stats@1.0-service-mock: Failed to getEnergyData
+12-11 01:55:08.827   549  1624 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:08.829   549  1624 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:08.927   549  2018 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:08.932   549  2018 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:11.335   549   558 I system_server: Background young concurrent copying GC freed 304396(21MB) AllocSpace objects, 44(1196KB) LOS objects, 45% free, 25MB/46MB, paused 3.795ms,300us total 251.199ms
+12-11 01:55:11.447   549   560 W System  : A resource failed to call release. 
+12-11 01:55:11.691  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:11.694  1415  4729 I TelephonySpamChimeraSer: Running Telephony Spam Chimera Service [CONTEXT service_id=150 ]
+12-11 01:55:11.711  1415  4729 I TelephonySpamChimeraSer: Cleaning SIP Header local table of old entries [CONTEXT service_id=150 ]
+12-11 01:55:11.711  1415  4729 I SpamListSync: Call spam module disabled. Skipping cleaning cache sip header table. [CONTEXT service_id=150 ]
+12-11 01:55:11.712  1415  4729 I TelephonySpamChimeraSer: Syncing Call Spam List [CONTEXT service_id=150 ]
+12-11 01:55:11.712  1415  4729 I SpamListSync: (REDACTED) SpamListSyncChimeraService.syncSpamList called with tag: %s, extras: %s
+12-11 01:55:11.712  1415  4729 I SpamListSync: Call spam module disabled. Skipping spam list syncing. [CONTEXT service_id=150 ]
+12-11 01:55:11.735  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:11.761  1249  1412 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:55:11.805   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:55:11.806  5762  5766 I Gralloc4: mapper 4.x is not supported
+12-11 01:55:12.211  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:12.236  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:12.311  5627  5688 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#1] Early data: on
+12-11 01:55:12.311  5627  5689 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#0] Early data: on
+12-11 01:55:12.500  5627  5688 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#1] Fizz-client connecting...
+12-11 01:55:12.504  5627  5689 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#0] Fizz-client connecting...
+12-11 01:55:12.534  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015531.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:55:12.566  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015531.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:55:12.715  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:12.742  1099  5767 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:13.180  1249  1412 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:55:13.374  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:13.415  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:15.620  5627  5689 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#0] Fizz-client connected.
+12-11 01:55:15.620  5627  5688 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#1] Fizz-client connected.
+12-11 01:55:16.131  5627  5743 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzReadCallback.cpp: [#1] EOF - no more data available (fizz-socket closed).
+12-11 01:55:16.659  1249  2436 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:55:16.677   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:55:16.681  5809  5811 I Gralloc4: mapper 4.x is not supported
+12-11 01:55:17.114  1099  5508 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:17.166  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:17.388  5627  5744 E fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#0] 0rtt: Accepted
+12-11 01:55:17.495  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015536.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:55:17.527  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015536.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:55:17.712  1099  5508 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:17.734  1099  5776 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:17.739  1099  1108 I .gms.persisten: Background young concurrent copying GC freed 123602(7344KB) AllocSpace objects, 0(0B) LOS objects, 21% free, 27MB/35MB, paused 5.155ms,268us total 67.846ms
+12-11 01:55:17.780  5627  5673 W ErrorReporter: ErrorReportingDiagnosticData.setInstance already set.
+12-11 01:55:17.858  5627  5824 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#2] Early data: on
+12-11 01:55:17.899  5627  5824 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#2] Fizz-client connecting...
+12-11 01:55:17.952  5627  5824 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#2] Fizz-client connected.
+12-11 01:55:18.032  5627  5837 E fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#2] 0rtt: Accepted
+12-11 01:55:18.166  1249  2436 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:55:18.221  5627  5673 W LastMsysLogins: Relogin - handleSessionMessage  uid: null hash null
+12-11 01:55:18.287  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:18.303  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:18.325  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:18.345  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:18.366  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:18.386  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:18.411  1099  5423 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:18.447  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:18.468  5627  5645 I .instagram.lit: Background young concurrent copying GC freed 85027(3811KB) AllocSpace objects, 6(184KB) LOS objects, 33% free, 7751KB/11MB, paused 5.094ms,414us total 130.374ms
+12-11 01:55:18.474  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:18.572  1257  1727 I bake    : (REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s
+12-11 01:55:19.007  5627  5673 W .instagram.lit: Accessing hidden method Landroid/os/PowerWhitelistManager;->isWhitelisted(Ljava/lang/String;Z)Z (blocked, linking, denied)
+12-11 01:55:19.055  5627  5673 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+12-11 01:55:19.065  5627  5673 E ActionQueryTaskListener: 0 onTaskStart BACKGROUND modules: [rtc,s_fizz_msys(*),msysinfra(*),s_mediastreaming_rtc(*),s_msys_rtc(*),s_mediastreaming_msys_rtc(*),fizz(*),shared_fizz_ms_profilo(*),s_inappbrowser_rtc(*)]
+12-11 01:55:19.086  5627  5856 E ActionQueryTaskListener: 0 onLoadBatchStart BACKGROUND modules: [rtc,s_fizz_msys(*),msysinfra(*),s_mediastreaming_rtc(*),s_msys_rtc(*),s_mediastreaming_msys_rtc(*),fizz(*),shared_fizz_ms_profilo(*),s_inappbrowser_rtc(*)]
+12-11 01:55:19.118  5627  5856 W 0Jp     : Ignoring dex metadata pragma: .superpack_files 1
+12-11 01:55:19.120  5627  5856 W 0Jp     : Ignoring dex metadata pragma: .locator_id 17
+12-11 01:55:19.143  5627  5856 W 0Jp     : Ignoring dex metadata pragma: .superpack_files 1
+12-11 01:55:19.143  5627  5856 W 0Jp     : Ignoring dex metadata pragma: .locator_id 15
+12-11 01:55:19.165  5627  5856 W 0Jp     : Ignoring dex metadata pragma: .locator_id 18
+12-11 01:55:19.192  5627  5856 W 0Jp     : Ignoring dex metadata pragma: .locator_id 19
+12-11 01:55:19.195  5627  5856 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:19.358  5627  5856 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:19.392  5627  5856 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:19.398  5627  5856 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:19.444  5627  5856 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:19.470  5627  5856 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:19.479  5627  5673 W .instagram.lit: Verification of java.lang.Object X.1dd.A7j(X.162, X.0zI, java.lang.String) took 133.532ms (213117.45 bytecodes/s) (559280B approximate peak alloc)
+12-11 01:55:19.491  5627  5856 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:19.505  5627  5856 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:19.526  5627  5856 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:19.556  5627  5856 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:19.596  5627  5856 E ActionQueryTaskListener: 0 onLoadBatchComplete exception: null BACKGROUND modules: [rtc,s_fizz_msys(*),msysinfra(*),s_mediastreaming_rtc(*),s_msys_rtc(*),s_mediastreaming_msys_rtc(*),fizz(*),shared_fizz_ms_profilo(*),s_inappbrowser_rtc(*)]
+12-11 01:55:19.606  5627  5859 E ActionQueryTaskListener: 0 onTaskComplete [true,false,] BACKGROUND modules: [rtc,s_fizz_msys(*),msysinfra(*),s_mediastreaming_rtc(*),s_msys_rtc(*),s_mediastreaming_msys_rtc(*),fizz(*),shared_fizz_ms_profilo(*),s_inappbrowser_rtc(*)]
+12-11 01:55:19.755  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:19.901  5627  5644 I .instagram.lit: Compiler allocated 8308KB to compile void X.0au.A04(X.0aJ, X.0Dw, int, boolean)
+12-11 01:55:20.185   549  2005 I ActivityTaskManager: START u0 {act=android.content.pm.action.REQUEST_PERMISSIONS pkg=com.google.android.permissioncontroller cmp=com.google.android.permissioncontroller/com.android.permissioncontroller.permission.ui.GrantPermissionsActivity (has extras)} from uid 10175
+12-11 01:55:20.275  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:55:20.290  5627  5645 I .instagram.lit: Background young concurrent copying GC freed 35852(2226KB) AllocSpace objects, 11(216KB) LOS objects, 13% free, 10101KB/11MB, paused 1.650ms,703us total 188.926ms
+12-11 01:55:20.295  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:20.296  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:20.301  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:20.301  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:20.304  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:20.304  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:20.674  5627  5645 I .instagram.lit: Background concurrent copying GC freed 62584(3088KB) AllocSpace objects, 38(1892KB) LOS objects, 49% free, 15MB/31MB, paused 3.272ms,758us total 257.847ms
+12-11 01:55:20.770   549   569 W ActivityTaskManager: Activity top resumed state loss timeout for ActivityRecord{f4c3d18 u0 com.instagram.lite/com.facebook.lite.MainActivity t86}
+12-11 01:55:20.771   549   569 W ActivityTaskManager: Activity pause timeout for ActivityRecord{f4c3d18 u0 com.instagram.lite/com.facebook.lite.MainActivity t86}
+12-11 01:55:21.636   396   529 W ServiceManager: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10143 pid=853
+12-11 01:55:21.644  5627  5857 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:21.646   396   529 W ServiceManager: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10143 pid=853
+12-11 01:55:21.655  5627  5650 I OpenGLRenderer: Davey! duration=1563ms; Flags=0, FrameTimelineVsyncId=6029, IntendedVsync=297269005140, Vsync=297319005138, InputEventId=0, HandleInputStart=297319232200, AnimationStart=297319480300, PerformTraversalsStart=297319599200, DrawStart=298289101200, FrameDeadline=297285671806, FrameInterval=297319173800, FrameStartTime=16666666, SyncQueued=298371722500, SyncStart=298374659200, IssueDrawCommandsStart=298390820500, SwapBuffers=298827282700, FrameCompleted=298835656700, DequeueBufferDuration=93600, QueueBufferDuration=4016400, GpuCompleted=298831852500, SwapBuffersCompleted=298835656700, DisplayPresentTime=0, 
+12-11 01:55:21.936  5627  5859 E ActionQueryTaskListener: 1 onTaskStart FALLBACK_DOWNLOAD modules: [rtc,s_fizz_msys,msysinfra,s_mediastreaming_rtc,s_msys_rtc,s_mediastreaming_msys_rtc,mnshttp,fizz,shared_fizz_ms_profilo,s_mnshttp_msys,s_inappbrowser_rtc]
+12-11 01:55:21.950  5627  5704 W .instagram.lit: Verification of void X.0x9.run() took 100.873ms (931.86 bytecodes/s) (3472B approximate peak alloc)
+12-11 01:55:21.951  5627  5859 E ActionQueryTaskListener: 2 onTaskStart FALLBACK_DOWNLOAD modules: []
+12-11 01:55:21.953  5627  5905 E ActionQueryTaskListener: 1 onTaskComplete [true,false,] FALLBACK_DOWNLOAD modules: [rtc,s_fizz_msys,msysinfra,s_mediastreaming_rtc,s_msys_rtc,s_mediastreaming_msys_rtc,mnshttp,fizz,shared_fizz_ms_profilo,s_mnshttp_msys,s_inappbrowser_rtc]
+12-11 01:55:21.956  5627  5859 E ActionQueryTaskListener: 2 onTaskComplete [true,false,] FALLBACK_DOWNLOAD modules: []
+12-11 01:55:21.972  5627  5857 W .instagram.lit: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:21.983  5627  5857 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:22.000   549   566 I ActivityTaskManager: Displayed com.google.android.permissioncontroller/com.android.permissioncontroller.permission.ui.GrantPermissionsActivity: +1s777ms
+12-11 01:55:22.154  5627  5857 W .instagram.lit: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:22.155  5627  5857 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:22.444  5627  5857 W .instagram.lit: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:22.482   549  5913 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-11 01:55:22.483   549  5913 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+12-11 01:55:22.497  5627  5857 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:22.502  5627  5891 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:55:22.539  5627  5891 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:55:22.569  5627  5857 W .instagram.lit: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:22.735  5627  5704 E ActionQueryTaskListener: 3 onTaskStart BACKGROUND modules: [mnshttp,shared_fizz_ms_profilo(*),s_mnshttp_msys(*)]
+12-11 01:55:22.744  5627  5908 E ActionQueryTaskListener: 3 onLoadBatchStart BACKGROUND modules: [mnshttp,shared_fizz_ms_profilo(*),s_mnshttp_msys(*)]
+12-11 01:55:22.834   549  1624 W InputManager-JNI: Input channel object '3309c1 com.google.android.permissioncontroller/com.android.permissioncontroller.permission.ui.GrantPermissionsActivity (client)' was disposed without first being removed with the input manager!
+12-11 01:55:22.839  5627  5704 W ComponentDiscovery: Class com.google.firebase.dynamicloading.DynamicLoadingRegistrar is not an found.
+12-11 01:55:22.870  5627  5908 W 0Jp     : Ignoring dex metadata pragma: .superpack_files 1
+12-11 01:55:22.870  5627  5908 W 0Jp     : Ignoring dex metadata pragma: .locator_id 13
+12-11 01:55:22.913  5627  5908 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:22.957  5627  5908 W .instagram.lit: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:22.966  5627  5908 W FbSoLoader: FBSoLoader already initialiazed
+12-11 01:55:23.017  5627  5908 E ActionQueryTaskListener: 3 onLoadBatchComplete exception: null BACKGROUND modules: [mnshttp,shared_fizz_ms_profilo(*),s_mnshttp_msys(*)]
+12-11 01:55:23.085  5627  5857 E ActionQueryTaskListener: 3 onTaskComplete [true,false,] BACKGROUND modules: [mnshttp,shared_fizz_ms_profilo(*),s_mnshttp_msys(*)]
+12-11 01:55:23.148   720   729 I ndroid.systemu: NativeAlloc concurrent copying GC freed 196278(12MB) AllocSpace objects, 58(1348KB) LOS objects, 49% free, 9793KB/19MB, paused 1.636ms,267us total 731.643ms
+12-11 01:55:23.212   720   733 W System  : A resource failed to call close. 
+12-11 01:55:23.216  5627  5891 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:55:23.642  5627  5922 I Codec2Client: Available Codec2 services: "default" "software"
+12-11 01:55:23.691  5627  5922 I CCodec  : setting up 'default' as default (vendor) store
+12-11 01:55:23.986  5627  5922 I CCodec  : Created component [c2.android.aac.decoder]
+12-11 01:55:24.021  5627  5627 I Choreographer: Skipped 166 frames!  The application may be doing too much work on its main thread.
+12-11 01:55:24.055  5627  5922 I CCodecConfig: query failed after returning 19 values (BAD_INDEX)
+12-11 01:55:24.074  5627  5650 I OpenGLRenderer: Davey! duration=2813ms; Flags=0, FrameTimelineVsyncId=6043, IntendedVsync=298435671760, Vsync=301202338316, InputEventId=0, HandleInputStart=301216958000, AnimationStart=301217040200, PerformTraversalsStart=301223362300, DrawStart=301229322000, FrameDeadline=298469005092, FrameInterval=301215942900, FrameStartTime=16666666, SyncQueued=301231181100, SyncStart=301234589100, IssueDrawCommandsStart=301234953400, SwapBuffers=301241532600, FrameCompleted=301252098900, DequeueBufferDuration=114700, QueueBufferDuration=4274800, GpuCompleted=301249674300, SwapBuffersCompleted=301252098900, DisplayPresentTime=0, 
+12-11 01:55:24.105  5627  5922 W Codec2Client: query -- param skipped: index = 1107298332.
+12-11 01:55:24.109  5627  5922 I CCodecConfig: query failed after returning 19 values (BAD_INDEX)
+12-11 01:55:24.116  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#3] Early data: on
+12-11 01:55:24.117  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#3] Fizz-client connecting...
+12-11 01:55:24.143  5627  5922 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:55:24.144  5627  5922 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:55:24.148  5627  5922 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:55:24.181  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#3] Fizz-client connected.
+12-11 01:55:24.191  5627  5922 I CCodecBufferChannel: [c2.android.aac.decoder#11] Created output block pool with allocatorID 16 => poolID 26 - OK
+12-11 01:55:24.228  5627  5936 E fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#3] 0rtt: Accepted
+12-11 01:55:24.269  5627  5922 I DMABUFHEAPS: Using DMA-BUF heap named: system
+12-11 01:55:24.329   486  5935 I C2SoftAacDec: Reconfiguring decoder: 0->44100 Hz, 0->2 channels
+12-11 01:55:24.444  5627  5922 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-11 01:55:24.445   486   503 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-11 01:55:24.468   549  1633 W ServiceManager: Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10175 pid=5627
+12-11 01:55:24.489   549  1624 W ServiceManager: Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10175 pid=5627
+12-11 01:55:24.518  5627  5945 I CCodec  : setting up 'default' as default (vendor) store
+12-11 01:55:24.519   356   766 I GoldfishComponentStore: in init
+12-11 01:55:24.519   356   766 I GoldfishComponentStore: loading dll of path libcodec2_goldfish_avcdec.so
+12-11 01:55:24.530   356   766 I GoldfishComponentStore: Create()
+12-11 01:55:24.572   356   766 I GoldfishComponentStore: created interface
+12-11 01:55:24.580   356   766 I GoldfishComponentStore: created component
+12-11 01:55:24.601  5627  5945 I CCodec  : Created component [c2.goldfish.h264.decoder]
+12-11 01:55:24.651   549   569 I ActivityManager: PendingStartActivityUids startActivity to updateOomAdj delay:2209ms, uid:10175
+12-11 01:55:24.663  5627  5945 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:55:24.664  5627  5945 W ColorUtils: expected specified color aspects (2:0:0:0)
+12-11 01:55:24.686  5627  5944 I MediaCodec: [c2.goldfish.h264.decoder] setting surface generation to 5762049
+12-11 01:55:24.694  5627  5945 W Codec2Client: query -- param skipped: index = 1107298332.
+12-11 01:55:24.694  5627  5945 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+12-11 01:55:24.695  5627  5945 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:55:24.708  5627  5945 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:55:24.708  5627  5945 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:55:24.708  5627  5945 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:55:24.714  5627  5945 W Codec2Client: query -- param skipped: index = 2684356609.
+12-11 01:55:24.794  5627  5945 I CCodecBufferChannel: [c2.goldfish.h264.decoder#287] Created output block pool with allocatorID 18 => poolID 17 - OK
+12-11 01:55:24.846  5627  5823 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#4] Early data: on
+12-11 01:55:24.846  5627  5823 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#4] Fizz-client connecting...
+12-11 01:55:24.856  5627  5931 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#5] Early data: on
+12-11 01:55:24.856  5627  5931 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#5] Fizz-client connecting...
+12-11 01:55:24.979   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:55:24.979   356   766 I Gralloc4: mapper 4.x is not supported
+12-11 01:55:24.999   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:55:25.000   356   766 I Gralloc4: mapper 4.x is not supported
+12-11 01:55:25.029   477  2030 W ResourceManagerService: Ignoring request to add new resource entry with value <= 0
+12-11 01:55:25.129   549   578 W ActivityManager: Slow operation: 58ms so far, now at startProcess: returned from zygote!
+12-11 01:55:25.129   549   578 W ActivityManager: Slow operation: 58ms so far, now at startProcess: done updating battery stats
+12-11 01:55:25.130   549   578 W ActivityManager: Slow operation: 59ms so far, now at startProcess: building log message
+12-11 01:55:25.152   549   578 I ActivityManager: Start proc 5954:com.instagram.lite:fbns/u0a175 for service {com.instagram.lite/com.facebook.rti.push.service.FbnsService}
+12-11 01:55:25.152   549   578 W ActivityManager: Slow operation: 81ms so far, now at startProcess: starting to update pids map
+12-11 01:55:25.153   549   578 W ActivityManager: Slow operation: 82ms so far, now at startProcess: done updating pids map
+12-11 01:55:25.155  5627  5706 W com.facebook.lite.deviceid.FbLitePhoneIdStore: get Phone ID: 34d90a46-d44e-47f4-b744-95dcee9eabc7 : 1733817561040 : com.instagram.lite
+12-11 01:55:25.186  5954  5954 W agram.lite:fbn: Unexpected CPU variant for X86 using defaults: x86_64
+12-11 01:55:25.274  5954  5954 I ndk_translation: Initialized NDK translation (aarch64), version 0.2.3
+12-11 01:55:25.351   356  5946 I android.hardware.media.c2@1.0-service-goldfish: successfully allocated 33558528 bytes in goldfish_address_block
+12-11 01:55:25.352   356  5946 I android.hardware.media.c2@1.0-service-goldfish: guest address is 0x7f4be6a4a000
+12-11 01:55:25.352   356  5946 I android.hardware.media.c2@1.0-service-goldfish: successfully pinged host to allocate memory
+12-11 01:55:26.301  5627  5944 W MediaCodec: mapFormat: no mediaType information
+12-11 01:55:26.405  4916  4951 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_STATUS_SMS_TIME_OUT
+12-11 01:55:26.406  4916  4916 I Dialer  : RetryPolicy - discarding deferred status: configuration_state=4
+12-11 01:55:26.408  4916  4916 I Dialer  : VvmTaskExecutor - no more tasks, stopping service if no task are added in 5000 millis
+12-11 01:55:26.417  4916  4916 I Dialer  : VvmTaskReceiver - task received
+12-11 01:55:26.417  4916  4916 I Dialer  : VvmTaskReceiver - TaskExecutor already running
+12-11 01:55:26.417  4916  4916 I Dialer  : Task.createTask - create task:com.android.voicemail.impl.ActivationTask
+12-11 01:55:26.418  4916  4916 I Dialer  : RetryPolicy - retry #2 for com.android.voicemail.impl.ActivationTask@891fdc6 queued, executing in 5000
+12-11 01:55:26.418  4916  4916 I Dialer  : VvmTaskExecutor - com.android.voicemail.impl.ActivationTask@891fdc6 added
+12-11 01:55:26.419  4916  4916 I Dialer  : VvmTaskExecutor - minimal wait time:5000
+12-11 01:55:26.419  4916  4916 I Dialer  : VvmTaskExecutor - sleep for 5000 millis
+12-11 01:55:27.069  5954  5954 E agram.lite:fbn: Not starting debugger since process cannot load the jdwp agent.
+12-11 01:55:27.237   549  1624 W ActivityManager: Slow operation: 69ms so far, now at attachApplicationLocked: immediately before bindApplication
+12-11 01:55:27.238   549  1624 W ActivityManager: Slow operation: 69ms so far, now at attachApplicationLocked: immediately after bindApplication
+12-11 01:55:27.238   549  1624 W ActivityManager: Slow operation: 70ms so far, now at attachApplicationLocked: after updateLruProcessLocked
+12-11 01:55:27.244   549  1624 W ActivityManager: Slow operation: 76ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
+12-11 01:55:27.466  5954  5954 W EarlyExceptionHandler: Early UncaughtException handler initialized
+12-11 01:55:27.539  5954  5954 W EarlyErrorReporting: Lacrima init done in EarlyErrorReporting for: com.instagram.lite:fbns
+12-11 01:55:27.540  5954  5992 W lacrima : LacrimaConfigBuilder.setUserIdActorId not called, using 0
+12-11 01:55:27.540  5954  5992 W lacrima : LacrimaConfigBuilder.setUserIdActingAccountId not called, using 0
+12-11 01:55:27.559  5954  5954 W SoLoader: Initializing SoLoader: 2
+12-11 01:55:27.560  5954  5954 W SoLoader: context.getApplicationContext returned null, holding reference to original context.ApplicationSoSource fallbacks to: /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/lib/arm64
+12-11 01:55:27.563  5954  5954 W SoLoader: Recording new base apk path: /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk
+12-11 01:55:27.563  5954  5954 W SoLoader: Previously recorded 0 base apk paths.
+12-11 01:55:27.578  5954  5954 W SoLoader: SoLoader initialized: 2
+12-11 01:55:27.610  5954  5954 W FbSoLoader: Initialized FBSoLoader
+12-11 01:55:27.756  5954  5992 W lacrima : Sending pending reports
+12-11 01:55:27.901  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#6] Early data: on
+12-11 01:55:27.901  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#6] Fizz-client connecting...
+12-11 01:55:27.920  5954  5992 W EarlyErrorReporting: Lacrima init executor done in EarlyErrorReporting for: com.instagram.lite:fbns
+12-11 01:55:28.155  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#6] Fizz-client connected.
+12-11 01:55:28.172  5627  6002 E fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#6] 0rtt: Accepted
+12-11 01:55:28.351   549   811 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:28.371   549   811 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:28.746   549  2017 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:28.752   549  2017 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:28.841  1249  1409 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:55:28.894   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:55:28.897  6008  6019 I Gralloc4: mapper 4.x is not supported
+12-11 01:55:29.013   549   811 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:29.015   549   811 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:29.469  1099  6024 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:29.501  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:29.468  5954  5954 W v9p     : Failed AADLO
+12-11 01:55:29.549  5954  5954 W Verifier: Could not disable RTV
+12-11 01:55:29.584  5954  5954 W DexStoreUtils: Ignoring dex metadata pragma: .superpack_files 1
+12-11 01:55:29.781  5954  5994 W lacrima : Start AnrAppDeathDetector... X.02c
+12-11 01:55:29.808  5954  5994 W lacrima : Cannot find registered detector
+12-11 01:55:29.866  5627  5645 I .instagram.lit: ThreadFlipBegin blocked for 824.783ms
+12-11 01:55:29.910  5627  6018 I .instagram.lit: IncrementDisableThreadFlip blocked for 583.059ms
+12-11 01:55:29.912  5627  6014 I .instagram.lit: IncrementDisableThreadFlip blocked for 330.158ms
+12-11 01:55:29.914  5627  6017 I .instagram.lit: IncrementDisableThreadFlip blocked for 54.423ms
+12-11 01:55:29.916  5627  5824 I .instagram.lit: IncrementDisableThreadFlip blocked for 438.294ms
+12-11 01:55:29.947  5627  6015 I .instagram.lit: IncrementDisableThreadFlip blocked for 188.456ms
+12-11 01:55:29.968  5954  5954 W agram.lite:fbn: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:30.001  5954  5954 W agram.lite:fbn: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:30.494  5954  5954 W BackgroundStartupDetector: Attempted to check for a background start before initialization
+12-11 01:55:30.524  5954  5954 W ErrorReportingUtils: Lacrima init done in ErrorReportingUtils for: com.instagram.lite:fbns
+12-11 01:55:30.604  5954  6042 W agram.lite:fbn: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:30.630  5954  5994 W lacrima : The minidump file is empty!
+12-11 01:55:30.636  5954  5994 W lacrima : Start AnrDetector... X.018
+12-11 01:55:30.636  5954  5994 W ProcessAnrErrorMonitor: startMonitoring with delay: 4000
+12-11 01:55:30.658  5954  5994 W ErrorReportingUtils: Lacrima later init done in ErrorReportingUtils for: com.instagram.lite:fbns
+12-11 01:55:30.680  5954  5954 W InitStatus: Not blocking Service (152383187)
+12-11 01:55:30.724  5954  6042 W agram.lite:fbn: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:30.725  5954  6042 W agram.lite:fbn: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:30.772  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#7] Early data: on
+12-11 01:55:30.773  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#7] Fizz-client connecting...
+12-11 01:55:30.793  5954  6006 W lacrima : FixedLengthFiles.init() called twice.
+12-11 01:55:30.793  5954  6006 W lacrima : FixedLengthFiles.init() called twice.
+12-11 01:55:30.810  5954  5954 W InitStatus: Not blocking Service (152383187)
+12-11 01:55:30.880  5954  5954 W InitStatus: Not blocking Service (152383187)
+12-11 01:55:30.883  5954  6042 W agram.lite:fbn: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:30.883  5954  6042 W agram.lite:fbn: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:31.024  5954  6042 W agram.lite:fbn: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:31.026  5954  6042 W agram.lite:fbn: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+12-11 01:55:31.143  5627  6017 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#8] Early data: on
+12-11 01:55:31.148  5627  6017 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#8] Fizz-client connecting...
+12-11 01:55:31.160  5954  6042 W agram.lite:fbn: DexFile /data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/base.apk is in boot class path but is not in a known location
+12-11 01:55:31.460  4916  4951 I Dialer  : VvmTaskExecutor - executing task com.android.voicemail.impl.ActivationTask@891fdc6
+12-11 01:55:31.461  4916  4951 I Dialer  : PreOMigrationHandler - ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, ***, UserHandle{0} already migrated
+12-11 01:55:31.643   356  5946 W SimpleC2Component: unknown frame index: 108
+12-11 01:55:31.658  5627  5944 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:55:31.671  5627  5944 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:55:31.671  5627  5944 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:55:31.671  5627  5944 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:55:32.471  3950  3962 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+12-11 01:55:32.474  5954  6039 W agram.lite:fbn: Verification of java.lang.Class X.0Ma.AG4() took 304.606ms (9.85 bytecodes/s) (1320B approximate peak alloc)
+12-11 01:55:32.483  4916  4951 I Dialer  : VvmActivationTask - VVM content provider configured - vvm_type_cvvm
+12-11 01:55:32.483  4916  4951 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_ACTIVATING
+12-11 01:55:32.583  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015548.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:55:32.602  3950  3962 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+12-11 01:55:32.604  5954  5974 W agram.lite:fbn: Suspending all threads took: 168.011ms
+12-11 01:55:32.613  5954  5954 W agram.lite:fbn: Verification of void X.3UA.A02(X.3UA) took 265.696ms (229.59 bytecodes/s) (2768B approximate peak alloc)
+12-11 01:55:32.629  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015548.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:55:33.134  5954  5974 W agram.lite:fbn: Suspending all threads took: 120.902ms
+12-11 01:55:33.177  5954  6039 W agram.lite:fbn: Verification of void X.0N8.AR5(X.0Nt) took 117.639ms (68.00 bytecodes/s) (1480B approximate peak alloc)
+12-11 01:55:33.429  5954  5954 W InitStatus: Not blocking Service (152383187)
+12-11 01:55:33.533  1099  6026 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:33.570  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:33.623  1249  2436 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:55:33.937  5954  5954 W InitStatus: Not blocking Service (152383187)
+12-11 01:55:34.140  5954  5954 W InitStatus: Not blocking Service (152383187)
+12-11 01:55:34.205  5627  5645 W .instagram.lit: Suspending all threads took: 38.823ms
+12-11 01:55:34.652  5954  6043 W ProcessAnrErrorMonitor: Starting process monitor checks for process 'com.instagram.lite:fbns'
+12-11 01:55:34.919  5627  5645 I .instagram.lit: Background young concurrent copying GC freed 170367(9957KB) AllocSpace objects, 113(5572KB) LOS objects, 38% free, 19MB/31MB, paused 41.247ms,39.229ms total 6.057s
+12-11 01:55:35.083  5627  6094 W com.facebook.lite.deviceid.FbLitePhoneIdStore: get Phone ID: 34d90a46-d44e-47f4-b744-95dcee9eabc7 : 1733817561040 : com.instagram.lite
+12-11 01:55:35.089  5627  6094 W com.facebook.lite.deviceid.FbLitePhoneIdStore: get Phone ID: 34d90a46-d44e-47f4-b744-95dcee9eabc7 : 1733817561040 : com.instagram.lite
+12-11 01:55:35.618  5627  5644 I .instagram.lit: Compiler allocated 5102KB to compile boolean X.38o.handleMessage(android.os.Message)
+12-11 01:55:35.758  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:35.758  5627  5647 W System  : A resource failed to call close. 
+12-11 01:55:36.365   356  5946 W SimpleC2Component: unknown frame index: 222
+12-11 01:55:36.367  5627  5944 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:55:36.371  5627  5944 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:55:36.371  5627  5944 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:55:36.371  5627  5944 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:55:40.565  1249  2436 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:55:40.589   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:55:40.589  6138  6140 I Gralloc4: mapper 4.x is not supported
+12-11 01:55:40.853  1099  6076 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:40.908  1099  6026 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:41.601   549   558 I system_server: Background young concurrent copying GC freed 311646(21MB) AllocSpace objects, 31(728KB) LOS objects, 42% free, 26MB/46MB, paused 5.249ms,2.251ms total 381.498ms
+12-11 01:55:42.303  1415  6147 I GmscoreIpa: Starting mediastore instant index [CONTEXT service_id=255 ]
+12-11 01:55:42.704  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015600.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:55:42.964  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015600.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:55:43.451  1099  6076 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:43.524  1099  6076 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:44.288  1249  1412 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:55:44.719  1099  6026 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:55:44.751  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:55:45.009   549  1447 I RescueParty: Starting to observe: [com.google.android.providers.media.module, android], updated namespace: storage_native_boot
+12-11 01:55:45.044   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:45.096   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:45.109   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:45.109   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:45.123   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:45.143  1249  1343 I TranscodeHelper: Empty transcode compat stale
+12-11 01:55:45.155   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:45.167  1249  1343 I TranscodeHelper: Parsed 8 packages from resource
+12-11 01:55:45.171  1249  1343 I TranscodeHelper: Parsed 8 packages from device config
+12-11 01:55:45.176   549  1184 E SettingsToPropertiesMapper: com.yelp.android,0,com.yy.biu,0,com.groupme.android,0,air.tv.douyu.android,0,com.baidu.mbaby,0,com.vlocker.locker,0,com.znxh.hyhuo,0,com.yixia.xiaokaxiu,0 exceeds system property max length.
+12-11 01:55:45.204   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:45.205   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:45.205   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:45.230   549  1447 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:45.243   549  1447 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:45.244   549  1447 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:45.261   549  1447 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:45.448  1099  6151 I PlatformConfigurator: updateFromConfigurations using legacy put method [CONTEXT service_id=204 ]
+12-11 01:55:46.803   549  1447 I RescueParty: Starting to observe: [com.google.android.networkstack], updated namespace: connectivity
+12-11 01:55:46.808   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:46.808   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:46.808   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:46.809   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:46.809   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:46.809   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:46.817   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:46.857   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:46.857   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:46.857   549   549 I ExplicitHealthCheckController: Not binding to service, service already connecting
+12-11 01:55:46.882   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:46.882   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:46.884   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:46.922   549  1447 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:46.954   549  1447 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:46.954   549  1447 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:46.965   549  1624 I RescueParty: Starting to observe: [com.google.android.permissioncontroller], updated namespace: permissions
+12-11 01:55:46.967   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:46.967   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:46.967   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:46.968   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:46.968   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:46.985   549  1447 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:46.991   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:47.001   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:47.008   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:47.012   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:47.053   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:47.062   549  2018 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:47.071   549  2018 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:47.071   549  2018 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:47.079   549  2018 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:47.490   549  2018 I RescueParty: Starting to observe: [android], updated namespace: wifi
+12-11 01:55:47.505   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:47.506   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:47.506   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:47.506   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:47.507   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:47.507   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:47.514   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:47.669   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:47.669   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:47.669   549   549 I ExplicitHealthCheckController: Not binding to service, service already connecting
+12-11 01:55:47.669   549   549 W Looper  : Slow dispatch took 154ms main h=android.os.Handler c=com.android.server.PackageWatchdog$$ExternalSyntheticLambda8@a4b51e7 m=0
+12-11 01:55:47.669   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:47.669   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:47.670   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:47.677   549  1447 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:47.723   549  1447 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:47.723   549  1447 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:47.743   549  1447 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:48.373   549  1624 I RescueParty: Starting to observe: [com.google.android.apps.nexuslauncher], updated namespace: interaction_jank_monitor
+12-11 01:55:48.374   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:48.375   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:48.376   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:48.377   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:48.378   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:48.389   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:48.402   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:48.402   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:48.402   549   549 I ExplicitHealthCheckController: Not binding to service, service already connecting
+12-11 01:55:48.405   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:48.407   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:48.412   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:48.451   549  1447 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:48.453   549  1447 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:48.453   549  1447 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:48.463   549  1447 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:51.464   549   549 W Looper  : Slow dispatch took 204ms main h=com.android.providers.settings.SettingsProvider$SettingsRegistry$MyHandler c=null m=1
+12-11 01:55:51.465   549   549 W Looper  : Slow delivery took 217ms main h=com.android.providers.settings.SettingsProvider$SettingsRegistry$MyHandler c=null m=2
+12-11 01:55:51.682   549   549 W Looper  : Drained
+12-11 01:55:51.747   549  1624 I RescueParty: Starting to observe: [android], updated namespace: autofill
+12-11 01:55:51.752   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:51.753   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:51.753   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:51.773   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:51.773   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:51.784   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:51.809   549   549 I AutofillManagerService: Ignoring change on augmented_autofill_mode
+12-11 01:55:51.813   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:51.814   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:51.819   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:51.832   549  1447 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:51.839   549  1624 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:51.848   549  1624 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:51.861   549  1624 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:52.433   332   332 W Zygote  : forkRepeatedly terminated due to non-simple command
+12-11 01:55:52.516   549  1624 I RescueParty: Starting to observe: [android], updated namespace: content_capture
+12-11 01:55:52.516   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:52.517   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:52.517   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:52.517   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:52.539   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:52.539   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:52.554   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:52.571   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:52.572   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:52.572   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:52.584   549  1633 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:52.587   549  1633 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:52.587   549  1633 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:52.593   549  1633 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:53.337  1099  2404 I NearbyDiscovery: FastPair: isDestroyable: Scanner is alive. [CONTEXT service_id=265 ]
+12-11 01:55:53.337  1099  2404 I NearbyDiscovery: DiscoveryService: Skip stopSelf(), fast pair controller is not destroyable. [CONTEXT service_id=265 ]
+12-11 01:55:54.238   549  1633 I RescueParty: Starting to observe: [android], updated namespace: telephony
+12-11 01:55:54.240   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:54.241   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:54.242   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:54.468   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:54.468   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:54.483   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:54.501  5627  5649 I OpenGLRenderer: Davey! duration=1043ms; Flags=0, FrameTimelineVsyncId=6829, IntendedVsync=330585670474, Vsync=331069003788, InputEventId=0, HandleInputStart=331077872000, AnimationStart=331077979500, PerformTraversalsStart=331078985500, DrawStart=331079158200, FrameDeadline=330619003806, FrameInterval=331077813200, FrameStartTime=16666666, SyncQueued=331117022300, SyncStart=331149969500, IssueDrawCommandsStart=331594341000, SwapBuffers=331628220200, FrameCompleted=331662550600, DequeueBufferDuration=900700, QueueBufferDuration=2892000, GpuCompleted=331661268100, SwapBuffersCompleted=331662550600, DisplayPresentTime=0, 
+12-11 01:55:54.503   549   549 W Looper  : Slow dispatch took 257ms main h=android.os.Handler c=com.android.server.PackageWatchdog$$ExternalSyntheticLambda8@a4b51e7 m=0
+12-11 01:55:54.504   549   549 W Looper  : Slow delivery took 250ms main h=com.android.providers.settings.SettingsProvider$SettingsRegistry$MyHandler c=null m=1
+12-11 01:55:54.556   549   549 W Looper  : Drained
+12-11 01:55:54.557   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:54.564   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:54.581   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:54.601   549  2017 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:54.612   549  2017 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:54.612   549  2017 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:54.621   549  2017 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:54.648  5627  5627 I Choreographer: Skipped 47 frames!  The application may be doing too much work on its main thread.
+12-11 01:55:54.723  5627  5649 I OpenGLRenderer: Davey! duration=854ms; Flags=0, FrameTimelineVsyncId=6832, IntendedVsync=331052337122, Vsync=331835670424, InputEventId=-338099575, HandleInputStart=331847659100, AnimationStart=331847774700, PerformTraversalsStart=331864994500, DrawStart=331865164000, FrameDeadline=331085670454, FrameInterval=331842097500, FrameStartTime=16666666, SyncQueued=331870198300, SyncStart=331873784300, IssueDrawCommandsStart=331882069900, SwapBuffers=331886689500, FrameCompleted=331910691600, DequeueBufferDuration=80700, QueueBufferDuration=10129900, GpuCompleted=331899797400, SwapBuffersCompleted=331910691600, DisplayPresentTime=0, 
+12-11 01:55:54.745   549  1447 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:54.754   549  1447 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:55.019   549  2017 I RescueParty: Starting to observe: [com.google.android.apps.nexuslauncher], updated namespace: launcher
+12-11 01:55:55.021   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:55.022   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:55.022   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:55.056   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:55.056   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:55.064   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:55.068   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:55.071   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:55.072   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:55.075   549  2017 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:55.077   549  2017 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:55.079   549  1633 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:55.093   549  1633 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:55.093   549  1633 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:55.098   549  1633 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:55.159   549  1184 E SettingsToPropertiesMapper: adservices/disable_sdk_sandbox,adservices/enforce_broadcast_receiver_restrictions,adservices/fledge_ad_selection_enforce_foreground_status_custom_audience,adservices/fledge_custom_audience_max_count,adservices/fledge_custom_audience_max_num_ads,adservices/fledge_custom_audience_max_owner_count,adservices/fledge_custom_audience_per_app_max_count,adservices/fledge_js_isolate_enforce_max_heap_size,adservices/fledge_js_isolate_max_heap_size_bytes,adservices/sdk_request_permits_per_second,adservices/sdksandbox_customized_sdk_context_enabled,configuration/namespace_to_package_mapping,constrain_display_apis/always_constrain_display_apis,constrain_display_apis/never_constrain_display_apis,constrain_display_apis/never_constrain_display_apis_all_packages,device_policy_manager/disable_resources_updatability,flipendo/default_savings_mode_launch,flipendo/essential_apps,flipendo/flipendo_enabled_launch,flipendo/grayscale_enabled_launch,flipendo/lever_ble_scanning_enabled_launch,flipendo/lever_hotspot_enabled_launch,flipendo/lever_work_profile_enabled_launch,flipendo/resuspend_delay_minutes,namespace/key,namespace1/key1,namespace1/key2,namespace2/key1,namespace2/key2,package_manager_service/incfs_default_timeouts,package_manager_service/known_digesters_list,privacy/location_access_check_periodic_interval_millis,rollback/enable_rollback_timeout,rollback/watchdog_explicit_health_check_enabled,rollback/watchdog_request_timeout_millis,rollback/watchdog_trigger_failure_count,rollback/watchdog_trigger_failure_duration_millis,rollback_boot/rollback_lifetime_in_millis,systemui/nas_generate_actions,systemui/nas_generate_replies,systemui/nas_max_messages_to_extract,systemui/nas_max_suggestions,testspace/another,testspace/flagname,textclassifier/config_updater_model_enabled,textclassifier/key,textclassifier/key2,textclassifier/manifest_url_annotator_en,textclassifier/manifest_url_annotator_ru,textclassifier/model_download_backoff_delay_in_millis,textclassifier/model_download_manager_enabled,textclassifier/multi_language_support_enabled,textclassifier/testing_locale_list_override,textclassifier/textclassifier_service_package_override,window_manager/enable_default_rescind_bal_privileges_from_pending_intent_sender,wrong/nas_generate_replies, exceeds system property max length.
+12-11 01:55:55.273   549  2017 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:55.275   549  2017 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:55:55.402   549  2017 I RescueParty: Starting to observe: [com.google.android.providers.media.module, android, com.google.android.permissioncontroller, com.google.android.setupwizard, com.google.android.gms, com.android.phone, com.android.systemui, com.android.bluetooth, com.android.providers.contacts], updated namespace: privacy
+12-11 01:55:55.403   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:55.404   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:55.404   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:55.521   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:55.523   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:55.541   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:55.545   549   549 W Looper  : Slow dispatch took 113ms main h=android.os.Handler c=com.android.server.PackageWatchdog$$ExternalSyntheticLambda8@a4b51e7 m=0
+12-11 01:55:55.562   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:55.563   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:55.566   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:55.588   549  1447 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:55.598   549  1447 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:55.601   549  1447 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:55.618   549  1447 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:55.816   549  1633 I RescueParty: Starting to observe: [android, com.android.systemui], updated namespace: systemui
+12-11 01:55:55.817   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:55.828   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:55.828   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:55.829   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:55.865   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:55.866   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:55.882   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:55.891   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:55.892   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:55.893   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:55.899   549  2018 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:55.907   549  1633 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:55.908   549  1633 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:55.918   549  1633 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:55.963   549  1633 I RescueParty: Starting to observe: [android], updated namespace: media
+12-11 01:55:55.963   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:55.964   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:55.964   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:55.964   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:56.004   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:56.004   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:56.014   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:56.074   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:56.078   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:56.078   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:56.099   549  1633 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:56.103   549  1633 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:56.103   549  1633 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:56.112   549  1633 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:56.129  1099  6151 I PlatformConfigurator: updateFromConfigurations using legacy put method [CONTEXT service_id=204 ]
+12-11 01:55:56.163  1249  1269 I FuseDaemon: Background concurrent copying GC freed 186940(12MB) AllocSpace objects, 86(10008KB) LOS objects, 49% free, 3558KB/7117KB, paused 2.002ms,4.953ms total 346.840ms
+12-11 01:55:56.379  5627  5944 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:55:56.385  5627  5944 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:55:56.386  5627  5944 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:55:56.386  5627  5944 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:55:56.495   356  5946 W SimpleC2Component: unknown frame index: 656
+12-11 01:55:56.947   549  2018 I RescueParty: Starting to observe: [android, com.google.android.permissioncontroller], updated namespace: app_hibernation
+12-11 01:55:56.948   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:56.948   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:56.949   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:56.968   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:56.970   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:56.983   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:56.994   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:56.999   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:57.003   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:57.019   549  1624 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:57.035   549  1624 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:57.043   549  1624 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:57.080   549  1624 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:57.219  1099  6026 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 624413]
+12-11 01:55:57.291  1099  6026 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 624485]
+12-11 01:55:57.681   549  1624 I RescueParty: Starting to observe: [android, com.android.systemui], updated namespace: window_manager
+12-11 01:55:57.683   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:57.691   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:57.691   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:57.692   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:57.711   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:57.711   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:57.718   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:57.750   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:57.750   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:57.754   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:57.768   549  2014 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:57.775   549  1624 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:57.776   549  1624 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:57.784   549  1624 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:58.544   549  1624 I RescueParty: Starting to observe: [com.android.bluetooth], updated namespace: bluetooth
+12-11 01:55:58.545   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:58.545   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:58.545   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:58.546   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:58.580   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:58.580   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:58.608   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:58.609   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:58.620   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:58.621   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:58.669   549  2018 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:58.839   549  2014 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:58.839   549  2014 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:58.849   549  2014 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:59.070   549  1624 I RescueParty: Starting to observe: [android, com.android.systemui], updated namespace: latency_tracker
+12-11 01:55:59.074   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:59.075   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:59.075   549   576 I PackageWatchdog: Not pruning observers, elapsed time: 0ms
+12-11 01:55:59.075   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:59.107   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:59.111   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:59.139   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:59.151   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:59.151   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:59.152   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:59.172   549  2014 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:59.201   549  2014 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:59.201   549  2014 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:59.243   549  2014 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:59.293   549  2014 I RescueParty: Starting to observe: [android], updated namespace: battery_saver
+12-11 01:55:59.293   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:59.293   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:59.294   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:59.337   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:59.337   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:59.370   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:59.386   549   549 E DeviceConfig: Parsing int failed for location_mode
+12-11 01:55:59.390   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:59.393   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:59.393   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:59.403   549  1624 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:59.419   549  1624 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:59.419   549  1624 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:59.428   549  1624 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:55:59.512   549  2018 I RescueParty: Starting to observe: [android], updated namespace: constrain_display_apis
+12-11 01:55:59.513   549   576 I PackageWatchdog: Syncing state, reason: observing new packages
+12-11 01:55:59.513   549   576 I PackageWatchdog: Syncing state, reason: updated observers
+12-11 01:55:59.514   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:59.514   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:59.514   549   576 I PackageWatchdog: Saving observer state to file
+12-11 01:55:59.520   549   549 I ExplicitHealthCheckController: Explicit health check service is bound
+12-11 01:55:59.571   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:59.571   549   549 I ExplicitHealthCheckController: Service not ready to get health check supported packages. Binding...
+12-11 01:55:59.571   549   549 I ExplicitHealthCheckController: Not binding to service, service already connecting
+12-11 01:55:59.573   549   549 I ExplicitHealthCheckController: Explicit health check service is connected ComponentInfo{com.google.android.ext.services/android.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+12-11 01:55:59.574   549   549 I ExplicitHealthCheckController: Service initialized, syncing requests
+12-11 01:55:59.575   549   549 I PackageWatchdog: Syncing health check requests for packages: {}
+12-11 01:55:59.592   549  2018 I ExplicitHealthCheckController: Explicit health check supported packages [PackageConfig{com.google.android.networkstack, 86400000}]
+12-11 01:55:59.594   549  2018 I ExplicitHealthCheckController: Explicit health check requested packages []
+12-11 01:55:59.594   549  2018 I ExplicitHealthCheckController: No more health check requests, unbinding...
+12-11 01:55:59.615   549  2018 I ExplicitHealthCheckController: Explicit health check service is unbound
+12-11 01:56:00.437  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 260686(10MB) AllocSpace objects, 326(13MB) LOS objects, 49% free, 2685KB/5371KB, paused 8.872ms,286us total 246.055ms
+12-11 01:56:00.466  5627  5890 W PlayedForThreeSecondsDetectingHandler: PlayedForThreeSeconds status shouldn't be unknown when attempting to send event
+12-11 01:56:00.539  5627  5627 W PlayedForThreeSecondsDetectingHandler: PlayedForThreeSeconds status shouldn't be unknown when attempting to send event
+12-11 01:56:00.630   356   429 I GoldfishComponentStore: in ~ComponentModule
+12-11 01:56:00.630   356   429 I GoldfishComponentStore: unloading dll
+12-11 01:56:00.631  5627  5945 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-11 01:56:00.637  5627  5920 W .instagram.lit: Verification of void X.3pz.onResponseHeaders(int, java.util.Map) took 102.247ms (1701.76 bytecodes/s) (7312B approximate peak alloc)
+12-11 01:56:00.645  5627  5926 E BufferQueueProducer: [SurfaceTexture-0-5627-0](id:15fb00000001,api:0,p:-1,c:5627) detachBuffer: BufferQueue has no connected producer
+12-11 01:56:00.789  5627  5945 I CCodec  : setting up 'default' as default (vendor) store
+12-11 01:56:00.790   356   429 I GoldfishComponentStore: in init
+12-11 01:56:00.790   356   429 I GoldfishComponentStore: loading dll of path libcodec2_goldfish_avcdec.so
+12-11 01:56:00.791   356   429 I GoldfishComponentStore: Create()
+12-11 01:56:00.792   356   429 I GoldfishComponentStore: created interface
+12-11 01:56:00.793   356   429 I GoldfishComponentStore: created component
+12-11 01:56:00.802  5627  5945 I CCodec  : Created component [c2.goldfish.h264.decoder]
+12-11 01:56:00.823  1099  1108 I .gms.persisten: Background young concurrent copying GC freed 150158(5632KB) AllocSpace objects, 0(0B) LOS objects, 16% free, 29MB/35MB, paused 10.227ms,482us total 334.594ms
+12-11 01:56:00.852  5627  5945 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:56:00.854  5627  5945 W ColorUtils: expected specified color aspects (2:0:0:0)
+12-11 01:56:00.866  5627  6300 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:56:00.872  5627  6300 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:56:00.905  5627  6300 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:56:00.978  5627  5944 I MediaCodec: [c2.goldfish.h264.decoder] setting surface generation to 5762050
+12-11 01:56:00.991  5627  5945 W Codec2Client: query -- param skipped: index = 1107298332.
+12-11 01:56:00.992  5627  5945 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+12-11 01:56:00.999  5627  5945 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:56:01.006  5627  5945 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:56:01.007  5627  5945 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:56:01.007  5627  5945 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:56:01.009  5627  5945 W Codec2Client: query -- param skipped: index = 2684356609.
+12-11 01:56:01.019  5627  5945 I CCodecBufferChannel: [c2.goldfish.h264.decoder#354] Created output block pool with allocatorID 18 => poolID 18 - OK
+12-11 01:56:01.632  5627  5944 W MediaCodec: mapFormat: no mediaType information
+12-11 01:56:01.869  5627  5651 I OpenGLRenderer: Davey! duration=721ms; Flags=0, FrameTimelineVsyncId=7082, IntendedVsync=338319003498, Vsync=338769003480, InputEventId=0, HandleInputStart=338778282900, AnimationStart=338778497200, PerformTraversalsStart=338860975000, DrawStart=338885833100, FrameDeadline=338335670164, FrameInterval=338778164500, FrameStartTime=16666666, SyncQueued=338889319500, SyncStart=338890889900, IssueDrawCommandsStart=339023228900, SwapBuffers=339034069000, FrameCompleted=339041862200, DequeueBufferDuration=455800, QueueBufferDuration=4749500, GpuCompleted=339039737700, SwapBuffersCompleted=339041862200, DisplayPresentTime=0, 
+12-11 01:56:02.271   549   558 I system_server: Background young concurrent copying GC freed 275940(19MB) AllocSpace objects, 72(2332KB) LOS objects, 47% free, 24MB/46MB, paused 2.385ms,687us total 167.985ms
+12-11 01:56:02.552   193   193 I servicemanager: Notifying apexservice they have clients: 0
+12-11 01:56:02.562   193   193 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+12-11 01:56:03.909  5219  5232 I mit.droidbotap: Background young concurrent copying GC freed 21776(867KB) AllocSpace objects, 35(1384KB) LOS objects, 50% free, 2432KB/4917KB, paused 5.267ms,171us total 27.321ms
+12-11 01:56:04.721  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 30872(1144KB) AllocSpace objects, 39(1552KB) LOS objects, 49% free, 2896KB/5792KB, paused 1.835ms,228us total 178.298ms
+12-11 01:56:05.222  5627  5644 I .instagram.lit: Compiler allocated 5025KB to compile void X.0s6.<init>(java.lang.String)
+12-11 01:56:05.909  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 37396(1392KB) AllocSpace objects, 46(1856KB) LOS objects, 49% free, 2343KB/4687KB, paused 1.675ms,245us total 112.456ms
+12-11 01:56:06.557  5219  5232 I mit.droidbotap: Background young concurrent copying GC freed 21971(868KB) AllocSpace objects, 35(1384KB) LOS objects, 44% free, 2587KB/4687KB, paused 7.185ms,282us total 39.621ms
+12-11 01:56:07.544  1249  2436 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:56:07.678   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:56:07.680  6357  6359 I Gralloc4: mapper 4.x is not supported
+12-11 01:56:08.169  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:08.218  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:08.651  1099  6364 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:08.917  5627  5645 I .instagram.lit: Background concurrent copying GC freed 231768(10MB) AllocSpace objects, 154(10MB) LOS objects, 49% free, 18MB/37MB, paused 40.696ms,424us total 7.165s
+12-11 01:56:08.972  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 29812(1112KB) AllocSpace objects, 23(1452KB) LOS objects, 49% free, 2279KB/4559KB, paused 26.640ms,264us total 143.653ms
+12-11 01:56:08.985  1099  5428 I TapAndPay: Sending QUICK_ACCESS_WALLET_STATE_CHANGED broadcast to wallet app. [CONTEXT service_id=79 ]
+12-11 01:56:09.017  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:09.851  5627  5948 E fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#5] 0rtt: NotAttempted
+12-11 01:56:09.853  5627  5931 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#5] Fizz-client connected.
+12-11 01:56:09.895  5627  6044 E fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#7] 0rtt: NotAttempted
+12-11 01:56:09.957  5219  5232 I mit.droidbotap: Background young concurrent copying GC freed 15215(633KB) AllocSpace objects, 19(1172KB) LOS objects, 38% free, 2791KB/4559KB, paused 10.772ms,207us total 105.745ms
+12-11 01:56:10.085  5627  6047 E fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#8] 0rtt: NotAttempted
+12-11 01:56:10.090  5627  6017 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#8] Fizz-client connected.
+12-11 01:56:10.125  5627  5932 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#7] Fizz-client connected.
+12-11 01:56:10.360  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015627.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:56:10.521  5627  5947 E fbandroid/java/com/facebook/lite/fizz/wrapper/jni/LiteFizzClient.cpp: [#4] 0rtt: NotAttempted
+12-11 01:56:10.526  5627  5823 I fbandroid/java/com/facebook/lite/fizz/wrapper/jni/FizzSocket.cpp: [#4] Fizz-client connected.
+12-11 01:56:10.589  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015627.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:56:10.598  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 26525(957KB) AllocSpace objects, 21(1340KB) LOS objects, 49% free, 2258KB/4516KB, paused 3.926ms,347us total 126.910ms
+12-11 01:56:10.984  5627  5944 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:56:10.996  5627  5944 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:56:10.998  5627  5944 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:56:10.999  5627  5944 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:56:11.368  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:11.380  1099  6364 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:11.648  1249  2436 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:56:12.010   193   193 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 01:56:12.268  1099  6393 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:12.344  1099  5428 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:12.555  5627  5644 I .instagram.lit: JIT allocated 51KB for compiled code of X.2nE X.3VC.A0M(android.net.Uri, java.io.InputStream)
+12-11 01:56:12.556  5627  5644 I .instagram.lit: Compiler allocated 12MB to compile X.2nE X.3VC.A0M(android.net.Uri, java.io.InputStream)
+12-11 01:56:13.058   549  2017 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 01:56:13.059   193   193 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 01:56:13.382   193   193 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+12-11 01:56:13.394   193   193 I servicemanager: Tried to unregister apexservice, but there is about to be a client.
+12-11 01:56:13.569  1415  6418 I GmscoreIpa: Starting mediastore instant index [CONTEXT service_id=255 ]
+12-11 01:56:16.796  1249  2436 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:56:16.852   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:56:16.852  6436  6438 I Gralloc4: mapper 4.x is not supported
+12-11 01:56:17.222  1099  6393 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:17.273  1099  6393 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:17.358  1099  1108 I .gms.persisten: Background young concurrent copying GC freed 99114(5927KB) AllocSpace objects, 0(0B) LOS objects, 14% free, 29MB/35MB, paused 50.057ms,340us total 280.717ms
+12-11 01:56:17.551   193   193 I servicemanager: Notifying apexservice they have clients: 1
+12-11 01:56:18.567  1257  1727 I bake    : (REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s
+12-11 01:56:19.439  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015636.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:56:19.532  1249  1269 I FuseDaemon: Background young concurrent copying GC freed 5589(451KB) AllocSpace objects, 15(3372KB) LOS objects, 35% free, 4595KB/7117KB, paused 15.428ms,375us total 46.455ms
+12-11 01:56:19.601  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015636.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:56:20.029  1099  6364 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:20.095  1099  6393 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:21.227  1249  2436 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:56:22.185  1099  6393 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:22.234  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:29.288  1249  2436 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:56:29.352   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:56:29.353  6505  6507 I Gralloc4: mapper 4.x is not supported
+12-11 01:56:29.708  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:29.733  1099  6364 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:29.769  5627  6504 E MnshttpNetworkFetcher: MNS error: 
+12-11 01:56:29.769  5627  6504 E MnshttpNetworkFetcher: java.io.IOException: [MNSQUICConnection] ERR_HANDSHAKE_TIMEOUT
+12-11 01:56:29.769  5627  6504 E MnshttpNetworkFetcher: 	at com.facebook.mobilenetwork.HttpClient.runEVLoop(Native Method)
+12-11 01:56:29.769  5627  6504 E MnshttpNetworkFetcher: 	at com.facebook.mobilenetwork.HttpClient.access$100(:0)
+12-11 01:56:29.769  5627  6504 E MnshttpNetworkFetcher: 	at X.3q2.run(:7)
+12-11 01:56:29.769  5627  6504 E MnshttpNetworkFetcher: 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:56:29.859  5627  6504 E MnshttpNetworkFetcher: MNS error: 
+12-11 01:56:29.859  5627  6504 E MnshttpNetworkFetcher: java.io.IOException: [MNSQUICConnection] ERR_HANDSHAKE_TIMEOUT
+12-11 01:56:29.859  5627  6504 E MnshttpNetworkFetcher: 	at com.facebook.mobilenetwork.HttpClient.runEVLoop(Native Method)
+12-11 01:56:29.859  5627  6504 E MnshttpNetworkFetcher: 	at com.facebook.mobilenetwork.HttpClient.access$100(:0)
+12-11 01:56:29.859  5627  6504 E MnshttpNetworkFetcher: 	at X.3q2.run(:7)
+12-11 01:56:29.859  5627  6504 E MnshttpNetworkFetcher: 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:56:29.948  5627  6302 W DefaultDashChunkSource: BlockListTrack: blockListed=null, skipChunkedTrackBlockListUtil=true, chunk.trackFormat=Format(3428270383984673v, null, video/mp4, video/avc, avc1.4d001e, 299486, null, [360, 640, 24.03006], [-1, -1]), responseCode=N/A
+12-11 01:56:32.141  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015648.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:56:32.352  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015648.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:56:32.433  1249  1269 I FuseDaemon: Background concurrent copying GC freed 38241(1620KB) AllocSpace objects, 12(3200KB) LOS objects, 49% free, 2478KB/4956KB, paused 1.514ms,2.023ms total 215.778ms
+12-11 01:56:32.710  1099  1108 I .gms.persisten: Background young concurrent copying GC freed 78518(4416KB) AllocSpace objects, 0(0B) LOS objects, 12% free, 30MB/35MB, paused 2.324ms,259us total 173.999ms
+12-11 01:56:32.857  1099  2380 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:32.891  1099  2380 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:33.069  4916  4951 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_STATUS_SMS_TIME_OUT
+12-11 01:56:33.071  4916  4916 I Dialer  : RetryPolicy - discarding deferred status: configuration_state=4
+12-11 01:56:33.073  4916  4916 I Dialer  : VvmTaskExecutor - no more tasks, stopping service if no task are added in 5000 millis
+12-11 01:56:33.078  4916  4916 I Dialer  : VvmTaskReceiver - task received
+12-11 01:56:33.079  4916  4916 I Dialer  : VvmTaskReceiver - TaskExecutor already running
+12-11 01:56:33.079  4916  4916 I Dialer  : Task.createTask - create task:com.android.voicemail.impl.ActivationTask
+12-11 01:56:33.080  4916  4916 I Dialer  : RetryPolicy - retry #3 for com.android.voicemail.impl.ActivationTask@359bf23 queued, executing in 5000
+12-11 01:56:33.080  4916  4916 I Dialer  : VvmTaskExecutor - com.android.voicemail.impl.ActivationTask@359bf23 added
+12-11 01:56:33.081  4916  4916 I Dialer  : VvmTaskExecutor - minimal wait time:5000
+12-11 01:56:33.086  4916  4916 I Dialer  : VvmTaskExecutor - sleep for 5000 millis
+12-11 01:56:33.241  1249  2436 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:56:33.586  1099  6364 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:33.604  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:38.140  4916  4951 I Dialer  : VvmTaskExecutor - executing task com.android.voicemail.impl.ActivationTask@359bf23
+12-11 01:56:38.141  4916  4951 I Dialer  : PreOMigrationHandler - ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, ***, UserHandle{0} already migrated
+12-11 01:56:38.262  3950  3962 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+12-11 01:56:38.274  4916  4951 I Dialer  : VvmActivationTask - VVM content provider configured - vvm_type_cvvm
+12-11 01:56:38.282  4916  4951 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_ACTIVATING
+12-11 01:56:38.336  3950  3962 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+12-11 01:56:41.653   549   558 I system_server: Background young concurrent copying GC freed 292312(20MB) AllocSpace objects, 38(940KB) LOS objects, 42% free, 26MB/46MB, paused 17.124ms,376us total 375.879ms
+12-11 01:56:43.354  1463  1463 I byzo    : (REDACTED) Starting %s background task %s.
+12-11 01:56:43.471   549  1447 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:56:43.472   549  1447 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:56:43.533  1463  6612 I bwww    : Using pair HTTP connection
+12-11 01:56:43.556  1463  3814 I aoxr    : [Upload] Connected
+12-11 01:56:43.640  1463  1636 W fdgh    : Upload request without a content type.
+12-11 01:56:43.661  1463  1463 E vuw     : onError
+12-11 01:56:43.661  1463  1463 E vuw     : avyw: errorCode: 65561, engine: 2
+12-11 01:56:43.661  1463  1463 E vuw     : 	at bwwy.a(PG:3)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at aoxn.ho(PG:1)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at ioyb.e(PG:2)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at axzh.d(PG:21)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at axzh.ja(PG:6)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at aoxo.c(PG:14)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at aoxp.run(PG:1)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at awly.run(PG:2)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at awoa.run(PG:1)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at awoa.run(PG:1)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at awmf.run(PG:5)
+12-11 01:56:43.661  1463  1463 E vuw     : Caused by: avyy: errorCode: 65586, engine: 2
+12-11 01:56:43.661  1463  1463 E vuw     : 	... 15 more
+12-11 01:56:43.661  1463  1463 E vuw     : Caused by: avyu: errorCode: 401, engine: 2
+12-11 01:56:43.661  1463  1463 E vuw     : 	at vut.a(PG:5)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at aoyk.hu(PG:2)
+12-11 01:56:43.661  1463  1463 E vuw     : 	at axzh.d(PG:15)
+12-11 01:56:43.661  1463  1463 E vuw     : 	... 12 more
+12-11 01:56:43.682  1463  3814 I bwww    : Using pair HTTP connection
+12-11 01:56:43.773  1463  3825 I aoxr    : [Upload] Connected
+12-11 01:56:43.821  1463  1463 W vdi     : Failed to sync device settings.
+12-11 01:56:43.822  1463  1463 I vdi     : Retrying to sync device settings.
+12-11 01:56:44.314   549   606 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:56:44.324   549   606 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:56:44.479   549  2014 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:56:44.480   549  2014 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:56:46.344  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 25930(938KB) AllocSpace objects, 21(1444KB) LOS objects, 49% free, 2299KB/4599KB, paused 10.720ms,137us total 79.281ms
+12-11 01:56:47.345  1415  6645 I GmscoreIpa: Starting mediastore instant index [CONTEXT service_id=255 ]
+12-11 01:56:47.754  1463  4309 W aoxv    : (REDACTED) [%s] response code: %d
+12-11 01:56:48.321  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 30162(1125KB) AllocSpace objects, 20(1200KB) LOS objects, 49% free, 2778KB/5557KB, paused 14.656ms,156us total 120.545ms
+12-11 01:56:49.238  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 36610(1390KB) AllocSpace objects, 47(1980KB) LOS objects, 49% free, 2424KB/4849KB, paused 5.412ms,130us total 75.752ms
+12-11 01:56:49.495  5219  5232 I mit.droidbotap: Background young concurrent copying GC freed 23264(916KB) AllocSpace objects, 27(1152KB) LOS objects, 37% free, 3029KB/4849KB, paused 965us,18.202ms total 92.686ms
+12-11 01:56:49.744  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 21559(838KB) AllocSpace objects, 27(1224KB) LOS objects, 49% free, 2767KB/5535KB, paused 6.818ms,235us total 82.490ms
+12-11 01:56:50.666  5627  5890 W PlayedForThreeSecondsDetectingHandler: PlayedForThreeSeconds status shouldn't be unknown when attempting to send event
+12-11 01:56:50.671  5627  5627 W PlayedForThreeSecondsDetectingHandler: PlayedForThreeSeconds status shouldn't be unknown when attempting to send event
+12-11 01:56:50.924  5627  5945 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-11 01:56:50.926   356   429 I GoldfishComponentStore: in ~ComponentModule
+12-11 01:56:50.926   356   429 I GoldfishComponentStore: unloading dll
+12-11 01:56:50.960  5627  5926 E BufferQueueProducer: [SurfaceTexture-0-5627-1](id:15fb00000002,api:0,p:-1,c:5627) detachBuffer: BufferQueue has no connected producer
+12-11 01:56:50.962  5627  6679 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:56:50.965  5627  6679 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:56:50.984  5627  5945 I CCodec  : setting up 'default' as default (vendor) store
+12-11 01:56:50.985   356   429 I GoldfishComponentStore: in init
+12-11 01:56:50.989   356   429 I GoldfishComponentStore: loading dll of path libcodec2_goldfish_avcdec.so
+12-11 01:56:50.989   356   429 I GoldfishComponentStore: Create()
+12-11 01:56:50.992   356   429 I GoldfishComponentStore: created interface
+12-11 01:56:50.997   356   429 I GoldfishComponentStore: created component
+12-11 01:56:51.004  5627  5945 I CCodec  : Created component [c2.goldfish.h264.decoder]
+12-11 01:56:51.038  5627  5945 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:56:51.041  5627  5945 W ColorUtils: expected specified color aspects (2:0:0:0)
+12-11 01:56:51.048  5627  6679 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:56:51.080  5627  5944 I MediaCodec: [c2.goldfish.h264.decoder] setting surface generation to 5762051
+12-11 01:56:51.094  5627  5945 W Codec2Client: query -- param skipped: index = 1107298332.
+12-11 01:56:51.099  5627  5945 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+12-11 01:56:51.105  5627  5945 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:56:51.125  5627  5945 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:56:51.126  5627  5945 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:56:51.134  5627  5945 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:56:51.140  5627  5945 W Codec2Client: query -- param skipped: index = 2684356609.
+12-11 01:56:51.164  5627  5945 I CCodecBufferChannel: [c2.goldfish.h264.decoder#589] Created output block pool with allocatorID 18 => poolID 19 - OK
+12-11 01:56:52.235  5627  5944 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:56:52.248  5627  5944 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:56:52.248  5627  5944 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:56:52.249  5627  5944 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:56:52.912  5627  5944 W MediaCodec: mapFormat: no mediaType information
+12-11 01:56:52.996  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 38107(1518KB) AllocSpace objects, 46(1928KB) LOS objects, 49% free, 2478KB/4956KB, paused 7.201ms,121us total 50.885ms
+12-11 01:56:53.379  5627  5645 I .instagram.lit: Background young concurrent copying GC freed 217830(13MB) AllocSpace objects, 81(4704KB) LOS objects, 39% free, 23MB/37MB, paused 2.866ms,416us total 337.557ms
+12-11 01:56:53.528  5219  5232 I mit.droidbotap: Background young concurrent copying GC freed 26699(1038KB) AllocSpace objects, 34(1384KB) LOS objects, 51% free, 2392KB/4956KB, paused 11.516ms,305us total 54.624ms
+12-11 01:56:53.921  5627  5673 W LastMsysLogins: Possible Relogin - handleMessagePersistentPropertiesTable  uid: null hash null
+12-11 01:56:55.948  5219  5232 I mit.droidbotap: Background young concurrent copying GC freed 15542(631KB) AllocSpace objects, 19(1244KB) LOS objects, 34% free, 3069KB/4671KB, paused 3.136ms,5.681ms total 168.624ms
+12-11 01:56:56.540  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 29177(1067KB) AllocSpace objects, 21(1364KB) LOS objects, 49% free, 2365KB/4731KB, paused 13.248ms,872us total 230.805ms
+12-11 01:56:57.254  1249  1409 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:56:57.287   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:56:57.298  6733  6737 I Gralloc4: mapper 4.x is not supported
+12-11 01:56:57.940  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:58.179  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 28052(1033KB) AllocSpace objects, 21(1340KB) LOS objects, 49% free, 2472KB/4944KB, paused 33.010ms,3.992ms total 438.901ms
+12-11 01:56:58.272  1099  6741 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:56:58.455  1415  1415 I GmsCoreXrpcWrapper: (REDACTED) Returning a channel provider with trafficStatsTag=%d trafficStatsUid=%d
+12-11 01:56:58.557  1099  6741 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:56:58.811  1099  1114 W GLSUser : [DeviceKeyStore] Cannot load key: Device key file not found.
+12-11 01:56:59.083  5219  5232 I mit.droidbotap: Background young concurrent copying GC freed 18797(741KB) AllocSpace objects, 21(1232KB) LOS objects, 32% free, 3328KB/4944KB, paused 7.443ms,15.566ms total 150.492ms
+12-11 01:56:59.639  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015716.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:56:59.787  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015716.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:56:59.872  1249  1269 I FuseDaemon: Background young concurrent copying GC freed 9639(843KB) AllocSpace objects, 9(2224KB) LOS objects, 48% free, 2530KB/4956KB, paused 1.308ms,312us total 176.230ms
+12-11 01:57:00.038  1099  1108 I .gms.persisten: WaitForGcToComplete blocked Background on None for 11.610ms
+12-11 01:57:00.263  1099  1108 W .gms.persisten: Suspending all threads took: 23.575ms
+12-11 01:57:00.291  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 25610(972KB) AllocSpace objects, 19(1280KB) LOS objects, 49% free, 2544KB/5088KB, paused 1.898ms,268us total 161.543ms
+12-11 01:57:00.297  1099  1108 I .gms.persisten: Background young concurrent copying GC freed 78362(4758KB) AllocSpace objects, 1(20KB) LOS objects, 11% free, 31MB/35MB, paused 53.272ms,31.689ms total 256.564ms
+12-11 01:57:00.351  1099  1114 W GmsUrlRequestImpl: Content-Type header is overwritten.
+12-11 01:57:00.465  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:00.504  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:01.428  1249  1409 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:57:02.334  1099  6741 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:02.402  1099  6742 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:07.831  5627  5944 W MediaCodec: mapFormat: no mediaType information
+12-11 01:57:07.928  5627  5944 W MediaCodec: mapFormat: no mediaType information
+12-11 01:57:07.990  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:08.036  1099  6742 W TapAndPay: NfcAdapter is null while obtaining CardEmulation instance. [CONTEXT service_id=79 ]
+12-11 01:57:08.036  1099  6742 W TapAndPay: java.lang.NullPointerException: NfcAdapter is null
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at android.nfc.cardemulation.CardEmulation.getInstance(CardEmulation.java:150)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at dkmu.<init>(:com.google.android.gms@243433041@24.34.33 (190800-666809342):15)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at com.google.android.gms.tapandpay.hce.task.TapAndPayAidRegistrationTaskOperation.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskChimeraService.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):32)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at bqfr.call(:com.google.android.gms@243433041@24.34.33 (190800-666809342):32)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):76)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:57:08.036  1099  6742 W TapAndPay: 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:57:08.261  1099  6290 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:08.589   364   364 E android.hardware.power.stats@1.0-service-mock: Failed to getEnergyData
+12-11 01:57:08.709  1249  1409 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:57:08.753   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:57:08.754  6804  6810 I Gralloc4: mapper 4.x is not supported
+12-11 01:57:08.987  1099  1108 I .gms.persisten: Background young concurrent copying GC freed 66538(4072KB) AllocSpace objects, 0(0B) LOS objects, 11% free, 31MB/35MB, paused 11.675ms,280us total 126.027ms
+12-11 01:57:09.022  1099  6742 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:09.101  1099  2394 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:12.104  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015728.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:57:12.164   549   558 W system_server: Suspending all threads took: 5.598ms
+12-11 01:57:12.189   549   558 I system_server: Background young concurrent copying GC freed 284582(20MB) AllocSpace objects, 20(472KB) LOS objects, 41% free, 27MB/46MB, paused 14.886ms,6.255ms total 505.432ms
+12-11 01:57:12.301  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015728.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:57:12.320  1249  1269 I FuseDaemon: Background concurrent copying GC freed 5747(414KB) AllocSpace objects, 9(2096KB) LOS objects, 49% free, 2452KB/4905KB, paused 8.497ms,227us total 145.466ms
+12-11 01:57:12.523  1099  4061 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:12.540  1099  6742 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:13.204  1249  1409 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:57:13.224  1099  1114 W GLSUser : [AppCertManager] Exception while requesting key: 
+12-11 01:57:13.224  1099  1114 W GLSUser : java.util.concurrent.ExecutionException: bpyn: Parse Proto Exception with response code 400
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at exkm.s(:com.google.android.gms@243433041@24.34.33 (190800-666809342):21)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at exkm.get(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at xft.b(:com.google.android.gms@243433041@24.34.33 (190800-666809342):513)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at xfr.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):70)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at xfr.fr(:com.google.android.gms@243433041@24.34.33 (190800-666809342):16)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at nqj.onTransact(:com.google.android.gms@243433041@24.34.33 (190800-666809342):97)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at android.os.Binder.transact(Binder.java:1064)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at bjtl.onTransact(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at android.os.Binder.transact(Binder.java:1064)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at bbdu.onTransact(:com.google.android.gms@243433041@24.34.33 (190800-666809342):148)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at android.os.Binder.execTransact(Binder.java:1143)
+12-11 01:57:13.224  1099  1114 W GLSUser : Caused by: bpyn: Parse Proto Exception with response code 400
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at bpzp.b(:com.google.android.gms@243433041@24.34.33 (190800-666809342):80)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at bqch.d(:com.google.android.gms@243433041@24.34.33 (190800-666809342):18)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at bqcv.onSucceeded(:com.google.android.gms@243433041@24.34.33 (190800-666809342):9)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at m.mr.onSucceeded(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):3)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at m.lp.run(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):25)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):97)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:57:13.224  1099  1114 W GLSUser : Caused by: fojs: Protocol message contained an invalid tag (zero).
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at fogo.k(:com.google.android.gms@243433041@24.34.33 (190800-666809342):43)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at fokr.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):368)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at fokr.i(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at foiw.x(:com.google.android.gms@243433041@24.34.33 (190800-666809342):25)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at foiq.g(:com.google.android.gms@243433041@24.34.33 (190800-666809342):3)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at fogk.e(:com.google.android.gms@243433041@24.34.33 (190800-666809342):1)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at fogk.d(:com.google.android.gms@243433041@24.34.33 (190800-666809342):3)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at fogk.p(:com.google.android.gms@243433041@24.34.33 (190800-666809342):1)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at bpzp.g(:com.google.android.gms@243433041@24.34.33 (190800-666809342):68)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	at bpzp.b(:com.google.android.gms@243433041@24.34.33 (190800-666809342):11)
+12-11 01:57:13.224  1099  1114 W GLSUser : 	... 10 more
+12-11 01:57:13.288  1099  1114 W GLSUser : [DeviceKeyStore] Cannot load key: Device key file not found.
+12-11 01:57:13.389  1415  2870 E ggxu    : *~*~*~ Previous channel {0} was garbage collected without being shut down! ~*~*~*
+12-11 01:57:13.389  1415  2870 E ggxu    :     Make sure to call shutdown()/shutdownNow()
+12-11 01:57:13.389  1415  2870 E ggxu    : java.lang.RuntimeException: ManagedChannel allocation site
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at ggxt.<init>(:com.google.android.gms@243433041@24.34.33 (190800-666809342):21)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at ggxu.<init>(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at ggxs.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):249)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at ggiy.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):5)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at amtw.t(:com.google.android.gms@243433041@24.34.33 (190800-666809342):130)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at amtw.e(:com.google.android.gms@243433041@24.34.33 (190800-666809342):5)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at djwu.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):46)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at djwa.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at djwa.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):3)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at aiti.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):5)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):76)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:57:13.389  1415  2870 E ggxu    : *~*~*~ Previous channel {0} was garbage collected without being shut down! ~*~*~*
+12-11 01:57:13.389  1415  2870 E ggxu    :     Make sure to call shutdown()/shutdownNow()
+12-11 01:57:13.389  1415  2870 E ggxu    : java.lang.RuntimeException: ManagedChannel allocation site
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at ggxt.<init>(:com.google.android.gms@243433041@24.34.33 (190800-666809342):21)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at ggxu.<init>(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at ggxs.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):249)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at ggiy.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):5)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at faij.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):173)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at eqat.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):13)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at exoo.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):3)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at exnp.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):19)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at exoq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):5)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):76)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 01:57:13.389  1415  2870 E ggxu    : 	at java.lang.Thread.run(Thread.java:920)
+12-11 01:57:13.541  1099  4061 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:13.636  1099  2394 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:14.338  1415  3769 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@ee9a315
+12-11 01:57:14.433  1415  2870 I NotificationsModuleTask: Registering accounts to Chime Failed & Rescheduled for later. [CONTEXT service_id=358 ]
+12-11 01:57:14.492  1099  4061 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:17.892  5627  5944 W MediaCodec: mapFormat: no mediaType information
+12-11 01:57:17.982  5627  5944 W MediaCodec: mapFormat: no mediaType information
+12-11 01:57:18.568  1257  1714 I bake    : (REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s
+12-11 01:57:22.737  1249  1409 W MediaProvider: isAppCloneUserPair for user 0: false
+12-11 01:57:22.851   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-11 01:57:22.860  6873  6875 I Gralloc4: mapper 4.x is not supported
+12-11 01:57:23.795  1099  1108 I .gms.persisten: Background young concurrent copying GC freed 59813(3629KB) AllocSpace objects, 0(0B) LOS objects, 9% free, 31MB/35MB, paused 31.693ms,6.283ms total 240.043ms
+12-11 01:57:23.827  1099  2394 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:23.905  1099  2394 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:25.293  1249  1718 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015742.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:57:25.441  1249  1269 I FuseDaemon: Background young concurrent copying GC freed 2787(267KB) AllocSpace objects, 8(2056KB) LOS objects, 49% free, 2477KB/4905KB, paused 9.572ms,412us total 126.010ms
+12-11 01:57:25.454  1249  1718 I MediaProvider: End Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/screen_2024-12-11_015742.png flg=0x1400010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService }
+12-11 01:57:26.064  1099  6877 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:26.138  1099  4061 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:27.432  1249  1409 I MediaProvider: Deleted 0 1 0 0 0 0 0 items on external_primary due to com.android.shell
+12-11 01:57:27.731  1099  6877 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 01:57:27.759  1099  2394 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 01:57:27.946  1415  6892 I GmscoreIpa: Starting mediastore instant index [CONTEXT service_id=255 ]
+12-11 01:57:37.593   549  1456 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:57:37.599   549  1456 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:57:37.928   549  1456 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:57:37.933   549  1456 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:57:38.238   549  1633 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:57:38.246   549  1633 W UriGrantsManagerService: No permission grants found for com.google.android.apps.photos
+12-11 01:57:38.533  4916  4951 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_STATUS_SMS_TIME_OUT
+12-11 01:57:38.553  4916  4916 I Dialer  : RetryPolicy - discarding deferred status: configuration_state=4
+12-11 01:57:38.557  4916  4916 I Dialer  : VvmTaskExecutor - no more tasks, stopping service if no task are added in 5000 millis
+12-11 01:57:38.566  4916  4916 I Dialer  : VvmTaskReceiver - task received
+12-11 01:57:38.574  4916  4916 I Dialer  : VvmTaskReceiver - TaskExecutor already running
+12-11 01:57:38.599  4916  4916 I Dialer  : Task.createTask - create task:com.android.voicemail.impl.ActivationTask
+12-11 01:57:38.607  4916  4916 I Dialer  : RetryPolicy - retry #4 for com.android.voicemail.impl.ActivationTask@dd1fa4c queued, executing in 5000
+12-11 01:57:38.620  4916  4916 I Dialer  : VvmTaskExecutor - com.android.voicemail.impl.ActivationTask@dd1fa4c added
+12-11 01:57:38.620  4916  4916 I Dialer  : VvmTaskExecutor - minimal wait time:4987
+12-11 01:57:38.621  4916  4916 I Dialer  : VvmTaskExecutor - sleep for 4987 millis
+12-11 01:57:39.071  5219  5232 I mit.droidbotap: Background young concurrent copying GC freed 22719(887KB) AllocSpace objects, 30(1232KB) LOS objects, 47% free, 2690KB/5088KB, paused 6.572ms,159us total 51.684ms
+12-11 01:57:39.388  5627  6978 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:57:39.391  5627  6978 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:57:39.432  5627  6978 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:57:39.990  5627  5645 I .instagram.lit: Background young concurrent copying GC freed 155485(10MB) AllocSpace objects, 50(2084KB) LOS objects, 31% free, 26MB/37MB, paused 2.532ms,302us total 607.673ms
+12-11 01:57:40.561  5627  6985 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:57:40.566  5627  6985 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-11 01:57:40.618  5627  6988 I CCodec  : setting up 'default' as default (vendor) store
+12-11 01:57:40.642   356   766 I GoldfishComponentStore: created component
+12-11 01:57:40.658  5627  6988 I CCodec  : Created component [c2.goldfish.h264.decoder]
+12-11 01:57:40.706  5627  6988 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:57:40.708  5627  6988 W ColorUtils: expected specified color aspects (2:0:0:0)
+12-11 01:57:40.714  5627  6987 I MediaCodec: [c2.goldfish.h264.decoder] setting surface generation to 5762052
+12-11 01:57:40.724  5627  6988 W Codec2Client: query -- param skipped: index = 1107298332.
+12-11 01:57:40.724  5627  6988 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+12-11 01:57:40.725  5627  6988 I CCodecConfig: query failed after returning 12 values (BAD_INDEX)
+12-11 01:57:40.737  5627  6988 W Codec2Client: query -- param skipped: index = 1342179345.
+12-11 01:57:40.737  5627  6988 W Codec2Client: query -- param skipped: index = 2415921170.
+12-11 01:57:40.738  5627  6988 W Codec2Client: query -- param skipped: index = 1610614798.
+12-11 01:57:40.742  5627  6988 W Codec2Client: query -- param skipped: index = 2684356609.
+12-11 01:57:40.750  5627  6988 I CCodecBufferChannel: [c2.goldfish.h264.decoder#277] Created output block pool with allocatorID 18 => poolID 20 - OK
+12-11 01:57:40.768   477  2030 W ResourceManagerService: Ignoring request to add new resource entry with value <= 0
+12-11 01:57:41.017  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 29052(1170KB) AllocSpace objects, 25(1436KB) LOS objects, 49% free, 2823KB/5647KB, paused 3.076ms,166us total 313.375ms
+12-11 01:57:42.777  5627  6987 W MediaCodec: mapFormat: no mediaType information
+12-11 01:57:43.647  4916  4951 I Dialer  : VvmTaskExecutor - executing task com.android.voicemail.impl.ActivationTask@dd1fa4c
+12-11 01:57:43.648  4916  4951 I Dialer  : PreOMigrationHandler - ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, ***, UserHandle{0} already migrated
+12-11 01:57:43.784  3950  3962 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+12-11 01:57:43.792  4916  4951 I Dialer  : VvmActivationTask - VVM content provider configured - vvm_type_cvvm
+12-11 01:57:43.792  4916  4951 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_ACTIVATING
+12-11 01:57:43.806  3950  3962 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+12-11 01:57:44.334  5219  5232 I mit.droidbotap: Background concurrent copying GC freed 40353(1412KB) AllocSpace objects, 21(1772KB) LOS objects, 49% free, 2348KB/4697KB, paused 11.582ms,187us total 114.433ms

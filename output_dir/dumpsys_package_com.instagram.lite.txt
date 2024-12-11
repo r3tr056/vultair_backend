@@ -1,0 +1,699 @@
+Activity Resolver Table:
+  Full MIME Types:
+      video/*:
+        3d6a456 com.instagram.lite/.stories.activities.ShareToIgStoriesAlias filter 8fa5cd7
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        2d39c4 com.instagram.lite/.stories.activities.ShareToIgFeedAlias filter c7380ad
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        ba62e30 com.instagram.lite/.stories.activities.ShareToIgChatsAlias filter f47aa9
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      text/plain:
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter 8fff12c
+          Action: "com.facebook.lite.intent.action.SEND_AS_MESSAGE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+        d2de82e com.instagram.lite/.stories.activities.ShareTextToIgChatsAlias filter ade0fcf
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+      image/*:
+        3d6a456 com.instagram.lite/.stories.activities.ShareToIgStoriesAlias filter 8fa5cd7
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        2d39c4 com.instagram.lite/.stories.activities.ShareToIgFeedAlias filter c7380ad
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        ba62e30 com.instagram.lite/.stories.activities.ShareToIgChatsAlias filter f47aa9
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Base MIME Types:
+      text:
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter 8fff12c
+          Action: "com.facebook.lite.intent.action.SEND_AS_MESSAGE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+        d2de82e com.instagram.lite/.stories.activities.ShareTextToIgChatsAlias filter ade0fcf
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Wild MIME Types:
+      image:
+        3d6a456 com.instagram.lite/.stories.activities.ShareToIgStoriesAlias filter 8fa5cd7
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        2d39c4 com.instagram.lite/.stories.activities.ShareToIgFeedAlias filter c7380ad
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        ba62e30 com.instagram.lite/.stories.activities.ShareToIgChatsAlias filter f47aa9
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      video:
+        3d6a456 com.instagram.lite/.stories.activities.ShareToIgStoriesAlias filter 8fa5cd7
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        2d39c4 com.instagram.lite/.stories.activities.ShareToIgFeedAlias filter c7380ad
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        ba62e30 com.instagram.lite/.stories.activities.ShareToIgChatsAlias filter f47aa9
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Schemes:
+      iglite:
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter b91fbfb
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "iglite"
+      e2e:
+        130afe2 com.instagram.lite/.deeplinking.activities.E2EActivityAlias filter 21def73
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "e2e"
+          Scheme: "instagram"
+      http:
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter 47d47f5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "instagram.com": -1
+          Authority: "www.instagram.com": -1
+          Authority: "applink.instagram.com": -1
+          Authority: "familycenter.instagram.com": -1
+          AutoVerify=true
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter 1c2798a
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "ig.me": -1
+        130afe2 com.instagram.lite/.deeplinking.activities.E2EActivityAlias filter 21def73
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "e2e"
+          Scheme: "instagram"
+      instagram:
+        130afe2 com.instagram.lite/.deeplinking.activities.E2EActivityAlias filter 21def73
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "e2e"
+          Scheme: "instagram"
+      https:
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter 47d47f5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "instagram.com": -1
+          Authority: "www.instagram.com": -1
+          Authority: "applink.instagram.com": -1
+          Authority: "familycenter.instagram.com": -1
+          AutoVerify=true
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter 1c2798a
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "ig.me": -1
+        130afe2 com.instagram.lite/.deeplinking.activities.E2EActivityAlias filter 21def73
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "e2e"
+          Scheme: "instagram"
+      fbconnect:
+        710f418 com.instagram.lite/com.facebook.lite.loginWithFacebook.wrapper.CustomTabActivity filter f276e71
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "fbconnect"
+          Authority: "cct.com.instagram.lite": -1
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter ca130df
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        3d6a456 com.instagram.lite/.stories.activities.ShareToIgStoriesAlias filter 8fa5cd7
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        2d39c4 com.instagram.lite/.stories.activities.ShareToIgFeedAlias filter c7380ad
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        ba62e30 com.instagram.lite/.stories.activities.ShareToIgChatsAlias filter f47aa9
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          StaticType: "video"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        d2de82e com.instagram.lite/.stories.activities.ShareTextToIgChatsAlias filter ade0fcf
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+      com.facebook.lite.intent.action.SEND_AS_MESSAGE:
+        313a37e com.instagram.lite/com.facebook.lite.MainActivity filter 8fff12c
+          Action: "com.facebook.lite.intent.action.SEND_AS_MESSAGE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.facebook.lite.NOTIFICATION_SCHEDULING_RECEIVER_FILTER_NAME:
+        fd24866 com.instagram.lite/com.facebook.lite.notification.NotificationSchedulingReceiver filter 37c17a7
+          Action: "com.facebook.lite.NOTIFICATION_SCHEDULING_RECEIVER_FILTER_NAME"
+      com.facebook.appmanager.POST_INSTALL_SSO:
+        efecf06 com.instagram.lite/com.facebook.lite.appManager.AppManagerReceiver filter a3629c7
+          Action: "com.facebook.appmanager.POST_INSTALL_SSO"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        47ab8de com.instagram.lite/com.facebook.rti.push.service.MqttSystemBroadcastReceiver filter 6488abf
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+          Action: "android.intent.action.USER_PRESENT"
+        5e3758c com.instagram.lite/com.facebook.lite.AppController$NetworkStateBroadcastReceiver filter 5f1e4d5
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.LOCKED_BOOT_COMPLETED:
+        baa84f2 com.instagram.lite/com.facebook.lite.datausage.DataUsageBroadCastReceiver filter 5ea31c0
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.LOCKED_BOOT_COMPLETED"
+      com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IS_MANAGED_APP_CHANGED:
+        7219bbb com.instagram.lite/com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppReceiver filter 46478d8
+          Action: "com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IS_MANAGED_APP_CHANGED"
+      ANDROID.INTENT.ACTION.BOOT_COMPLETED:
+        d352454 com.instagram.lite/com.facebook.lite.intent.IntentScheduler filter daa3ffd
+          Action: "ANDROID.INTENT.ACTION.BOOT_COMPLETED"
+      com.facebook.lite.notification.widget.ACTION_FORCE_UPDATE:
+        b248490 com.instagram.lite/com.facebook.lite.notification.widget.receiver.NotificationsWidgetForceUpdateReceiver filter 6508189
+          Action: "com.facebook.lite.notification.widget.ACTION_FORCE_UPDATE"
+      com.android.vending.INSTALL_REFERRER:
+        f359348 com.instagram.lite/com.facebook.lite.campaign.CampaignReceiver filter e5fd5e1
+          Action: "com.android.vending.INSTALL_REFERRER"
+      com.facebook.lite.BALANCE_SIMULATION_NOTIFICATION:
+        d70fc9a com.instagram.lite/com.facebook.lite.notification.BalanceSimulationNotificationBroadcastReceiver filter f2ea9cb
+          Action: "com.facebook.lite.BALANCE_SIMULATION_NOTIFICATION"
+      com.facebook.rti.fbns.intent.RECEIVE:
+        b798360 com.instagram.lite/com.facebook.lite.FbnsIntentService$CallbackReceiver filter 5046019
+          Action: "com.facebook.rti.fbns.intent.RECEIVE"
+          Category: "com.instagram.lite"
+      com.facebook.lite.rtc.NotificationAction:
+        aa97431 com.instagram.lite/com.facebook.lite.nativeRtc.receiver.NotificationActionReceiver filter a739716
+          Action: "com.facebook.lite.rtc.NotificationAction"
+      com.google.android.c2dm.intent.RECEIVE:
+        c443897 com.instagram.lite/com.google.firebase.iid.FirebaseInstanceIdReceiver filter e144a84
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+      com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppFlag:
+        e3671b5 com.instagram.lite/com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppFlag filter ad1c04a
+          Action: "com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppFlag"
+      com.facebook.lite.LOCAL_NOTIFICATION_DISMISS:
+        b0ea24 com.instagram.lite/com.facebook.lite.notification.LocalNotificationLogBroadcastReceiver filter e82d98d
+          Action: "com.facebook.lite.LOCAL_NOTIFICATION_DISMISS"
+      android.intent.action.BOOT_COMPLETED:
+        47ab8de com.instagram.lite/com.facebook.rti.push.service.MqttSystemBroadcastReceiver filter 6488abf
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+          Action: "android.intent.action.USER_PRESENT"
+        baa84f2 com.instagram.lite/com.facebook.lite.datausage.DataUsageBroadCastReceiver filter 5ea31c0
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.LOCKED_BOOT_COMPLETED"
+        a5fdef9 com.instagram.lite/com.facebook.lite.registration.EmptyAppNotifServiceReceiver filter e57fe3e
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      android.intent.action.USER_PRESENT:
+        47ab8de com.instagram.lite/com.facebook.rti.push.service.MqttSystemBroadcastReceiver filter 6488abf
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+          Action: "android.intent.action.USER_PRESENT"
+      com.facebook.lite.NOTIFICATION_DISMISS:
+        d7584ea com.instagram.lite/com.facebook.lite.notification.PushNotificationLogBroadcastReceiver filter 8513db
+          Action: "com.facebook.lite.NOTIFICATION_DISMISS"
+        b185e78 com.instagram.lite/com.facebook.lite.notifications.messaging.impl.DeleteMessageNotificationBroadcastReceiver filter ef8f951
+          Action: "com.facebook.lite.NOTIFICATION_DISMISS"
+      com.facebook.intent.action.prod.RTC_INCOMING_CALL_DISCONNECTED:
+        1b4593a com.instagram.lite/com.facebook.lite.rtc.IncomingCallReceiver filter 9d5d9eb
+          Action: "com.facebook.intent.action.prod.RTC_INCOMING_CALL"
+          Action: "com.facebook.intent.action.prod.RTC_INCOMING_CALL_DISCONNECTED"
+      com.facebook.GET_PHONE_ID:
+        b49bf4 com.instagram.lite/com.facebook.lite.deviceid.FbLitePhoneIdRequestReceiver filter 722ef1d
+          Action: "com.facebook.GET_PHONE_ID"
+      com.facebook.lite.NOTIFICATIONS_SNOOZE_TIMER_RECEIVER_FILTER_NAME:
+        c9c55a8 com.instagram.lite/com.facebook.lite.notification.NotificationsSnoozeTimerReceiver filter 899d8c1
+          Action: "com.facebook.lite.NOTIFICATIONS_SNOOZE_TIMER_RECEIVER_FILTER_NAME"
+      com.facebook.lite.NOTIFICATIONS_REMOVAL_TIMER_RECEIVER:
+        cf559bc com.instagram.lite/com.facebook.lite.notification.NotificationsRemovalTimerReceiver filter 936ad45
+          Action: "com.facebook.lite.NOTIFICATIONS_REMOVAL_TIMER_RECEIVER"
+      android.intent.action.DOWNLOAD_COMPLETE:
+        c28d592 com.instagram.lite/com.facebook.appupdate.DownloadCompleteReceiver filter f619b63
+          Action: "android.intent.action.DOWNLOAD_COMPLETE"
+      com.facebook.intent.action.prod.RTC_INCOMING_CALL:
+        1b4593a com.instagram.lite/com.facebook.lite.rtc.IncomingCallReceiver filter 9d5d9eb
+          Action: "com.facebook.intent.action.prod.RTC_INCOMING_CALL"
+          Action: "com.facebook.intent.action.prod.RTC_INCOMING_CALL_DISCONNECTED"
+      com.whatsapp.otp.OTP_RETRIEVED:
+        ce2549f com.instagram.lite/com.facebook.lite.waotp.WAOtpCodeReceiver filter 420a9ec
+          Action: "com.whatsapp.otp.OTP_RETRIEVED"
+      com.facebook.lite.SHORTCUT_CREATED:
+        19f05b6 com.instagram.lite/com.facebook.lite.shortcuts.ShortcutCreationReceiver filter 53712b7
+          Action: "com.facebook.lite.SHORTCUT_CREATED"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        c0dc742 com.instagram.lite/com.facebook.lite.notification.widget.receiver.NotificationsWidgetProvider filter 3a02353
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+      android.intent.action.MY_PACKAGE_REPLACED:
+        277fd5c com.instagram.lite/com.facebook.lite.pretos.LiteAppComponentReceiver filter d711865
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+          mPriority=999, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+        47ab8de com.instagram.lite/com.facebook.rti.push.service.MqttSystemBroadcastReceiver filter 6488abf
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+          Action: "android.intent.action.USER_PRESENT"
+        b5158e com.instagram.lite/com.facebook.lite.notification.widget.receiver.NotificationsWidgetAppUpgradeReceiver filter 37fa1af
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+        a5fdef9 com.instagram.lite/com.facebook.lite.registration.EmptyAppNotifServiceReceiver filter e57fe3e
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      android.intent.action.ACTION_SHUTDOWN:
+        baa84f2 com.instagram.lite/com.facebook.lite.datausage.DataUsageBroadCastReceiver filter 1488743
+          Action: "android.intent.action.ACTION_SHUTDOWN"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.android.gms.gcm.ACTION_TASK_READY:
+        7a83225 com.instagram.lite/com.facebook.analytics2.logger.GooglePlayUploadService filter f82cffa permission com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+          Action: "com.google.android.gms.gcm.ACTION_TASK_READY"
+      com.google.firebase.MESSAGING_EVENT:
+        370226d com.instagram.lite/com.facebook.lite.notification.LiteFirebaseMessagingService filter e8a0ea2
+          Action: "com.google.firebase.MESSAGING_EVENT"
+        28fa38f com.instagram.lite/com.google.firebase.messaging.FirebaseMessagingService filter a98661c
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          mPriority=-500, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+      com.facebook.secure.packagefinder.intent.ACTION_QUERY_PACKAGES:
+        6797869 com.instagram.lite/com.facebook.secure.packagefinder.PackageFinderService filter e9e72ee
+          Action: "com.facebook.secure.packagefinder.intent.ACTION_QUERY_PACKAGES"
+          Category: "android.intent.category.DEFAULT"
+      com.facebook.browser.lite.BrowserLiteCallback:
+        489c733 com.instagram.lite/com.facebook.lite.browser.BrowserLiteCallbackService filter dcd8af0
+          Action: "com.facebook.browser.lite.BrowserLiteCallback"
+
+Domain verification status:
+  com.instagram.lite:
+    ID: dc74dce2-f900-4a1d-acc9-8627e72cc7bf
+    Signatures: [5F:3E:50:F4:35:58:3C:9A:E6:26:30:2A:71:F7:34:00:44:08:7A:7E:2C:60:AD:AC:FC:25:42:05:A9:93:E3:05]
+    Domain verification state:
+      www.instagram.com: verified
+      instagram.com: verified
+      applink.instagram.com: 1024
+      familycenter.instagram.com: verified
+    User all:
+      Verification link handling allowed: true
+      Selection state:
+        Disabled:
+          www.instagram.com
+          instagram.com
+          ig.me
+          applink.instagram.com
+          familycenter.instagram.com
+
+Permissions:
+  Permission [com.instagram.lite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (f9d4ee5):
+    sourcePackage=com.instagram.lite
+    uid=10175 gids=[] type=0 prot=signature
+    perm=PermissionInfo{e228dba com.instagram.lite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+
+Registered ContentProviders:
+  com.instagram.lite/androidx.core.content.FileProvider:
+    Provider{3c1346b com.instagram.lite/androidx.core.content.FileProvider}
+  com.instagram.lite/com.facebook.lite.deviceid.FbLitePhoneIdProvider:
+    Provider{cfe1bc8 com.instagram.lite/com.facebook.lite.deviceid.FbLitePhoneIdProvider}
+  com.instagram.lite/com.facebook.lite.diode.LiteUserValuesProvider:
+    Provider{958f461 com.instagram.lite/com.facebook.lite.diode.LiteUserValuesProvider}
+  com.instagram.lite/com.facebook.lite.photo.PhotoFileProvider:
+    Provider{95bcb86 com.instagram.lite/com.facebook.lite.photo.PhotoFileProvider}
+  com.instagram.lite/com.facebook.lite.photo.MediaContentProvider:
+    Provider{3bcac47 com.instagram.lite/com.facebook.lite.photo.MediaContentProvider}
+  com.instagram.lite/com.facebook.lite.mobileidservices.FeO2ContentProvider:
+    Provider{9bd2c74 com.instagram.lite/com.facebook.lite.mobileidservices.FeO2ContentProvider}
+  com.instagram.lite/com.facebook.lite.diode.UserValuesProvider:
+    Provider{ecf759d com.instagram.lite/com.facebook.lite.diode.UserValuesProvider}
+  com.instagram.lite/androidx.startup.InitializationProvider:
+    Provider{8991a12 com.instagram.lite/androidx.startup.InitializationProvider}
+  com.instagram.lite/com.facebook.secure.fileprovider.SecureFileProvider:
+    Provider{b0dc5e3 com.instagram.lite/com.facebook.secure.fileprovider.SecureFileProvider}
+  com.instagram.lite/com.facebook.lite.metainstallreferrer.InstallReferrerProvider:
+    Provider{7ba9be0 com.instagram.lite/com.facebook.lite.metainstallreferrer.InstallReferrerProvider}
+
+ContentProvider Authorities:
+  [com.instagram.lite.provider.FirstPartyLiteUserValuesProvider]:
+    Provider{958f461 com.instagram.lite/com.facebook.lite.diode.LiteUserValuesProvider}
+      applicationInfo=ApplicationInfo{532ce99 com.instagram.lite}
+  [com.instagram.lite.provider.LiteUserValuesProvider]:
+    Provider{958f461 com.instagram.lite/com.facebook.lite.diode.LiteUserValuesProvider}
+      applicationInfo=ApplicationInfo{4eac55e com.instagram.lite}
+  [com.instagram.lite.androidx-startup]:
+    Provider{8991a12 com.instagram.lite/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{4ccdd3f com.instagram.lite}
+  [com.instagram.lite.identity.feo2.api]:
+    Provider{9bd2c74 com.instagram.lite/com.facebook.lite.mobileidservices.FeO2ContentProvider}
+      applicationInfo=ApplicationInfo{45d960c com.instagram.lite}
+  [com.instagram.lite.provider.phoneid]:
+    Provider{cfe1bc8 com.instagram.lite/com.facebook.lite.deviceid.FbLitePhoneIdProvider}
+      applicationInfo=ApplicationInfo{8d8bb55 com.instagram.lite}
+  [com.instagram.lite.provider.UserValuesProvider]:
+    Provider{ecf759d com.instagram.lite/com.facebook.lite.diode.UserValuesProvider}
+      applicationInfo=ApplicationInfo{619d96a com.instagram.lite}
+  [com.instagram.lite.securefileprovider]:
+    Provider{b0dc5e3 com.instagram.lite/com.facebook.secure.fileprovider.SecureFileProvider}
+      applicationInfo=ApplicationInfo{b3c0e5b com.instagram.lite}
+  [com.instagram.lite.provider.InstallReferrerProvider]:
+    Provider{7ba9be0 com.instagram.lite/com.facebook.lite.metainstallreferrer.InstallReferrerProvider}
+      applicationInfo=ApplicationInfo{a5406f8 com.instagram.lite}
+  [com.instagram.lite.provider.FirstPartyUserValuesProvider]:
+    Provider{ecf759d com.instagram.lite/com.facebook.lite.diode.UserValuesProvider}
+      applicationInfo=ApplicationInfo{bb6b7d1 com.instagram.lite}
+  [com.instagram.lite.media]:
+    Provider{3bcac47 com.instagram.lite/com.facebook.lite.photo.MediaContentProvider}
+      applicationInfo=ApplicationInfo{5742236 com.instagram.lite}
+  [com.instagram.lite.photofileprovider]:
+    Provider{95bcb86 com.instagram.lite/com.facebook.lite.photo.PhotoFileProvider}
+      applicationInfo=ApplicationInfo{a33537 com.instagram.lite}
+  [com.instagram.lite.apkfileprovider]:
+    Provider{3c1346b com.instagram.lite/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{f3e9aa4 com.instagram.lite}
+
+Key Set Manager:
+  [com.instagram.lite]
+      Signing KeySets: 59
+
+Packages:
+  Package [com.instagram.lite] (f9e000d):
+    userId=10175
+    pkg=Package{1582bc2 com.instagram.lite}
+    codePath=/data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==
+    resourcePath=/data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==
+    legacyNativeLibraryDir=/data/app/~~8NvV3avhb4jT97H9Z5hnXQ==/com.instagram.lite-8K0QBIO8AM_Zpk6OXCKgDg==/lib
+    extractNativeLibs=true
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=671155609 minSdk=26 targetSdk=34
+    minExtensionVersions=[]
+    versionName=437.0.0.5.112
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=PackageImpl{1582bc2 com.instagram.lite}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE HAS_DOMAIN_URLS PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesIntents=[Intent { act=android.media.action.IMAGE_CAPTURE }, Intent { act=android.intent.action.PICK dat=content://*/* typ=*/* }, Intent { act=android.intent.action.VIEW dat=*:/* }, Intent { act=android.intent.action.MAIN }, Intent { act=com.facebook.secure.packagefinder.intent.ACTION_QUERY_PACKAGES }, Intent { act=com.facebook.GET_PHONE_ID }, Intent { act=com.facebook.GET_UNIQUE_ID }]
+    dataDir=/data/user/0/com.instagram.lite
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2024-12-10 13:29:11
+    firstInstallTime=2024-12-10 13:29:11
+    lastUpdateTime=2024-12-10 13:29:11
+    signatures=PackageSignatures{9ebedd3 version:2, signatures:[43c4b509], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    declared permissions:
+      com.instagram.lite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: prot=signature, INSTALLED
+    requested permissions:
+      com.facebook.lite.provider.ACCESS
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.BATTERY_STATS
+      android.permission.BROADCAST_STICKY
+      android.permission.CALL_PHONE
+      android.permission.CAMERA
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.GET_TASKS
+      android.permission.INTERNET
+      android.permission.READ_CALENDAR
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.READ_CONTACTS
+      android.permission.GET_ACCOUNTS
+      android.permission.AUTHENTICATE_ACCOUNTS
+      android.permission.MANAGE_ACCOUNTS
+      android.permission.READ_PHONE_STATE
+      android.permission.READ_PHONE_NUMBERS
+      android.permission.READ_PROFILE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.RECORD_AUDIO
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.SCHEDULE_EXACT_ALARM
+      android.permission.VIBRATE
+      android.permission.WAKE_LOCK
+      android.permission.WRITE_CALENDAR
+      android.permission.WRITE_CONTACTS
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_MEDIA_IMAGES
+      android.permission.READ_MEDIA_VIDEO
+      android.permission.READ_MEDIA_VISUAL_USER_SELECTED
+      android.permission.POST_NOTIFICATIONS
+      com.google.android.gms.permission.AD_ID
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      com.android.launcher.permission.UNINSTALL_SHORTCUT
+      com.facebook.katana.provider.ACCESS
+      com.facebook.orca.provider.ACCESS
+      com.facebook.mlite.provider.ACCESS
+      com.facebook.wakizashi.provider.ACCESS
+      com.sec.android.provider.badge.permission.WRITE
+      com.sec.android.provider.badge.permission.READ
+      com.htc.launcher.permission.READ_SETTINGS
+      com.htc.launcher.permission.UPDATE_SHORTCUT
+      com.sonyericsson.home.permission.BROADCAST_BADGE
+      com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+      com.huawei.android.launcher.permission.CHANGE_BADGE
+      com.huawei.android.launcher.permission.READ_SETTINGS
+      com.huawei.android.launcher.permission.WRITE_SETTINGS
+      com.oppo.launcher.permission.READ_SETTINGS
+      com.oppo.launcher.permission.WRITE_SETTINGS
+      android.permission.REORDER_TASKS
+      android.permission.USE_FULL_SCREEN_INTENT
+      android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+      android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+      android.permission.BLUETOOTH
+      android.permission.FOREGROUND_SERVICE_MICROPHONE
+      android.permission.FOREGROUND_SERVICE
+      android.permission.FOREGROUND_SERVICE_DATA_SYNC
+      android.permission.RUN_USER_INITIATED_JOBS
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+      com.instagram.lite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+      com.google.android.c2dm.permission.RECEIVE
+      android.permission.READ_EXTERNAL_STORAGE
+    install permissions:
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE: granted=true
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      android.permission.MANAGE_ACCOUNTS: granted=true
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.android.launcher.permission.UNINSTALL_SHORTCUT: granted=true
+      android.permission.READ_PROFILE: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.GET_TASKS: granted=true
+      android.permission.AUTHENTICATE_ACCOUNTS: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.REORDER_TASKS: granted=true
+      android.permission.USE_FULL_SCREEN_INTENT: granted=true
+      android.permission.BROADCAST_STICKY: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.SCHEDULE_EXACT_ALARM: granted=true
+      com.instagram.lite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      com.google.android.gms.permission.AD_ID: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=204893 installed=true hidden=false suspended=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      overlay paths:
+        /product/overlay/EmulationPixel4/EmulationPixel4Overlay.apk
+      legacy overlay paths:
+        /product/overlay/EmulationPixel4/EmulationPixel4Overlay.apk
+      gids=[3002, 3003]
+      runtime permissions:
+        android.permission.READ_CALENDAR: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.ACCESS_FINE_LOCATION: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_PHONE_NUMBERS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_COARSE_LOCATION: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_PHONE_STATE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.CALL_PHONE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_CONTACTS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.CAMERA: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_CALENDAR: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.GET_ACCOUNTS: granted=false, flags=[ USER_SET|USER_FIXED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.RECORD_AUDIO: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_CONTACTS: granted=false, flags=[ USER_SET|USER_FIXED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+      disabledComponents:
+        com.facebook.lite.notification.widget.receiver.NotificationsWidgetProvider
+      enabledComponents:
+        com.facebook.lite.photo.MediaContentProvider
+        com.facebook.lite.sharing.NativeShareSheetReceiver
+        com.facebook.lite.service.AppInitService
+        com.facebook.lite.datausage.DataUsageBroadCastReceiver
+        com.facebook.lite.notification.widget.receiver.NotificationsWidgetForceUpdateReceiver
+        com.facebook.lite.mobileidservices.FeO2ContentProvider
+        com.instagram.lite.stories.activities.ShareToIgChatsAlias
+        com.instagram.lite.stories.activities.ShareTextToIgChatsAlias
+        com.facebook.lite.messagingapps.FirstPartyMessagingAppsDetectionService
+        com.facebook.lite.diode.UserValuesProvider
+        com.facebook.lite.download.DownloadService
+        com.facebook.lite.service.SnoozeNotificationService
+        androidx.startup.InitializationProvider
+        com.facebook.lite.FbnsIntentService$CallbackReceiver
+        com.facebook.secure.fileprovider.SecureFileProvider
+        com.facebook.lite.media.AlbumGalleryActivity
+        com.facebook.lite.service.AppRestartService
+        com.facebook.lite.rtc.IncomingCallReceiver
+        com.facebook.lite.nativeRtc.receiver.NotificationActionReceiver
+        com.facebook.lite.notification.PushNotificationLogBroadcastReceiver
+        com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppCacheJobService
+        com.facebook.lite.deviceid.FbLitePhoneIdUpdater$LocalBroadcastReceiver
+        com.facebook.lite.notification.BalanceSimulationNotificationBroadcastReceiver
+        com.facebook.voltron.download.scheduledinstaller.OxygenScheduledInstallerJobService
+        com.facebook.lite.notification.FullScreenNotificationActivity
+        com.facebook.lite.MainActivity
+        com.facebook.lite.bugreporter.screencast.ScreencastActivity
+        com.facebook.analyticslite.memory.MemoryDumpUploadService
+        com.facebook.lite.shortcuts.ShortcutCreationReceiver
+        com.facebook.lite.rtc.impl.service.RtcService
+        com.facebook.lite.metainstallreferrer.InstallReferrerProvider
+        com.facebook.lite.notification.LiteFirebaseMessagingService
+        com.facebook.lite.bugreporter.screencast.ScreencastService
+        com.facebook.lite.loginWithFacebook.wrapper.CustomTabMainActivity
+        com.facebook.lite.notification.messaging.ArmadilloNotificationForegroundService
+        com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+        com.facebook.videolite.api.jobscheduler.UploadJobSchedulerService
+        com.facebook.lite.service.NotificationQuickActionService
+        com.facebook.lite.loginWithFacebook.wrapper.CustomTabActivity
+        com.instagram.lite.stories.activities.ShareToIgFeedAlias
+        com.facebook.lite.browser.ChromeCustomTabsReceiver
+        com.facebook.lite.phonenumberhint.PhoneNumberHint
+        com.facebook.lite.waotp.WAOtpCodeReceiver
+        com.facebook.lite.notifications.messaging.impl.DeleteMessageNotificationBroadcastReceiver
+        com.facebook.lite.pretos.LiteAppComponentReceiver
+        com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppReceiver
+        com.facebook.lite.notification.NotificationsSnoozeTimerReceiver
+        com.facebook.videolite.api.VideoUploadJobService
+        com.facebook.rti.push.service.MqttSystemBroadcastReceiver
+        com.facebook.rti.push.service.FbnsService
+        com.facebook.browser.lite.BrowserLiteIntentService
+        com.facebook.lite.FbnsForegroundService
+        com.google.firebase.components.ComponentDiscoveryService
+        com.facebook.analytics2.logger.service.LollipopUploadSafeService
+        com.facebook.video.heroplayer.service.HeroKeepAliveService
+        com.facebook.lite.service.NotificationLoggingService
+        com.google.firebase.iid.FirebaseInstanceIdReceiver
+        com.facebook.analytics2.logger.legacy.uploader.Analytics2UploadService
+        com.facebook.lite.browser.BrowserLiteCallbackService
+        com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppCacheService
+        com.facebook.analytics2.logger.legacy.uploader.HighPriUploadRetryReceiver
+        androidx.core.content.FileProvider
+        com.facebook.lite.intent.IntentScheduler
+        com.facebook.lite.deviceid.FbLitePhoneIdProvider
+        com.facebook.appcomponentmanager.AppComponentManagerService
+        com.facebook.lite.campaign.CampaignReceiver
+        com.facebook.analytics2.logger.legacy.uploader.AlarmBasedUploadService
+        com.facebook.lite.appManager.AppManagerReceiver
+        com.instagram.lite.stories.activities.ShareToIgStoriesAlias
+        com.facebook.lite.notification.NotificationSchedulingReceiver
+        com.facebook.lite.registration.EmptyAppNotifServiceReceiver
+        com.facebook.lite.storagemanager.ManageStorageActivity
+        com.google.firebase.messaging.FirebaseMessagingService
+        com.facebook.lite.FbnsIntentService
+        com.google.android.gms.auth.api.signin.RevocationBoundService
+        com.facebook.lite.diode.LiteUserValuesProvider
+        com.facebook.lite.notification.NotificationsRemovalTimerReceiver
+        com.facebook.lite.loginWithFacebookActivity.LoginWithFBActivity
+        com.facebook.lite.webviewrtc.RTCService
+        com.facebook.appupdate.DownloadCompleteReceiver
+        com.facebook.analytics2.logger.legacy.uploader.LollipopUploadService
+        com.facebook.lite.notification.widget.receiver.NotificationsWidgetAppUpgradeReceiver
+        com.facebook.lite.intent.WakefulIntentService
+        com.facebook.lite.loginWithFacebook.wrapper.FacebookActivity
+        com.facebook.lite.deviceid.FbLitePhoneIdRequestReceiver
+        com.facebook.lite.service.MediaUploadService
+        com.facebook.videolite.api.VideoUploadForegroundService
+        
+*** SERVICE 'package' DUMP TIMEOUT (10000ms) EXPIRED ***
+
+
+*** SERVICE 'package' DUMP TIMEOUT (10000ms) EXPIRED ***
+

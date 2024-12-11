@@ -1,0 +1,12 @@
+{
+  "tag": "2024-12-11_015452",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "prompt": null,
+    "stop_intent": "am force-stop com.instagram.lite"
+  },
+  "start_state": "5fefb8af825cf2966741a169330f8431",
+  "stop_state": "5fefb8af825cf2966741a169330f8431",
+  "event_str": "KillAppEvent()"
+}

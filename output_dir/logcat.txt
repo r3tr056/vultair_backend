@@ -1,0 +1,930 @@
+--------- beginning of main
+12-11 09:42:17.085  2535  3779 I Finsky:background: [66] afic.a(15): SCH: no pending jobs to schedule.
+12-11 09:42:17.087  2535  3781 I Finsky:background: [68] afjz.a(24): SCH: job service finished with id 10653.
+12-11 09:42:17.119  2535  3014 I Finsky:background: [62] afic.a(15): SCH: no pending jobs to schedule.
+12-11 09:42:17.121  2535  3781 I Finsky:background: [68] afjz.a(24): SCH: job service finished with id 10652.
+12-11 09:42:17.174  1391  1391 I cr_A11yState: Enabled accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService, null]
+12-11 09:42:17.174  1391  1391 I cr_A11yState: Running accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService]
+12-11 09:42:17.176  1391  1391 I cr_A11yState: Will check again after 500 milliseconds.
+12-11 09:42:17.194  1110  3451 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 09:42:17.211  1110  3513 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 09:42:17.221  2535  3778 I Finsky:background: [65] qwh.accept(58): SCH: Scheduling phonesky job Id: 47-15, CT: 1733890336995, Constraints: [{ L: 3600000, D: 10642037, C: CHARGING_NONE, I: IDLE_REQUIRED, N: NET_NONE }]
+12-11 09:42:17.269  2535  2731 I Finsky:background: [47] mja.apply(252): SCH: Scheduling 1 system job(s)
+12-11 09:42:17.275  2535  2731 I Finsky:background: [47] afie.b(244): SCH: Scheduling system job Id: 10654, L: 3599720, D: 10641757, C: false, I: true, N: 0
+12-11 09:42:17.363  1520  1532 I gle.android.gm: Background concurrent copying GC freed 80345(4622KB) AllocSpace objects, 54(2396KB) LOS objects, 49% free, 10MB/21MB, paused 2.935ms,411us total 163.136ms
+12-11 09:42:17.444  1110  3252 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 09:42:17.491  1110  3451 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 09:42:17.715  1110  3451 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 09:42:17.720  1391  1391 I cr_A11yState: Enabled accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService, null]
+12-11 09:42:17.720  1391  1391 I cr_A11yState: Running accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService]
+12-11 09:42:17.720  1391  1391 I cr_A11yState: Will check again after 1000 milliseconds.
+12-11 09:42:17.757  1110  1118 I .gms.persisten: Background young concurrent copying GC freed 202877(11MB) AllocSpace objects, 7(184KB) LOS objects, 37% free, 17MB/28MB, paused 955us,188us total 171.004ms
+12-11 09:42:17.944  1110  3513 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 09:42:18.053  1110  3451 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 09:42:18.256  2663  2663 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3095 
+12-11 09:42:18.309  2663  2663 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2167 repeatCheckTimes = 0, locked = false
+12-11 09:42:18.309  2663  2663 I GoogleInputMethodService: GoogleInputMethodService.onDestroy():1426 
+12-11 09:42:18.361  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019900, callback=btp@4a38849, lastModifier=2, keyCodes=[47], actions=[0]}
+12-11 09:42:18.387  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzp->kxd, jzp->kxd, kud->kuc, kud->kuc, kud->kuc, kud->kuc] takes 26ms
+12-11 09:42:18.395  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ddl is unavailable
+12-11 09:42:18.400  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module kjy is unavailable
+12-11 09:42:18.401  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=0, callback=jju@507d038, lastModifier=0, keyCodes=[204], actions=[0]}
+12-11 09:42:18.403  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019898, callback=jju@dcb7f77, lastModifier=1, keyCodes=[62, 59], actions=[0, 0]}
+12-11 09:42:18.407  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=0, callback=jju@dcb7f77, lastModifier=1, keyCodes=[62, 60], actions=[0, 0]}
+12-11 09:42:18.408  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module kkb is unavailable
+12-11 09:42:18.409  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module kyf is unavailable
+12-11 09:42:18.409  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module llx is unavailable
+12-11 09:42:18.412  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzp->kxd] takes 60ms
+12-11 09:42:18.415  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module jcn is unavailable
+12-11 09:42:18.425  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzp->kxd] takes 89ms
+12-11 09:42:18.468  2663  2663 I EmojifyExtensionImpl: EmojifyExtensionImpl.onDestroy():603 Destroying Emojify extension dyh@40336e2.
+12-11 09:42:18.504  2663  2663 I AccessPointsListHolderController: AccessPointsListHolderController.removeAccessPoint():409 The access point share is not added
+12-11 09:42:18.504  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eyt is unavailable
+12-11 09:42:18.505  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dfu is unavailable
+12-11 09:42:18.513  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gme is unavailable
+12-11 09:42:18.513  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module lwi is unavailable
+12-11 09:42:18.513  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd, jzs->kxd] takes 22ms
+12-11 09:42:18.514  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dvf is unavailable
+12-11 09:42:18.514  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dwy is unavailable
+12-11 09:42:18.514  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ekz is unavailable
+12-11 09:42:18.528  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eph is unavailable
+12-11 09:42:18.533  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module exg is unavailable
+12-11 09:42:18.535  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eyu is unavailable
+12-11 09:42:18.535  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fbh is unavailable
+12-11 09:42:18.536  2663  2663 I JapaneseMozcExtension: JapaneseMozcExtension.onDestroy():52 
+12-11 09:42:18.536  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fbu is unavailable
+12-11 09:42:18.540  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fjr is unavailable
+12-11 09:42:18.542  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fmy is unavailable
+12-11 09:42:18.542  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IEmojiOrGifExtension is unavailable
+12-11 09:42:18.543  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IEmoticonExtension is unavailable
+12-11 09:42:18.544  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module frg is unavailable
+12-11 09:42:18.544  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fum is unavailable
+12-11 09:42:18.544  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gnu is unavailable
+12-11 09:42:18.554  2663  2663 I UniversalDictationExtension: UniversalDictationExtension.onDestroyExtension():87 onDestroy [UD]
+12-11 09:42:18.555  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gnv is unavailable
+12-11 09:42:18.556  2663  2663 I InputContextSharingModule: InputContextSharingModule.onDestroy():54 onDestroy()
+12-11 09:42:18.568  2663  2777 I InputActionMetricsProcessor: InputActionMetricsProcessor.onDetached():107 Detached from metrics manager.
+12-11 09:42:18.576  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gsf is unavailable
+12-11 09:42:18.585  2663  2663 I OnDevicePackDownloadModule: OnDevicePackDownloadModule.onDestroy():95 onDestroy()
+12-11 09:42:18.586  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gsq is unavailable
+12-11 09:42:18.587  2663  2663 I NewS3RecognizerModule: NewS3RecognizerModule.onDestroy():21 onDestroy [news3]
+12-11 09:42:18.591  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gun is unavailable
+12-11 09:42:18.591  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ido is unavailable
+12-11 09:42:18.592  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019895, callback=cab@59efaf3, lastModifier=2, keyCodes=[48], actions=[0]}
+12-11 09:42:18.592  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019890, callback=cab@2ddc7e5, lastModifier=2, keyCodes=[50], actions=[0]}
+12-11 09:42:18.593  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019894, callback=cab@b2f9af2, lastModifier=65536, keyCodes=[76], actions=[0]}
+12-11 09:42:18.593  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019893, callback=cab@b8b9ba8, lastModifier=2, keyCodes=[37], actions=[0]}
+12-11 09:42:18.594  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132018462, callback=cab@ce53bb6, lastModifier=2, keyCodes=[39], actions=[0]}
+12-11 09:42:18.595  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dhi is unavailable
+12-11 09:42:18.596  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module foo is unavailable
+12-11 09:42:18.596  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module for is unavailable
+12-11 09:42:18.597  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gna is unavailable
+12-11 09:42:18.597  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module kju is unavailable
+12-11 09:42:18.610  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ifo is unavailable
+12-11 09:42:18.610  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IBannerExtension is unavailable
+12-11 09:42:18.610  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module luq is unavailable
+12-11 09:42:18.611  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 121ms
+12-11 09:42:18.611  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dud is unavailable
+12-11 09:42:18.614  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 121ms
+12-11 09:42:18.616  1110  3513 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-11 09:42:18.616  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module geb is unavailable
+12-11 09:42:18.617  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 130ms
+12-11 09:42:18.618  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eov is unavailable
+12-11 09:42:18.625  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 152ms
+12-11 09:42:18.625  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dxu is unavailable
+12-11 09:42:18.631  2663  2663 I AbstractOpenableExtension: AbstractOpenableExtension.maybeDestroyExistingKeyboardGroupManager():535 Destroy existing keyboard group manager in dzh
+12-11 09:42:18.635  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IExpressionMomentExtension is unavailable
+12-11 09:42:18.642  2663  2663 I AbstractOpenableExtension: AbstractOpenableExtension.maybeDestroyExistingKeyboardGroupManager():535 Destroy existing keyboard group manager in fsj
+12-11 09:42:18.651  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module FastAccessBarExtension is unavailable
+12-11 09:42:18.651  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IBitmojiExtension is unavailable
+12-11 09:42:18.651  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 188ms
+12-11 09:42:18.652  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fnz is unavailable
+12-11 09:42:18.652  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IUniversalMediaExtension is unavailable
+12-11 09:42:18.652  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 195ms
+12-11 09:42:18.659  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dqf is unavailable
+12-11 09:42:18.660  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 210ms
+12-11 09:42:18.661  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module fsz is unavailable
+12-11 09:42:18.661  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module efv is unavailable
+12-11 09:42:18.662  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 216ms
+12-11 09:42:18.663  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ecp is unavailable
+12-11 09:42:18.665  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd, jzs->kxd, jzs->kxd] takes 217ms
+12-11 09:42:18.670  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dji is unavailable
+12-11 09:42:18.673  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gdv is unavailable
+12-11 09:42:18.676  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 231ms
+12-11 09:42:18.682  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ddp is unavailable
+12-11 09:42:18.682  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module gia is unavailable
+12-11 09:42:18.683  2663  2663 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener ipg@2ab8506 was not registered for notification class jwe
+12-11 09:42:18.683  2663  2663 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener ipf@295a3e1 was not registered for notification class jvx
+12-11 09:42:18.684  2663  2663 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener kxd@a89d948 was not registered for notification class igb
+12-11 09:42:18.684  2663  2663 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener iow@40741f4 was not registered for notification class jay
+12-11 09:42:18.697  2663  2663 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener idi@d9c6c1b was not registered for notification class iez
+12-11 09:42:18.702  2663  2663 W NotificationCenter: NotificationCenter.unregisterListener():469 Listener idh@122ab91 was not registered for notification class ifb
+12-11 09:42:18.702  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019899, callback=fgv@e89836a, lastModifier=2, keyCodes=[62], actions=[0]}
+12-11 09:42:18.711  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=2132019897, callback=null, lastModifier=2, keyCodes=[8], actions=[0]}
+12-11 09:42:18.715  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module idm is unavailable
+12-11 09:42:18.717  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module lhv is unavailable
+12-11 09:42:18.722  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module loi is unavailable
+12-11 09:42:18.728  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module eoz is unavailable
+12-11 09:42:18.733  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IStickerExtension is unavailable
+12-11 09:42:18.733  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module lua is unavailable
+12-11 09:42:18.734  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ghz is unavailable
+12-11 09:42:18.734  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=0, callback=fgv@fa5b51c, lastModifier=0, keyCodes=[57, 57], actions=[1, 0]}
+12-11 09:42:18.734  2663  2663 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():183 Unregister key sequence lii{labelResId=0, callback=fgv@be70708, lastModifier=0, keyCodes=[58, 58], actions=[1, 0]}
+12-11 09:42:18.735  2663  2663 I AbstractOpenableExtension: AbstractOpenableExtension.maybeDestroyExistingKeyboardGroupManager():535 Destroy existing keyboard group manager in fpu
+12-11 09:42:18.739  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IEmojiSearchExtension is unavailable
+12-11 09:42:18.762  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dgx is unavailable
+12-11 09:42:18.762  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [ktn->kui] takes 23ms
+12-11 09:42:18.764  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module IGifKeyboardExtension is unavailable
+12-11 09:42:18.765  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module ITranslateUIExtension is unavailable
+12-11 09:42:18.769  1391  1391 I cr_A11yState: Enabled accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService, null]
+12-11 09:42:18.769  1391  1391 I cr_A11yState: Running accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService]
+12-11 09:42:18.770  1391  1391 I cr_A11yState: Will check again after 2000 milliseconds.
+12-11 09:42:18.795  2663  2663 I ModuleManager: ModuleManager$ModuleInitListener.maybeUnloadModuleOnUnavailable():1396 module dty is unavailable
+12-11 09:42:18.795  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [ktn->kui] takes 29ms
+12-11 09:42:18.808  2663  2663 W NotificationCenter: NotificationCenter$NotificationQueue.notifyOnExecutor():883 Heavy notify work detected on UI thread: [jzs->kxd] takes 383ms
+12-11 09:42:18.817  2663  2663 I GoogleInputMethodService: GoogleInputMethodService.onDestroy():1462 Maybe update OEM display config because of service destruction
+12-11 09:42:18.828  1110  3791 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-11 09:42:18.838  2663  2663 I DeviceModeModule: DeviceModeModule.calculateAndNotify():198 Window metrics is not available, fallback to app context.
+12-11 09:42:18.839  2663  2663 I DeviceModeModule: DeviceModeModule.calculateAndNotify():225 Device mode 'phone' from display metrics 'DisplayMetrics{density=0.0, width=1080, height=2280, scaledDensity=0.0, xdpi=440.0, ydpi=440.0}' or smallestScreenWidthDp: 392
+12-11 09:42:18.840  2663  2663 I GoogleInputMethodService: GoogleInputMethodService.clearInputMethodServiceData():1546 clearInputMethodServiceData for onDestroy
+12-11 09:42:18.850  2663  2663 I GoogleInputMethodService: GoogleInputMethodService.discardAllKeyboardViewAndInputView():1750 discardAllKeyboardViewAndInputView()
+12-11 09:42:18.859  2663  2663 I InputMethodEntryManager: InputMethodEntryManager.notifyCurrentInputMethodEntryOnContextChanged():555 notifyCurrentInputMethodEntryOnContextChanged()
+12-11 09:42:18.860  2663  2663 I InputMethodEntryManager: InputMethodEntryManager.notifyCurrentInputMethodEntryOnContextChanged():576 Notify current input method entry changed on context change
+12-11 09:42:18.863  2663  2663 I KeyboardThemeProvider: KeyboardThemeProvider.reset():40 Reset keyboard theme
+12-11 09:42:18.876  2663  2663 I KeyboardContextProvider: KeyboardContextProvider.setBaseContextAndInvalidKeyboardContextCache():88 setBaseContextAndInvalidKeyboardContextCache(): null
+12-11 09:42:18.943   543  1870 W InputManager-JNI: Input channel object 'f294bff InputMethod (client)' was disposed without first being removed with the input manager!
+12-11 09:42:18.967  2663  2663 I AbstractOpenableExtension: AbstractOpenableExtension$3.onSuccess():549 KeyboardGroupManager destroyed in dzh.
+12-11 09:42:18.968  2663  2663 I AbstractOpenableExtension: AbstractOpenableExtension$3.onSuccess():549 KeyboardGroupManager destroyed in fsj.
+12-11 09:42:18.968  2663  2663 I AbstractOpenableExtension: AbstractOpenableExtension$3.onSuccess():549 KeyboardGroupManager destroyed in fpu.
+12-11 09:42:19.165  1110  1927 I HeterodyneSyncer: (REDACTED) Removed %d invalid users
+12-11 09:42:19.217  3691  3744 I Finsky:quick_launch: [57] oxr.f(41): Subscription detail: DataSubscriptionInfo{groupIdLevel1=null, serviceProviderName=[Zr1R7g28S8p7iucp_gnNJJtsRl-pgO3Y6eIkCh24Iy0], simCarrierId=1}
+12-11 09:42:19.227  3691  3691 I Finsky:quick_launch: [2] oxq.onSubscriptionsChanged(6): onSubscriptionsChanged
+12-11 09:42:19.237  3691  3744 I Finsky:quick_launch: [57] olh.d(124): playLoggingServerUrl: https://play.googleapis.com/play/log
+12-11 09:42:19.237  3691  3744 I Finsky:quick_launch: [57] olh.d(143): playLoggingServerTimestampUrl: https://play.googleapis.com/play/log/timestamp
+12-11 09:42:19.434  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.onetimeinitializer
+12-11 09:42:20.053  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.modulemetadata
+12-11 09:42:20.113  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.syncadapters.contacts
+12-11 09:42:20.188  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.gsf
+12-11 09:42:20.193  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.tag
+12-11 09:42:20.243  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.apps.nexuslauncher
+12-11 09:42:20.303  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.feedback
+12-11 09:42:20.385  1110  1118 I .gms.persisten: Background young concurrent copying GC freed 167571(8946KB) AllocSpace objects, 11(288KB) LOS objects, 32% free, 19MB/28MB, paused 2.247ms,1.429ms total 101.978ms
+12-11 09:42:20.551  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.android.settings
+12-11 09:42:20.608  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.google.android.apps.wallpaper
+12-11 09:42:20.667  1110  3513 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.android.systemui
+12-11 09:42:20.812  1391  1391 I cr_A11yState: Enabled accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService, null]
+12-11 09:42:20.812  1391  1391 I cr_A11yState: Running accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService]
+12-11 09:42:20.812  1391  1391 I cr_A11yState: Will check again after 4000 milliseconds.
+12-11 09:42:20.873   390   390 E android.hardware.power.stats@1.0-service-mock: Failed to getEnergyData
+12-11 09:42:22.077   972   972 I Choreographer: Skipped 40 frames!  The application may be doing too much work on its main thread.
+12-11 09:42:25.484   972   986 I OpenGLRenderer: Davey! duration=2759ms; Flags=0, FrameTimelineVsyncId=7025, IntendedVsync=191972044358, Vsync=192638710998, InputEventId=0, HandleInputStart=192649987900, AnimationStart=192651325200, PerformTraversalsStart=192670326200, DrawStart=192671629300, FrameDeadline=192005377690, FrameInterval=192647365500, FrameStartTime=16666666, SyncQueued=192691225600, SyncStart=192832596400, IssueDrawCommandsStart=192874994600, SwapBuffers=194507744700, FrameCompleted=194872956700, DequeueBufferDuration=563500, QueueBufferDuration=12404800, GpuCompleted=194872956700, SwapBuffersCompleted=194540559100, DisplayPresentTime=0, 
+--------- beginning of system
+12-11 09:42:25.493   543   559 W Looper  : Slow delivery took 319ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=31
+12-11 09:42:25.649   543   559 W Looper  : Drained
+12-11 09:42:30.637   543   543 W Looper  : Slow delivery took 5459ms main h=android.os.Handler c=com.android.internal.os.BinderCallsStats$1@599779b m=0
+12-11 09:42:30.983   543   559 W Looper  : Slow delivery took 204ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=31
+12-11 09:42:31.081   543   559 W Looper  : Drained
+12-11 09:42:31.153  1391  1391 I cr_A11yState: Enabled accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService, null]
+12-11 09:42:31.172  1391  1391 I cr_A11yState: Running accessibility services: [io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService]
+12-11 09:42:31.173  1391  1391 I cr_A11yState: Max delay reached. Send information as is.
+12-11 09:42:31.980  1391  1391 I cr_A11yState: Informing listeners of changes.
+12-11 09:42:31.981  1391  1391 I cr_A11yState: New AccessibilityState: State{isScreenReaderEnabled=true, isTouchExplorationEnabled=false, isPerformGesturesEnabled=false, isAnyAccessibilityServiceEnabled=true, isAccessibilityToolPresent=false, isSpokenFeedbackServicePresent=true, isTextShowPasswordEnabled=true, isOnlyPasswordManagersEnabled=false}
+12-11 09:42:32.804   330  3568 W resolv  : SSL_connect write error 0, mark 0xf0066: Try again
+12-11 09:42:32.879   330  3568 W resolv  : TLS Handshake failed
+12-11 09:42:32.880   330  3568 W resolv  : query failed
+12-11 09:42:32.880   330  3568 W resolv  : validateDnsTlsServer returned 0 for 10.0.2.3
+12-11 09:42:32.911   330  3568 W resolv  : Validation failed
+12-11 09:42:35.905   543  1870 I ActivityManager: Killing 1376:com.google.android.apps.photos/u0a126 (adj 975): empty #17
+12-11 09:42:36.373   331   331 I Zygote  : Process 1376 exited due to signal 9 (Killed)
+12-11 09:42:36.551   543   571 I libprocessgroup: Successfully killed process cgroup uid 10126 pid 1376 in 488ms
+12-11 09:42:36.705   543   543 W Looper  : Slow dispatch took 102ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=5
+12-11 09:42:36.708   543   559 W Looper  : Slow dispatch took 140ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=com.android.server.am.UidObserverController$$ExternalSyntheticLambda0@f459e84 m=0
+12-11 09:42:36.941   543   543 W Looper  : Drained
+12-11 09:42:37.006   543   559 E RemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService
+12-11 09:42:38.023   972   986 I OpenGLRenderer: Davey! duration=722ms; Flags=0, FrameTimelineVsyncId=7043, IntendedVsync=207705377062, Vsync=207755377060, InputEventId=-145818198, HandleInputStart=207771592400, AnimationStart=207827619600, PerformTraversalsStart=207866274500, DrawStart=207866931400, FrameDeadline=207722043728, FrameInterval=207771361700, FrameStartTime=16666666, SyncQueued=207867236500, SyncStart=207883258200, IssueDrawCommandsStart=207885125700, SwapBuffers=208398515500, FrameCompleted=208443933500, DequeueBufferDuration=392500, QueueBufferDuration=6164400, GpuCompleted=208427690100, SwapBuffersCompleted=208443933500, DisplayPresentTime=0, 
+12-11 09:42:39.547  1237  1802 I bake    : (REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s
+12-11 09:42:40.014  1110  3513 I HeterodyneSyncer: (REDACTED) Removed %d invalid users
+12-11 09:42:41.820   543   570 W ActivityManager: Slow operation: 128ms so far, now at startProcess: returned from zygote!
+12-11 09:42:41.947   543   570 W ActivityManager: Slow operation: 254ms so far, now at startProcess: done updating battery stats
+12-11 09:42:41.948   543   570 W ActivityManager: Slow operation: 255ms so far, now at startProcess: building log message
+12-11 09:42:41.948   543   570 I ActivityManager: Start proc 3877:com.google.android.apps.photos/u0a126 for service {com.google.android.apps.photos/com.google.android.apps.photos.dbprocessor.impl.DatabaseProcessorJobService}
+12-11 09:42:41.949   543   570 W ActivityManager: Slow operation: 256ms so far, now at startProcess: starting to update pids map
+12-11 09:42:41.950   543   570 W ActivityManager: Slow operation: 257ms so far, now at startProcess: done updating pids map
+12-11 09:42:41.974  3877  3877 W oid.apps.photo: Unexpected CPU variant for X86 using defaults: x86_64
+12-11 09:42:42.089  3877  3877 E oid.apps.photo: Not starting debugger since process cannot load the jdwp agent.
+12-11 09:42:42.271   543   543 W Looper  : Slow dispatch took 573ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=1
+12-11 09:42:42.280   543   543 W Looper  : Slow delivery took 525ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=4
+12-11 09:42:42.362  1884  1884 I Finsky  : [2] afjz.onStartJob(127): SCH: job service start with id 9507.
+12-11 09:42:42.366   543  1863 W ActivityManager: Slow operation: 73ms so far, now at attachApplicationLocked: immediately before bindApplication
+12-11 09:42:42.386   543  1863 W ActivityManager: Slow operation: 110ms so far, now at attachApplicationLocked: immediately after bindApplication
+12-11 09:42:42.387   543  1863 W ActivityManager: Slow operation: 111ms so far, now at attachApplicationLocked: after updateLruProcessLocked
+12-11 09:42:42.433   543   543 W Looper  : Drained
+12-11 09:42:42.501   543  1863 W ActivityManager: Slow operation: 225ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
+12-11 09:42:42.833  1884  2192 I Finsky  : [93] miz.a(213): SCH: Satisfied jobs for 9507 are: 12-1, 28--559038737
+12-11 09:42:42.929  1884  3776 I Finsky  : [134] acdb.accept(98): SCH: Job 12-1 starting
+12-11 09:42:42.950  1884  1884 I Finsky  : [2] ContentSyncJob.h(9): [ContentSync] job started
+12-11 09:42:42.954  1884  3776 I Finsky  : [134] acdb.accept(98): SCH: Job 28--559038737 starting
+12-11 09:42:44.331   543   569 W BroadcastQueue: Timeout of broadcast BroadcastRecord{fba16d2 u0 android.intent.action.BOOT_COMPLETED} - receiver=android.os.BinderProxy@c55b46c, started 60050ms ago
+12-11 09:42:44.332   543   569 W BroadcastQueue: Receiver during timeout of BroadcastRecord{fba16d2 u0 android.intent.action.BOOT_COMPLETED} : BroadcastFilter{5e40eca 1001/u-1 ReceiverList{4feea35 902 com.android.phone/1001/u-1 remote:c55b46c}}
+12-11 09:42:44.378   543   569 I ActivityManager: Killing 2259:com.google.android.webview:webview_service/u0a116 (adj 985): empty #17
+12-11 09:42:44.479   543   571 I libprocessgroup: Successfully killed process cgroup uid 10116 pid 2259 in 5ms
+12-11 09:42:44.523   331   331 I Zygote  : Process 2259 exited due to signal 9 (Killed)
+12-11 09:42:44.539   543  1864 W ActivityManager: Scheduling restart of crashed service com.google.android.webview/org.chromium.android_webview.services.MetricsBridgeService in 1000ms for connection
+12-11 09:42:44.672  2745  2757 W Binder  : Binder call failed.
+12-11 09:42:44.672  2745  2757 W Binder  : android.os.DeadObjectException
+12-11 09:42:44.672  2745  2757 W Binder  : 	at android.os.BinderProxy.transactNative(Native Method)
+12-11 09:42:44.672  2745  2757 W Binder  : 	at android.os.BinderProxy.transact(BinderProxy.java:571)
+12-11 09:42:44.672  2745  2757 W Binder  : 	at android.content.IIntentReceiver$Stub$Proxy.performReceive(IIntentReceiver.java:160)
+12-11 09:42:44.672  2745  2757 W Binder  : 	at android.app.ActivityThread$ApplicationThread.scheduleRegisteredReceiver(ActivityThread.java:1227)
+12-11 09:42:44.672  2745  2757 W Binder  : 	at android.app.IApplicationThread$Stub.onTransact(IApplicationThread.java:784)
+12-11 09:42:44.672  2745  2757 W Binder  : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+12-11 09:42:44.672  2745  2757 W Binder  : 	at android.os.Binder.execTransact(Binder.java:1143)
+12-11 09:42:44.692  1884  2079 I Finsky  : [66] amop.apply(101): [PLUS] Adding payload
+12-11 09:42:44.961  1884  2079 I Finsky  : [66] adst.U(106): [PLUS] Triggering sync due to NOW urgency payload
+12-11 09:42:45.044  1884  2048 I Finsky  : [54] amoy.a(11): [PLUS] Syncing for users with urgency above: NOW
+12-11 09:42:45.366  1884  3896 W Finsky  : [135] aamy.d(28): SLM: no metadata property com.android.vending.derived.apk.id found for shared library com.google.android.trichromelibrary_447211487:
+12-11 09:42:45.368  1884  3896 W Finsky  : [135] aamy.d(28): SLM: no metadata property com.android.vending.sdk.version.patch found for shared library com.google.android.trichromelibrary_447211487:
+12-11 09:42:45.370  1884  3896 W Finsky  : [135] aamy.d(28): SLM: no metadata property com.android.vending.derived.apk.id found for shared library com.google.android.trichromelibrary_677810438:
+12-11 09:42:45.372  1884  3896 W Finsky  : [135] aamy.d(28): SLM: no metadata property com.android.vending.sdk.version.patch found for shared library com.google.android.trichromelibrary_677810438:
+12-11 09:42:45.401  1884  2048 I Finsky  : [54] agru.a(198): [PLUS] Syncing 0 train(s)
+12-11 09:42:45.404  1884  2048 I Finsky  : [54] amom.a(968): [PLUS] Sync complete, number synced: 0, number failed: 0
+12-11 09:42:45.406  1884  2048 I Finsky  : [54] lqc.b(756): [SIM] Successfully refreshed carrier properties.
+12-11 09:42:45.407  1884  2048 I Finsky  : [54] afih.q(56): SCH: jobFinished: 28--559038737. TimeElapsed: 2416ms.
+12-11 09:42:45.485  3877  3877 W oid.apps.photo: Entry not found
+12-11 09:42:45.488  3877  3877 W oid.apps.photo: Entry not found
+12-11 09:42:45.518  3877  3877 W oid.apps.photo: Entry not found
+12-11 09:42:45.529  2814  2830 W android.youtub: Suspending all threads took: 42.117ms
+12-11 09:42:45.608   543   570 W ActivityManager: Slow operation: 52ms so far, now at startProcess: asking zygote to start proc
+12-11 09:42:45.747   543   570 W ActivityManager: Slow operation: 191ms so far, now at startProcess: returned from zygote!
+12-11 09:42:45.830  3900  3900 W webview_servic: Unexpected CPU variant for X86 using defaults: x86_64
+12-11 09:42:45.854   543   570 W ActivityManager: Slow operation: 297ms so far, now at startProcess: done updating battery stats
+12-11 09:42:45.855   543   570 W ActivityManager: Slow operation: 299ms so far, now at startProcess: building log message
+12-11 09:42:45.855   543   570 I ActivityManager: Start proc 3900:com.google.android.webview:webview_service/u0a116 for service {com.google.android.webview/org.chromium.android_webview.services.MetricsBridgeService}
+12-11 09:42:45.856   543   570 W ActivityManager: Slow operation: 299ms so far, now at startProcess: starting to update pids map
+12-11 09:42:45.857   543   570 W ActivityManager: Slow operation: 300ms so far, now at startProcess: done updating pids map
+12-11 09:42:45.965  3900  3900 E webview_servic: Not starting debugger since process cannot load the jdwp agent.
+12-11 09:42:46.276   543  1041 W ActivityManager: Slow operation: 118ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
+12-11 09:42:46.573  3900  3900 W webview_servic: Entry not found
+12-11 09:42:46.718   543   568 I ActivityManager: Killing 2807:com.google.android.webview:webview_apk/u0a116 (adj 975): empty #17
+12-11 09:42:46.911   543   571 I libprocessgroup: Successfully killed process cgroup uid 10116 pid 2807 in 0ms
+12-11 09:42:47.060  3877  3877 W oid.apps.photo: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.061  3877  3877 W oid.apps.photo: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.062  3877  3877 W oid.apps.photo: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.073   331   331 I Zygote  : Process 2807 exited due to signal 9 (Killed)
+12-11 09:42:47.148   543   559 W Looper  : Slow dispatch took 131ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=com.android.server.am.UidObserverController$$ExternalSyntheticLambda0@f459e84 m=0
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: Sync failed [CONTEXT service_id=51 ]
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: dcam: 29504: Network error
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at dcfj.M(:com.google.android.gms@243433041@24.34.33 (190800-666809342):192)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at dcfj.q(:com.google.android.gms@243433041@24.34.33 (190800-666809342):113)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at dcfj.B(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at dcfj.p(:com.google.android.gms@243433041@24.34.33 (190800-666809342):11)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at com.google.android.gms.phenotype.sync.HeterodyneSyncTaskChimeraService.d(:com.google.android.gms@243433041@24.34.33 (190800-666809342):270)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at com.google.android.gms.phenotype.sync.HeterodyneSyncTaskChimeraService.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):126)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at bqfr.call(:com.google.android.gms@243433041@24.34.33 (190800-666809342):32)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):76)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at java.lang.Thread.run(Thread.java:920)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: Caused by: java.io.IOException: request causes GmsNetworkException without UrlResponseInfo at execution
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at dcfp.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):450)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at dcfj.M(:com.google.android.gms@243433041@24.34.33 (190800-666809342):17)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	... 13 more
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: Caused by: bpyi: Failed to process request
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at bpyo.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):23)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at bqch.b(:com.google.android.gms@243433041@24.34.33 (190800-666809342):15)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at bqcv.onFailed(:com.google.android.gms@243433041@24.34.33 (190800-666809342):15)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at m.mr.onFailed(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):3)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at m.ls.run(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):9)
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	... 6 more
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: Caused by: m.mb: Exception in CronetUrlRequest: net::ERR_NAME_NOT_RESOLVED, ErrorCode=1, InternalErrorCode=-105, Retryable=false
+12-11 09:42:47.268  1110  1927 W HeterodyneSyncer: 	at org.chromium.net.impl.CronetUrlRequest.onError(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):4)
+12-11 09:42:47.414  3900  3900 W webview_servic: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.415  3900  3900 W webview_servic: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.489  3900  3900 W webview_servic: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.498  3900  3900 W webview_servic: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.500  3900  3900 W webview_servic: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.505  3900  3900 W webview_servic: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.506  3900  3900 W webview_servic: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.526  3900  3900 W webview_servic: JIT profile information will not be recorded: profile file does not exist.
+12-11 09:42:47.915  3900  3908 I webview_servic: WaitForGcToComplete blocked Background on None for 12.691ms
+12-11 09:42:48.557  3877  3885 W oid.apps.photo: Suspending all threads took: 171.433ms
+12-11 09:42:48.562  3900  3900 I LoadedApk: No resource references to update in package com.google.android.trichromelibrary
+12-11 09:42:49.198  3900  3900 I cr_WebViewApkApp: version=131.0.6778.104 (677810438) minSdkVersion=29 isBundle=true processName=com.google.android.webview:webview_service
+12-11 09:42:49.984   543   558 W Looper  : Slow dispatch took 264ms android.fg h=android.os.Handler c=com.android.server.Watchdog$HandlerChecker@76b52 m=0
+12-11 09:42:50.312  3877  3885 W oid.apps.photo: Suspending all threads took: 155.148ms
+12-11 09:42:51.508  3900  3908 W webview_servic: Suspending all threads took: 7.271ms
+12-11 09:42:53.593  2007  2249 I SimStateUpdateHandler: Handling SimStateUpdate. Request for 3 work type received.
+12-11 09:42:53.596  2007  2249 I SimStateUpdateHandler: Handling update phone SIM state.
+12-11 09:42:53.621  2007  2249 I BugleSimStateTracker: Updating PhoneSimState
+12-11 09:42:54.019   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:42:54.146   543   543 W Looper  : Slow dispatch took 404ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=1
+12-11 09:42:55.222   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:42:55.225   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:42:55.337   543  1845 I ActivityManager: Killing 2683:com.google.android.gms.unstable/u0a98 (adj 915): empty #17
+12-11 09:42:55.411   543   571 I libprocessgroup: Successfully killed process cgroup uid 10098 pid 2683 in 54ms
+12-11 09:42:55.555   331   331 I Zygote  : Process 2683 exited due to signal 9 (Killed)
+12-11 09:43:05.604   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:05.623   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:43:05.652   543   543 W JobServiceContext: Time-out while trying to bind 631c614 #u0a126/1033 com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService, dropping.
+12-11 09:43:05.754   543   543 W Looper  : Slow delivery took 5976ms main h=com.android.server.job.JobServiceContext$JobServiceHandler c=null m=0
+12-11 09:43:05.755   543   543 W Looper  : Slow dispatch took 102ms main h=com.android.server.job.JobServiceContext$JobServiceHandler c=null m=0
+12-11 09:43:05.756   543   543 W Looper  : Drained
+12-11 09:43:05.903   691   691 I wpa_supplicant: wlan0: CTRL-EVENT-BEACON-LOSS 
+12-11 09:43:06.626   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:06.627   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:43:06.648  2007  2249 I BugleSimStateTracker: Is carrier config for identified carrier: true
+12-11 09:43:06.750  2007  2249 I BugleSimStateTracker: Looking up Fi through package names.
+12-11 09:43:06.812  2007  2249 I BugleSimStateTracker: default call SIM: redacted-pii:sim_id[chars:20,last3:897], default sms SIM redacted-pii:sim_id[chars:20,last3:897]. default data SIM redacted-pii:sim_id[chars:20,last3:897].
+12-11 09:43:07.692  1884  3896 W Finsky  : [135] aamx.t(1094): Package com.android.apex.cts.shim not installed
+12-11 09:43:07.812   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:07.823   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:43:08.310  1884  3896 W Finsky  : [135] aamx.t(1094): Package com.google.android.appsearch not installed
+12-11 09:43:08.490  1884  3896 W Finsky  : [135] aamx.t(1094): Package com.android.i18n not installed
+12-11 09:43:09.457  1884  3896 W Finsky  : [135] aamx.t(1094): Package com.google.android.runtime not installed
+12-11 09:43:09.484  1884  3896 W Finsky  : [135] aamx.t(1094): Package com.google.android.telephony not installed
+12-11 09:43:09.743  1884  3896 W Finsky  : [135] aamx.t(1094): Package com.google.android.vndk.v31 not installed
+12-11 09:43:16.442   543   543 W Looper  : Slow delivery took 5681ms main h=android.os.Handler c=com.android.internal.os.BinderCallsStats$1@599779b m=0
+12-11 09:43:16.834   691   691 I wpa_supplicant: wlan0: CTRL-EVENT-BEACON-LOSS 
+12-11 09:43:17.346   543   558 W Looper  : Slow dispatch took 9843ms android.fg h=android.os.Handler c=com.android.server.timezonedetector.TimeZoneDetectorService$$ExternalSyntheticLambda1@aacc7da m=0
+12-11 09:43:17.356  3691  3731 I Finsky:quick_launch: [50] mji.run(236): Stats for Executor: bgExecutor qwt@503fa2a[Running, pool size = 1, active threads = 0, queued tasks = 0, completed tasks = 1]
+12-11 09:43:17.358  3691  3731 I Finsky:quick_launch: [50] mji.run(236): Stats for Executor: LightweightExecutor qwt@f66801b[Running, pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 8]
+12-11 09:43:17.362   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:17.363   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:43:17.372   543   543 W Looper  : Drained
+12-11 09:43:17.743   543   543 W Looper  : Slow delivery took 360ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=7
+12-11 09:43:17.755   543   558 W Looper  : Slow delivery took 379ms android.fg h=android.os.Handler c=com.android.server.power.hint.HintManagerService$UidObserver$$ExternalSyntheticLambda1@d11b40b m=0
+12-11 09:43:18.410   543   543 W Looper  : Drained
+12-11 09:43:18.413   543   543 W Looper  : Slow dispatch took 384ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=1
+12-11 09:43:22.752   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:22.781   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:43:22.833   543   543 W Looper  : Slow delivery took 1393ms main h=android.os.Handler c=com.android.internal.os.BinderCallsStats$1@599779b m=0
+12-11 09:43:23.033  2535  2700 I Finsky:background: [39] mji.run(236): Stats for Executor: BlockingExecutor qwt@cd2473b[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 7]
+12-11 09:43:23.259   543   558 W Looper  : Slow dispatch took 417ms android.fg h=android.os.Handler c=com.android.server.Watchdog$HandlerChecker@76b52 m=0
+12-11 09:43:23.561  1884  1904 I android.vendin: oneway function results for code 2 on binder at 0x7a10019641e0 will be dropped but finished with status UNKNOWN_TRANSACTION
+12-11 09:43:27.314   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:27.315   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:43:27.484   543   569 W ActivityManager: Timeout executing service: ServiceRecord{6612a80 u0 com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService}
+12-11 09:43:31.064   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:31.066   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:43:31.210  1884  3956 I android.vendin: oneway function results for code 2 on binder at 0x7a100195b0f0 will be dropped but finished with status UNKNOWN_TRANSACTION
+12-11 09:43:31.233  2535  3780 I ding:backgroun: oneway function results for code 2 on binder at 0x7a1001917710 will be dropped but finished with status UNKNOWN_TRANSACTION
+12-11 09:43:31.259   543  1041 I ActivityManager: Killing 1391:com.android.chrome/u0a115 (adj 975): empty #17
+12-11 09:43:34.508   543   559 W Looper  : Slow delivery took 442ms android.ui h=android.view.GestureDetector$GestureHandler c=null m=1
+12-11 09:43:34.518   543   571 I libprocessgroup: Successfully killed process cgroup uid 10115 pid 1391 in 3183ms
+12-11 09:43:34.951   543   559 W Looper  : Slow dispatch took 439ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=com.android.server.am.UidObserverController$$ExternalSyntheticLambda0@f459e84 m=0
+12-11 09:43:35.000  2007  2723 I BugleRcsEngine: delay time out, reset attempts 3 and process SIM event [CONTEXT thread_id=65 ]
+12-11 09:43:35.205   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:35.214   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:43:35.350  1407  1421 I earchbox:searc: oneway function results for code 2 on binder at 0x7a100197ae90 will be dropped but finished with status UNKNOWN_TRANSACTION
+12-11 09:43:35.466   543   559 W Looper  : Drained
+12-11 09:43:35.703  2007  2007 I BugleDataModel: ActionExecutorImpl: Starting ActionService
+12-11 09:43:35.743  2007  2723 I BugleRcsEngine: process intent: android.intent.action.SIM_STATE_CHANGED [CONTEXT log_prefix="(Sim)" thread_id=65 ]
+12-11 09:43:36.236  1271  2436 I BugleRcsEngine: delay time out, reset attempts 3 and process SIM event [CONTEXT thread_id=63 ]
+12-11 09:43:36.508   543   623 I InputDispatcher: ab15ad0 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 2298ms processing MotionEvent
+12-11 09:43:36.511   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:43:36.513   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:46:53.619   543   558 W Looper  : Drained
+12-11 09:46:53.626   543   558 W Looper  : Slow dispatch took 8702ms android.fg h=android.os.Handler c=com.android.server.timedetector.TimeDetectorService$$ExternalSyntheticLambda3@66df989 m=0
+12-11 09:46:53.698  3691  3699 I ng:quick_launc: WaitForGcToComplete blocked HeapTrim on None for 403.264ms
+12-11 09:46:53.753   543   624 W InputDispatcher: Excessive delay in interceptMotionBeforeQueueing; took 60 ms
+12-11 09:46:53.774   543   558 W Looper  : Slow delivery took 2166ms android.fg h=android.os.Handler c=com.android.server.power.hint.HintManagerService$UidObserver$$ExternalSyntheticLambda1@7d12d8e m=0
+12-11 09:46:53.774   543   558 W Looper  : Slow dispatch took 139ms android.fg h=android.os.Handler c=com.android.server.power.hint.HintManagerService$UidObserver$$ExternalSyntheticLambda1@7d12d8e m=0
+12-11 09:46:53.997   543   620 E LazyAlarmStore: Removed TIME_TICK alarm
+12-11 09:46:54.118   543   543 W Looper  : Slow dispatch took 2224ms main h=com.android.server.power.Notifier$NotifierHandler c=null m=1
+12-11 09:46:54.679  2007  2723 I BugleRcsEngine: Processing an intent [CONTEXT log_prefix="(Sim)" thread_id=65 ]
+12-11 09:46:54.712  2007  2249 I BugleSimStateTracker: Looking up Fi through package names.
+12-11 09:46:55.004   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:46:55.172   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:46:55.300  2007  2723 I BugleRcsEngine: SIM state LOADED [CONTEXT log_prefix="(Sim)" thread_id=65 ]
+12-11 09:46:58.137   331   331 I Zygote  : Process 3270 exited cleanly (0)
+12-11 09:46:58.211   543   623 W InputDispatcher: Window d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) is unresponsive: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) is not responding. Waited 6690ms for MotionEvent
+12-11 09:46:58.211   543   623 W InputDispatcher: Canceling events for d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) because it is unresponsive
+12-11 09:46:58.427  1237  1802 I bake    : (REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: Sync failed [CONTEXT service_id=51 ]
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: dcam: 29504: Network error
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at dcfj.M(:com.google.android.gms@243433041@24.34.33 (190800-666809342):192)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at dcfj.q(:com.google.android.gms@243433041@24.34.33 (190800-666809342):113)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at dcfj.B(:com.google.android.gms@243433041@24.34.33 (190800-666809342):10)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at dcfj.p(:com.google.android.gms@243433041@24.34.33 (190800-666809342):11)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at com.google.android.gms.phenotype.sync.HeterodyneSyncTaskChimeraService.d(:com.google.android.gms@243433041@24.34.33 (190800-666809342):270)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at com.google.android.gms.phenotype.sync.HeterodyneSyncTaskChimeraService.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):126)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at bqfr.call(:com.google.android.gms@243433041@24.34.33 (190800-666809342):32)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):97)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at aneq.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):8)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at java.lang.Thread.run(Thread.java:920)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: Caused by: java.io.IOException: request causes GmsNetworkException without UrlResponseInfo at execution
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at dcfp.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):450)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at dcfj.M(:com.google.android.gms@243433041@24.34.33 (190800-666809342):17)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	... 13 more
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: Caused by: bpyi: Failed to process request
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at bpyo.a(:com.google.android.gms@243433041@24.34.33 (190800-666809342):23)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at bqch.b(:com.google.android.gms@243433041@24.34.33 (190800-666809342):15)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at bqcv.onFailed(:com.google.android.gms@243433041@24.34.33 (190800-666809342):15)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at m.mr.onFailed(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):3)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at m.ls.run(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):9)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at amze.c(:com.google.android.gms@243433041@24.34.33 (190800-666809342):50)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at amze.run(:com.google.android.gms@243433041@24.34.33 (190800-666809342):76)
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	... 4 more
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: Caused by: m.mb: Exception in CronetUrlRequest: net::ERR_NAME_NOT_RESOLVED, ErrorCode=1, InternalErrorCode=-105, Retryable=false
+12-11 09:46:58.431  1110  3513 W HeterodyneSyncer: 	at org.chromium.net.impl.CronetUrlRequest.onError(:com.google.android.gms.dynamite_cronetdynamite@243433041@24.34.33 (190800-0):4)
+12-11 09:46:58.438  1271  2436 I BugleRcsEngine: process intent: android.intent.action.SIM_STATE_CHANGED [CONTEXT log_prefix="(Sim)" thread_id=63 ]
+12-11 09:46:58.443   543   569 I DropBoxManagerService: add tag=system_server_wtf isTagEnabled=true flags=0x2
+12-11 09:46:58.529  1884  1893 I android.vendin: Background young concurrent copying GC freed 160631(8345KB) AllocSpace objects, 2(104KB) LOS objects, 39% free, 8667KB/14MB, paused 99.601ms,1.716ms total 23.283s
+12-11 09:46:58.707  1271  2436 I BugleRcsEngine: Processing an intent [CONTEXT log_prefix="(Sim)" thread_id=63 ]
+12-11 09:46:58.727  1271  2436 I BugleRcsEngine: Ignoring duplicate SIM state: LOADED [CONTEXT log_prefix="(Sim)" thread_id=63 ]
+12-11 09:46:59.238   543  3962 W ProcessCpuTracker: Failed to stat(/proc/3270): android.system.ErrnoException: stat failed: ENOENT (No such file or directory)
+12-11 09:46:59.257   543  3962 W ProcessCpuTracker: Skipping unknown process pid 3270
+12-11 09:46:59.270  1884  2039 I Finsky  : [50] mqv.f(36): Completed 0 account content syncs with 0 successful.
+12-11 09:46:59.273  1884  1884 I Finsky  : [2] ContentSyncJob.a(12): [ContentSync] Installation state replication succeeded.
+12-11 09:46:59.275  1884  1884 I Finsky  : [2] afih.q(56): SCH: jobFinished: 12-1. TimeElapsed: 59373ms.
+12-11 09:46:59.341  3229  3229 I Zygote  : Process 3255 exited cleanly (0)
+12-11 09:47:00.218   543  1870 I ActivityManager: Process com.android.chrome:privileged_process0 (pid 3270) has died: cch+65 CEM 
+12-11 09:47:00.243   543  1870 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.PrivilegedProcessService0 in 1000ms for connection
+12-11 09:47:00.249   543   571 I libprocessgroup: Successfully killed process cgroup uid 10115 pid 3270 in 43ms
+12-11 09:47:00.277   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:00.284   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:00.358   543   623 I WindowManager: ANR in com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity. Reason:d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) is not responding. Waited 6690ms for MotionEvent
+12-11 09:47:00.492   331   331 I Zygote  : Process 1391 exited due to signal 9 (Killed)
+12-11 09:47:00.983  2007  2723 I BugleRcsEngine: SIM changed: false. current id: redacted-pii:sim_id[chars:20,last3:897]; stored id: redacted-pii:sim_id[chars:20,last3:897]; isFiDevice: false; subId: 1; slotIndex: 0 [CONTEXT log_prefix="(Sim)" thread_id=65 ]
+12-11 09:47:01.441   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:01.530  2007  2920 I BugleDataModel: ExecuteActionRunnable: running action CountryCodeDetectorAction
+12-11 09:47:01.630  2007  2920 I BugleDataModel: ActionExecutorImpl: ACTION_BACKGROUND_QUEUED_CountryCodeDetectorAction
+12-11 09:47:01.673  2007  2007 I BugleDataModel: ActionExecutorImpl: ACTION_EXECUTE_QUEUED_CountryCodeDetectorAction
+12-11 09:47:01.684   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:01.875   972   972 I Choreographer: Skipped 54 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:02.471   972   972 I Choreographer: Skipped 34 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:02.652  2007  2920 I BugleDataModel: ExecuteActionRunnable: running action SelfParticipantsRefreshAction
+12-11 09:47:02.675  2007  2920 I BugleDataModel: ActionExecutorImpl: ACTION_BACKGROUND_QUEUED_SelfParticipantsRefreshAction
+12-11 09:47:02.709   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:02.722   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:02.801   972   986 I OpenGLRenderer: Davey! duration=1564ms; Flags=0, FrameTimelineVsyncId=7061, IntendedVsync=274588707720, Vsync=275488707684, InputEventId=1717931791, HandleInputStart=275491597700, AnimationStart=275492066800, PerformTraversalsStart=275494110700, DrawStart=275496411000, FrameDeadline=274605374386, FrameInterval=275491062800, FrameStartTime=16666666, SyncQueued=275506052100, SyncStart=275510127900, IssueDrawCommandsStart=275514289400, SwapBuffers=275522366100, FrameCompleted=276157605900, DequeueBufferDuration=482300, QueueBufferDuration=15100100, GpuCompleted=276157605900, SwapBuffersCompleted=275550946600, DisplayPresentTime=193273528324, 
+12-11 09:47:02.942  2007  2007 I BugleDataModel: ActionExecutorImpl: ACTION_EXECUTE_QUEUED_SelfParticipantsRefreshAction
+12-11 09:47:07.880  2535  2543 W ding:backgroun: Suspending all threads took: 11.760ms
+12-11 09:47:07.977   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:08.169   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:11.762   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:11.767   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:12.401   423   435 W EventThread: Faking VSYNC due to driver stall for thread app
+12-11 09:47:12.582   972  1363 W OpenGLRenderer: dequeueBuffer failed, error = -110; switching to fallback
+12-11 09:47:12.729   423   435 W EventThread: VsyncSource debug info:
+12-11 09:47:12.730   423   435 W EventThread: DispSyncSource: app(enabled)
+12-11 09:47:12.870   972   986 I OpenGLRenderer: Davey! duration=6204ms; Flags=0, FrameTimelineVsyncId=7063, IntendedVsync=275505374350, Vsync=276072040994, InputEventId=0, HandleInputStart=276092607800, AnimationStart=276093688900, PerformTraversalsStart=276121628500, DrawStart=276122584500, FrameDeadline=275538707682, FrameInterval=276086879300, FrameStartTime=16666666, SyncQueued=276123950100, SyncStart=276125754900, IssueDrawCommandsStart=276132877400, SwapBuffers=276742965400, FrameCompleted=281711664600, DequeueBufferDuration=357600, QueueBufferDuration=9089200, GpuCompleted=281711664600, SwapBuffersCompleted=276757986900, DisplayPresentTime=134209164512048, 
+12-11 09:47:13.163   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:13.265   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:14.482   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:14.488   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:15.068   417   417 I android.hardware.vibrator-service.example: Vibrator perform
+12-11 09:47:15.711   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:15.717   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:16.390   417   417 I android.hardware.vibrator-service.example: Vibrator on for timeoutMs: 1
+12-11 09:47:17.831   423   435 W EventThread: Faking VSYNC due to driver stall for thread app
+12-11 09:47:17.831   423   435 W EventThread: VsyncSource debug info:
+12-11 09:47:17.831   423   435 W EventThread: DispSyncSource: app(enabled)
+12-11 09:47:17.835   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:17.840   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:17.941   417   417 I android.hardware.vibrator-service.example: Vibrator set amplitude: 0.709427
+12-11 09:47:17.956   417   417 I android.hardware.vibrator-service.example: Vibrator set amplitude: 0.709427
+12-11 09:47:18.065   417  3985 I android.hardware.vibrator-service.example: Starting on on another thread
+12-11 09:47:18.113   417  3985 I android.hardware.vibrator-service.example: Notifying on complete
+12-11 09:47:18.232   417   417 I android.hardware.vibrator-service.example: Vibrator off
+12-11 09:47:18.862  2007  3977 I Bugle   : CountryCodeDetector: updateSmsNetworkCountry from default subscription network country. detected country: us
+12-11 09:47:19.093   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:19.094  2007  2249 I Bugle   : CountryCodeDetector: updateSmsNetworkCountry from default subscription network country. detected country: us
+12-11 09:47:19.105   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:19.153  2007  3977 I BugleDataModel: ActionExecutorImpl: ACTION_RESPONSE_QUEUED_CountryCodeDetectorAction
+12-11 09:47:19.180  1884  2078 I Finsky  : [65] qwh.accept(58): SCH: Scheduling phonesky job Id: 1-1337, CT: 1733890336405, Constraints: [{ L: 1800000, D: 32242583, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY }]
+12-11 09:47:19.712   543   543 W Looper  : Slow dispatch took 25585ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=7
+12-11 09:47:19.726   543   571 I libprocessgroup: Successfully killed process cgroup uid 90000 pid 3255 in 0ms
+12-11 09:47:19.729   543  1669 I ActivityManager: Process com.android.chrome:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0 (pid 3255) has died: cch+65 CEM 
+12-11 09:47:19.738   543  1669 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService0:0 in 1000ms for connection
+12-11 09:47:19.996   543  1311 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.chrome.browser.customtabs.CustomTabsConnectionService in 1000ms for connection
+12-11 09:47:20.064   543   569 W ActivityManager: Timeout executing service: ServiceRecord{fa061cb u0 com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl$EmptyService}
+12-11 09:47:20.079   543   569 W BroadcastQueue: Timeout of broadcast BroadcastRecord{fba16d2 u0 android.intent.action.BOOT_COMPLETED} - receiver=android.os.BinderProxy@9cda95d, started 78786ms ago
+12-11 09:47:20.089   543   569 W BroadcastQueue: Receiver during timeout of BroadcastRecord{fba16d2 u0 android.intent.action.BOOT_COMPLETED} : BroadcastFilter{7f27fa3 1001/u0 ReceiverList{119a2d2 902 com.android.phone/1001/u0 remote:9cda95d}}
+12-11 09:47:20.294  2745  2766 W Binder  : Binder call failed.
+12-11 09:47:20.294  2745  2766 W Binder  : android.os.DeadObjectException
+12-11 09:47:20.294  2745  2766 W Binder  : 	at android.os.BinderProxy.transactNative(Native Method)
+12-11 09:47:20.294  2745  2766 W Binder  : 	at android.os.BinderProxy.transact(BinderProxy.java:571)
+12-11 09:47:20.294  2745  2766 W Binder  : 	at android.content.IIntentReceiver$Stub$Proxy.performReceive(IIntentReceiver.java:160)
+12-11 09:47:20.294  2745  2766 W Binder  : 	at android.app.ActivityThread$ApplicationThread.scheduleRegisteredReceiver(ActivityThread.java:1227)
+12-11 09:47:20.294  2745  2766 W Binder  : 	at android.app.IApplicationThread$Stub.onTransact(IApplicationThread.java:784)
+12-11 09:47:20.294  2745  2766 W Binder  : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+12-11 09:47:20.294  2745  2766 W Binder  : 	at android.os.Binder.execTransact(Binder.java:1143)
+12-11 09:47:20.299   543   623 I InputDispatcher: PointerEventDispatcher0 (server) spent 22198ms processing MotionEvent
+12-11 09:47:20.300   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:20.304   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 28886ms processing MotionEvent
+12-11 09:47:20.306   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 28294ms processing MotionEvent
+12-11 09:47:20.309   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 28292ms processing MotionEvent
+12-11 09:47:20.312   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 28290ms processing MotionEvent
+12-11 09:47:20.314   543   543 W Looper  : Slow dispatch took 447ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=4
+12-11 09:47:20.317   543   558 W Looper  : Slow dispatch took 17506ms android.fg h=com.android.server.DropBoxManagerService$DropBoxManagerBroadcastHandler c=null m=2
+12-11 09:47:20.341   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 28288ms processing MotionEvent
+12-11 09:47:20.342   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 28171ms processing MotionEvent
+12-11 09:47:20.343   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 27882ms processing MotionEvent
+12-11 09:47:20.344   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 27327ms processing MotionEvent
+12-11 09:47:20.345   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 26838ms processing MotionEvent
+12-11 09:47:20.346   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 26834ms processing MotionEvent
+12-11 09:47:20.347   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 26031ms processing MotionEvent
+12-11 09:47:20.348   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 26027ms processing MotionEvent
+12-11 09:47:20.349   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 26026ms processing MotionEvent
+12-11 09:47:20.350   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 26023ms processing MotionEvent
+12-11 09:47:20.350   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 26019ms processing MotionEvent
+12-11 09:47:20.351   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 22203ms processing MotionEvent
+12-11 09:47:20.352  2007  2007 I BugleDataModel: ActionExecutorImpl: ACTION_EXECUTE_QUEUED_SelfParticipantsRefreshAction
+12-11 09:47:20.353   543   623 I InputDispatcher: d8f50c4 com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity (server) spent 22092ms processing MotionEvent
+12-11 09:47:20.383  2007  2920 I BugleDataModel: ExecuteActionRunnable: running action SelfParticipantsRefreshAction
+12-11 09:47:20.393  2007  2920 I BugleDataModel: ActionExecutorImpl: ACTION_BACKGROUND_QUEUED_SelfParticipantsRefreshAction
+12-11 09:47:20.611   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:20.613   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:20.619   972   972 I Choreographer: Skipped 61 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:20.619  1407  1407 I Choreographer: Skipped 61 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:20.624  2663  2663 I Choreographer: Skipped 62 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:20.633  2663  2663 I AppBase : AppBase.onTrimMemory():437 onTrimMemory(): 60
+12-11 09:47:20.639  2663  2663 I KeyboardDefCache: MemoryFileCache$1.onTrimMemory():126 clearMemory() for trim memory: 60
+12-11 09:47:20.641  2663  2663 I KeyboardDefCache: MemoryFileCache.clearMemory():410 evictAll()
+12-11 09:47:20.657  3629  3629 I Choreographer: Skipped 64 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:20.703   543  3962 I ActivityManager: dumpStackTraces pids=null nativepids=null
+12-11 09:47:20.752  2007  2723 I BugleRcsEngine: Skipping writing subId because this is main bugle process. [CONTEXT log_prefix="(Sim)" thread_id=65 ]
+12-11 09:47:22.006   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:22.031   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.042   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.064   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:22.151   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.157   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.163   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.168   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.173   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.212   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.540   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.712   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.718   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.827   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.831   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.924   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.931   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.938   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.939  2007  2723 I BugleRcsEngine: Updated SIM info: currentSimId: redacted-pii:sim_id[chars:20,last3:897]; imsi: redacted-pii:imsi[chars:15]; rawMsisdn: redacted-pii:phone_number[chars:12,last2:67]; formattedMsisdn: redacted-pii:phone_number[chars:12,last2:67]; mccmnc: redacted-pii:sim_operator[chars:6]; gid1: redacted-pii:sim_gid[chars:0]; isFiDevice: false; subId: 1; slotIndex: 0 [CONTEXT log_prefix="(Sim)" thread_id=65 ]
+12-11 09:47:22.951   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.962   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:22.965   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.041   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.213   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.219   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.222   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.234   543   543 W Looper  : Slow dispatch took 2917ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=1
+12-11 09:47:23.241   543   543 W JobServiceContext: Time-out while trying to bind 7d66e #u0a97/1651 com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService, dropping.
+12-11 09:47:23.245   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.260   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.266   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.340   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.350   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.361   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.388   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.392   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.397   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.403   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.406   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.410   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.430   543   558 W Looper  : Slow dispatch took 3109ms android.fg h=android.os.Handler c=com.android.server.Watchdog$HandlerChecker@76b52 m=0
+12-11 09:47:23.433   543   623 I InputDispatcher: Dropped event because it is stale.
+12-11 09:47:23.446  2007  2249 I BugleSimStateTracker: allNewlyBuiltSimSubscriptionInfos (simId, loggableGuid): [(redacted-pii:sim_id[chars:20,last3:897], 2baf4ef8-455e-44e9-b768-f455173a52e1)]
+12-11 09:47:23.450  2007  2249 I BugleSimStateTracker: Storing updatedSimSubscriptionInfos: [(redacted-pii:sim_id[chars:20,last3:897], 2baf4ef8-455e-44e9-b768-f455173a52e1)]
+12-11 09:47:23.594   543   543 W Looper  : Slow dispatch took 349ms main h=com.android.server.job.JobServiceContext$JobServiceHandler c=null m=0
+12-11 09:47:23.912   543   543 W Looper  : Slow dispatch took 133ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=5
+12-11 09:47:23.952   543   559 W Looper  : Slow dispatch took 3570ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=68
+12-11 09:47:24.055   543   559 W Looper  : Slow delivery took 3588ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=68
+12-11 09:47:24.057   543   559 W Looper  : Slow dispatch took 102ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=68
+12-11 09:47:25.840   423   435 W EventThread: Faking VSYNC due to driver stall for thread app
+12-11 09:47:25.842   423   435 W EventThread: VsyncSource debug info:
+12-11 09:47:25.843   423   435 W EventThread: DispSyncSource: app(enabled)
+12-11 09:47:28.084   543   569 E libprocessgroup: getpgid(3229) failed: Permission denied
+12-11 09:47:28.098   543   543 W Looper  : Slow dispatch took 4140ms main h=android.os.Handler c=android.app.LoadedApk$ReceiverDispatcher$Args$$ExternalSyntheticLambda0@9c21d14 m=0
+12-11 09:47:28.019   543   543 W ActivityManager: type=1400 audit(0.0:25): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+12-11 09:47:28.019   543   543 W ActivityManager: type=1400 audit(0.0:26): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+12-11 09:47:28.189   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:28.208   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:28.255   331   331 I Zygote  : Process 3229 exited due to signal 9 (Killed)
+12-11 09:47:28.449   711   711 I Choreographer: Skipped 156 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:28.572  3691  3691 I Finsky:quick_launch: [2] xwb.onTrimMemory(11): Memory trim requested to level 40
+12-11 09:47:28.573  1884  1884 I Finsky  : [2] xwb.onTrimMemory(11): Memory trim requested to level 15
+12-11 09:47:28.616  2535  2535 I Finsky:background: [2] xwb.onTrimMemory(11): Memory trim requested to level 40
+12-11 09:47:31.736   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:31.736  1110  3513 W SQLiteConnectionPool: The connection pool for database '/data/user/0/com.google.android.gms/databases/phenotype.db' has been unable to grant a connection to thread 172 (lowpool[19]) with flags 0x2 for 33.295002 seconds.
+12-11 09:47:31.736  1110  3513 W SQLiteConnectionPool: Connections: 1 active, 0 idle, 0 available.
+12-11 09:47:31.736  1110  3513 W SQLiteConnectionPool: 
+12-11 09:47:31.736  1110  3513 W SQLiteConnectionPool: Requests in progress:
+12-11 09:47:31.736  1110  3513 W SQLiteConnectionPool:   executeForCursorWindow started 2758ms ago - running, sql="SELECT MAX(version), user FROM ExperimentTokens WHERE packageName = ? AND version <= ? AND isCommitted = 0 GROUP BY user", path=/data/user/0/com.google.android.gms/databases/phenotype.db
+12-11 09:47:31.743   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:31.748   543   569 I libprocessgroup: Successfully killed process cgroup uid 10115 pid 3229 in 3658ms
+12-11 09:47:31.769   543   559 W Looper  : Drained
+12-11 09:47:32.024  3176  3189 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: gzps
+12-11 09:47:32.026  3176  3189 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+12-11 09:47:32.128   711  1564 I OpenGLRenderer: Davey! duration=5622ms; Flags=0, FrameTimelineVsyncId=7078, IntendedVsync=299458985300, Vsync=302058985196, InputEventId=0, HandleInputStart=302065818400, AnimationStart=302081521100, PerformTraversalsStart=302085092300, DrawStart=302180422100, FrameDeadline=300458985300, FrameInterval=302065211500, FrameStartTime=16666666, SyncQueued=302182124100, SyncStart=302487489300, IssueDrawCommandsStart=302488560700, SwapBuffers=302514929600, FrameCompleted=305386945900, DequeueBufferDuration=403800, QueueBufferDuration=131140800, GpuCompleted=305386945900, SwapBuffersCompleted=302754700400, DisplayPresentTime=0, 
+12-11 09:47:37.559   423   435 W EventThread: Faking VSYNC due to driver stall for thread app
+12-11 09:47:37.559   423   435 W EventThread: VsyncSource debug info:
+12-11 09:47:37.559   423   435 W EventThread: DispSyncSource: app(enabled)
+12-11 09:47:37.746   711   711 I Choreographer: Skipped 330 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:38.107   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:38.168   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:41.620   423   435 W EventThread: Faking VSYNC due to driver stall for thread app
+12-11 09:47:41.621   423   435 W EventThread: VsyncSource debug info:
+12-11 09:47:41.622   423   435 W EventThread: DispSyncSource: app(enabled)
+12-11 09:47:41.627   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:41.632  2814  3022 W android.youtub: Suspended thread state_and_flags: 430001, self_suspend_count = 0
+12-11 09:47:41.633   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:41.634  2814  3022 F android.youtub: thread_list.cc:872] Thread suspension timed out: 0x7a0f6e8e9818:main
+12-11 09:47:42.868   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:42.902   711  1564 I OpenGLRenderer: Davey! duration=9371ms; Flags=0, FrameTimelineVsyncId=7082, IntendedVsync=305672039810, Vsync=311172039590, InputEventId=0, HandleInputStart=311361945600, AnimationStart=311368664900, PerformTraversalsStart=311369625300, DrawStart=311370350600, FrameDeadline=305688706476, FrameInterval=311178951300, FrameStartTime=16666666, SyncQueued=311371357900, SyncStart=311796157200, IssueDrawCommandsStart=311797410500, SwapBuffers=311995960300, FrameCompleted=315468794800, DequeueBufferDuration=452500, QueueBufferDuration=104484800, GpuCompleted=315468794800, SwapBuffersCompleted=312114000200, DisplayPresentTime=0, 
+12-11 09:47:42.933   543   543 W Looper  : Slow dispatch took 14833ms main h=android.app.ActivityThread$H c=android.app.LoadedApk$ReceiverDispatcher$Args$$ExternalSyntheticLambda0@d616703 m=0
+12-11 09:47:42.940  1884  2048 I Finsky  : [54] mja.apply(252): SCH: Scheduling 1 system job(s)
+12-11 09:47:42.957  1884  2048 I Finsky  : [54] afie.b(244): SCH: Scheduling system job Id: 9510, L: 1473464, D: 31916047, C: false, I: false, N: 1
+12-11 09:47:42.974   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:43.082   543   558 W Looper  : Slow dispatch took 212ms android.fg h=android.os.Handler c=com.android.server.Watchdog$HandlerChecker@76b52 m=0
+12-11 09:47:43.557   543  1334 I UsageStatsService: User[0] Time changed in by 196 seconds
+12-11 09:47:43.561   543  1334 I UsageStatsService: User[0] Flushing usage stats to disk
+12-11 09:47:43.564   711   711 I Choreographer: Skipped 44 frames!  The application may be doing too much work on its main thread.
+12-11 09:47:43.697   711  1564 I OpenGLRenderer: Davey! duration=1260ms; Flags=0, FrameTimelineVsyncId=7085, IntendedVsync=315238015100, Vsync=315238015100, InputEventId=0, HandleInputStart=315247217600, AnimationStart=315247550900, PerformTraversalsStart=315248366000, DrawStart=315248896100, FrameDeadline=316254681766, FrameInterval=315247043300, FrameStartTime=16666666, SyncQueued=315249616000, SyncStart=315305093300, IssueDrawCommandsStart=315307960900, SwapBuffers=315451698800, FrameCompleted=316553946200, DequeueBufferDuration=1079503700, QueueBufferDuration=11027600, GpuCompleted=316436391200, SwapBuffersCompleted=316553946200, DisplayPresentTime=0, 
+12-11 09:47:44.011  1110  2729 W NearbyDiscovery: Runnable[stopIfNotScheduled] was delayed for 30:09.600 [CONTEXT service_id=265 ]
+12-11 09:47:44.012   543   543 W Looper  : Slow dispatch took 1064ms main h=android.app.ActivityThread$H c=android.app.LoadedApk$ReceiverDispatcher$Args$$ExternalSyntheticLambda0@ff30fe m=0
+12-11 09:47:44.191   543   570 W ActivityManager: Slow operation: 120ms so far, now at startProcess: returned from zygote!
+12-11 09:47:44.204   543   543 W Looper  : Slow dispatch took 100ms main h=android.os.Handler c=com.android.internal.os.BinderCallsStats$1@599779b m=0
+12-11 09:47:44.212   543   570 W ActivityManager: Slow operation: 141ms so far, now at startProcess: done updating battery stats
+12-11 09:47:44.213   543   570 W ActivityManager: Slow operation: 142ms so far, now at startProcess: building log message
+12-11 09:47:44.213   543   570 I ActivityManager: Start proc 4002:com.android.providers.calendar/u0a71 for content provider {com.android.providers.calendar/com.android.providers.calendar.CalendarProvider2}
+12-11 09:47:44.214   543   570 W ActivityManager: Slow operation: 143ms so far, now at startProcess: starting to update pids map
+12-11 09:47:44.225   543   570 W ActivityManager: Slow operation: 153ms so far, now at startProcess: done updating pids map
+12-11 09:47:44.229   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:44.237   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:44.336   543   559 W Looper  : Slow dispatch took 135ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=com.android.server.am.UidObserverController$$ExternalSyntheticLambda0@f459e84 m=0
+12-11 09:47:44.340   543   543 W Looper  : Slow dispatch took 106ms main h=android.app.ActivityThread$H c=android.app.LoadedApk$ReceiverDispatcher$Args$$ExternalSyntheticLambda0@f725375 m=0
+12-11 09:47:44.348   543   558 W Looper  : Drained
+12-11 09:47:44.598   543   543 W Looper  : Slow dispatch took 246ms main h=com.android.server.notification.NotificationManagerService$WorkerHandler c=com.android.server.notification.NotificationManagerService$11$1@a995f0a m=0
+12-11 09:47:44.616   390   390 E android.hardware.power.stats@1.0-service-mock: Failed to getEnergyData
+12-11 09:47:44.617   711  1564 I OpenGLRenderer: Davey! duration=1347ms; Flags=0, FrameTimelineVsyncId=7089, IntendedVsync=316438706046, Vsync=317172039350, InputEventId=0, HandleInputStart=317184088800, AnimationStart=317184821000, PerformTraversalsStart=317186179800, DrawStart=317611717200, FrameDeadline=316455372712, FrameInterval=317178316700, FrameStartTime=16666666, SyncQueued=317612537800, SyncStart=317633573800, IssueDrawCommandsStart=317636277300, SwapBuffers=317643838000, FrameCompleted=317807110600, DequeueBufferDuration=424000, QueueBufferDuration=20598000, GpuCompleted=317807110600, SwapBuffersCompleted=317671034500, DisplayPresentTime=0, 
+12-11 09:47:44.721   543  3962 I ActivityManager: Dumping to /data/anr/anr_2024-12-11-09-47-44-059
+12-11 09:47:44.773   543  3962 I ActivityManager: Collecting stacks for pid 3877
+12-11 09:47:45.000   543  3962 I system_server: libdebuggerd_client: started dumping process 3877
+12-11 09:47:45.022  2007  3977 I BugleDataModel: ParticipantFullRefresh: Start participant refresh. refreshMode: SELF_ONLY
+12-11 09:47:45.044  3176  3188 W searchbox:trai: Suspending all threads took: 7.501s
+12-11 09:47:45.140  1884  4005 I Finsky  : [142] afjz.a(24): SCH: job service finished with id 9507.
+12-11 09:47:46.135   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:46.140   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:46.238   240   240 I tombstoned: registered intercept for pid 3877 and type kDebuggerdJavaBacktrace
+12-11 09:47:46.407  4002  4002 W viders.calenda: Unexpected CPU variant for X86 using defaults: x86_64
+12-11 09:47:46.519  3877  3882 I oid.apps.photo: Thread[6,tid=3882,WaitingInMainSignalCatcherLoop,Thread*=0x7a11518ffb20,peer=0x12cc0410,"Signal Catcher"]: reacting to signal 3
+12-11 09:47:46.521  3877  3882 I oid.apps.photo: 
+12-11 09:47:46.553  4002  4002 E viders.calenda: Not starting debugger since process cannot load the jdwp agent.
+12-11 09:47:46.678  2007  2249 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=efb5584f-48df-4f1f-bebe-fad80156868e, tags={ com.google.android.apps.messaging.shared.datamodel.workqueue.WorkQueueWorkerShim,sim_state_update_queue-WORK_TYPE_UPDATE_PHONE_SIMS_STATE } ]
+12-11 09:47:46.684  1110  2729 I NearbyDiscovery: FastPair: isDestroyable: Scanner is alive. [CONTEXT service_id=265 ]
+12-11 09:47:46.685  1110  2729 I NearbyDiscovery: DiscoveryService: Skip stopSelf(), fast pair controller is not destroyable. [CONTEXT service_id=265 ]
+12-11 09:47:46.809   543  1311 W ActivityManager: Slow operation: 105ms so far, now at attachApplicationLocked: immediately after bindApplication
+12-11 09:47:46.812   543  1311 W ActivityManager: Slow operation: 109ms so far, now at attachApplicationLocked: after updateLruProcessLocked
+12-11 09:47:46.832   543  1311 W ActivityManager: Slow operation: 128ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
+12-11 09:47:47.026   543  1311 W ActivityManager: Slow operation: 322ms so far, now at attachApplicationLocked: after updateOomAdjLocked
+12-11 09:47:47.034   543   543 W Looper  : Slow dispatch took 151ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=6
+12-11 09:47:47.264   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:47.279   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:47.663  3877  3882 W oid.apps.photo: Suspending all threads took: 1.032s
+12-11 09:47:48.529  2007  3977 I BugleDataModel: SubscriptionsTracker#refreshSelfParticipantList([1])
+12-11 09:47:48.907   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:48.909   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:49.160  2007  2723 I BugleRcsEngine: Handling SIM_LOADED in PhoneSimsStateUpdater. [CONTEXT log_prefix="(Sim)" thread_id=65 ]
+12-11 09:47:49.315   543   543 W Looper  : Drained
+12-11 09:47:49.316   543   543 W Looper  : Slow dispatch took 202ms main h=android.os.Handler c=com.android.internal.os.BinderCallsStats$1@599779b m=0
+12-11 09:47:49.317  1110  4001 E WakeLock: GCM_HB_ALARM release without a matched acquire!
+12-11 09:47:49.317  1110  4001 W WakeLock: GCM_HB_ALARM counter does not exist
+12-11 09:47:49.442  4002  4015 I viders.calenda: Background young concurrent copying GC freed 2736(172KB) AllocSpace objects, 0(0B) LOS objects, 92% free, 1851KB/25MB, paused 8.538ms,1.160ms total 1.149s
+12-11 09:47:49.769  1110  4001 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_CONN_ALARM type: 2 triggerAtMillis: 330990]
+12-11 09:47:49.865  1110  4001 E WakeLock: GCM_CONN_ALARM release without a matched acquire!
+12-11 09:47:49.867  1110  4001 W WakeLock: GCM_CONN_ALARM counter does not exist
+12-11 09:47:55.437   543   543 W Looper  : Slow delivery took 1287ms main h=android.os.Handler c=com.android.internal.os.BinderCallsStats$1@599779b m=0
+12-11 09:47:55.486   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:47:55.488   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:47:56.709   543   543 W Looper  : Drained
+12-11 09:48:01.301   423   435 W EventThread: Faking VSYNC due to driver stall for thread app
+12-11 09:48:01.302   423   435 W EventThread: VsyncSource debug info:
+12-11 09:48:01.302   423   435 W EventThread: DispSyncSource: app(enabled)
+12-11 09:48:01.879   711   711 I Choreographer: Skipped 310 frames!  The application may be doing too much work on its main thread.
+12-11 09:48:01.916   543   569 W ActivityManager: Unable to launch app com.android.providers.calendar/10071 for provider com.android.calendar: launching app became null
+12-11 09:48:01.923  1237  1792 I bake    : (REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s
+12-11 09:48:01.925   240   240 I tombstoned: intercept for pid 3877 and type kDebuggerdJavaBacktrace terminated: due to timeout
+12-11 09:48:01.978  1110  3513 W SQLiteConnectionPool: The connection pool for database '/data/user/0/com.google.android.gms/databases/phenotype.db' has been unable to grant a connection to thread 172 (lowpool[19]) with flags 0x2 for 63.540005 seconds.
+12-11 09:48:01.978  1110  3513 W SQLiteConnectionPool: Connections: 1 active, 0 idle, 0 available.
+12-11 09:48:01.978  1110  3513 W SQLiteConnectionPool: 
+12-11 09:48:01.978  1110  3513 W SQLiteConnectionPool: Requests in progress:
+12-11 09:48:01.978  1110  3513 W SQLiteConnectionPool:   executeForCursorWindow started 6478ms ago - running, sql="SELECT MAX(version), user FROM ExperimentTokens WHERE packageName = ? AND version <= ? AND isCommitted = 0 GROUP BY user", path=/data/user/0/com.google.android.gms/databases/phenotype.db
+12-11 09:48:02.105   543  3962 E system_server: libdebuggerd_client: failed to read status response from tombstoned: timeout reached?
+12-11 09:48:02.110   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:48:02.114   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:48:02.114   543   543 W Looper  : Slow delivery took 1654ms main h=android.os.Handler c=com.android.internal.os.BinderCallsStats$1@599779b m=0
+12-11 09:48:02.125   543   653 E ActivityThread: Failed to find provider info for com.android.calendar
+12-11 09:48:02.135   543   569 I ActivityManager: Killing 4002:com.android.providers.calendar/u0a71 (adj 0): timeout publishing content providers
+12-11 09:48:02.265   543   543 W Looper  : Slow dispatch took 148ms main h=com.android.server.alarm.AlarmManagerService$AlarmHandler c=com.android.server.alarm.AlarmManagerService$3$$ExternalSyntheticLambda0@b7a16f3 m=0
+12-11 09:48:02.273   543   653 W ActivityManager: ProcessRecord{9705f 0:com.android.providers.calendar/u0a71} is attached to a previous process 4002
+12-11 09:48:02.343   543   653 W ActivityManager: Slow operation: 70ms so far, now at startProcess: done starting proc!
+12-11 09:48:02.344   543   653 W ContentProviderHelper: Slow operation: 75ms so far, now at getContentProviderImpl: after start process
+12-11 09:48:02.344   543   653 W ContentProviderHelper: Slow operation: 75ms so far, now at getContentProviderImpl: updating data structures
+12-11 09:48:02.345   543   653 W ContentProviderHelper: Slow operation: 77ms so far, now at getContentProviderImpl: done!
+12-11 09:48:02.388   331   331 I Zygote  : Process 4002 exited due to signal 9 (Killed)
+12-11 09:48:02.441   543   543 W Looper  : Drained
+12-11 09:48:02.539   543   571 I libprocessgroup: Successfully killed process cgroup uid 10071 pid 4002 in 397ms
+12-11 09:48:02.554   543   570 W ActivityManager: Slow operation: 262ms so far, now at startProcess: asking zygote to start proc
+12-11 09:48:02.635   543   570 W ActivityManager: Slow operation: 343ms so far, now at startProcess: returned from zygote!
+12-11 09:48:02.647   543   570 W ActivityManager: Slow operation: 355ms so far, now at startProcess: done updating battery stats
+12-11 09:48:02.651   543   570 W ActivityManager: Slow operation: 359ms so far, now at startProcess: building log message
+12-11 09:48:02.654   543   570 I ActivityManager: Start proc 4041:com.android.providers.calendar/u0a71 for content provider {com.android.providers.calendar/com.android.providers.calendar.CalendarProvider2}
+12-11 09:48:02.656   543   570 W ActivityManager: Slow operation: 364ms so far, now at startProcess: starting to update pids map
+12-11 09:48:02.659   543   570 W ActivityManager: Slow operation: 367ms so far, now at startProcess: done updating pids map
+12-11 09:48:02.688  4041  4041 W viders.calenda: Unexpected CPU variant for X86 using defaults: x86_64
+12-11 09:48:02.777  4041  4041 E viders.calenda: Not starting debugger since process cannot load the jdwp agent.
+12-11 09:48:03.379   543  1311 W ActivityManager: Slow operation: 358ms so far, now at attachApplicationLocked: after updateOomAdjLocked
+12-11 09:48:03.431   543   559 W Looper  : Slow dispatch took 345ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=com.android.server.am.UidObserverController$$ExternalSyntheticLambda0@f459e84 m=0
+12-11 09:48:03.523   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:48:03.523   423   435 W EventThread: Faking VSYNC due to driver stall for thread app
+12-11 09:48:03.524   423   435 W EventThread: VsyncSource debug info:
+12-11 09:48:03.524   423   435 W EventThread: DispSyncSource: app(enabled)
+12-11 09:48:03.537   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:48:03.847   711  1329 I OpenGLRenderer: Davey! duration=5826ms; Flags=0, FrameTimelineVsyncId=7097, IntendedVsync=330322038824, Vsync=335488705284, InputEventId=0, HandleInputStart=335497257700, AnimationStart=335497607000, PerformTraversalsStart=335498939300, DrawStart=335499569000, FrameDeadline=330338705490, FrameInterval=335495246800, FrameStartTime=16666666, SyncQueued=335501194900, SyncStart=335520422200, IssueDrawCommandsStart=335520925200, SwapBuffers=335530395900, FrameCompleted=336167678100, DequeueBufferDuration=552200, QueueBufferDuration=30719100, GpuCompleted=336167678100, SwapBuffersCompleted=335610888500, DisplayPresentTime=0, 
+12-11 09:48:05.413   423   435 W EventThread: Faking VSYNC due to driver stall for thread app
+12-11 09:48:05.413   423   435 W EventThread: VsyncSource debug info:
+12-11 09:48:05.414   423   435 W EventThread: DispSyncSource: app(enabled)
+12-11 09:48:05.487   711   711 I Choreographer: Skipped 89 frames!  The application may be doing too much work on its main thread.
+12-11 09:48:05.553   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:48:05.574   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:48:05.621   711  1329 I OpenGLRenderer: Davey! duration=1977ms; Flags=0, FrameTimelineVsyncId=7100, IntendedVsync=337141028700, Vsync=337207695364, InputEventId=0, HandleInputStart=337216957100, AnimationStart=337237499500, PerformTraversalsStart=337238216600, DrawStart=337489651600, FrameDeadline=338141028700, FrameInterval=337216315400, FrameStartTime=16666666, SyncQueued=337494063500, SyncStart=337499576300, IssueDrawCommandsStart=337499944100, SwapBuffers=337591983100, FrameCompleted=339123882000, DequeueBufferDuration=445300, QueueBufferDuration=32545700, GpuCompleted=339123882000, SwapBuffersCompleted=337636407500, DisplayPresentTime=0, 
+12-11 09:48:06.416   792   792 W DnsResolver: resNetworkResult:android.system.ErrnoException: resNetworkResult failed: ETIMEDOUT (Connection timed out)
+12-11 09:48:06.504   543  3962 W ActivityManager: Dumping Java threads failed, initiating native stack dump.
+12-11 09:48:06.555   543  3962 I system_server: libdebuggerd_client: started dumping process 3877
+12-11 09:48:06.586   240   240 I tombstoned: registered intercept for pid 3877 and type kDebuggerdNativeBacktrace
+12-11 09:48:06.763   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:48:06.803   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:48:06.979  3877  3877 I libc    : Requested dump for tid 3877 (oid.apps.photos)
+12-11 09:48:07.227  4041  4041 I viders.calenda: Waiting for a blocking GC ClassLinker
+12-11 09:48:07.237   543  1334 I UsageStatsDatabase: Time changed by +3m16s954ms. files deleted: 0 files moved: 9
+12-11 09:48:07.299   792   792 W DnsResolver: resNetworkResult:android.system.ErrnoException: resNetworkResult failed: ETIMEDOUT (Connection timed out)
+12-11 09:48:07.952   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:48:07.967   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:48:08.147   543  1334 I UsageStatsService: User[0] Rollover scheduled @ 2024-12-11 11:53:47(1733898227984)
+12-11 09:48:08.176  4041  4050 I viders.calenda: Background young concurrent copying GC freed 2986(193KB) AllocSpace objects, 0(0B) LOS objects, 92% free, 1863KB/25MB, paused 1.389s,1.947ms total 2.432s
+12-11 09:48:08.183   543   568 I UsageStatsService: Time changed in by 196 seconds
+12-11 09:48:08.266   543   568 W Looper  : Slow dispatch took 24203ms android.bg h=com.android.server.usage.UsageStatsService$H c=null m=0
+12-11 09:48:08.290  4041  4041 I viders.calenda: WaitForGcToComplete blocked ClassLinker on Background for 1.020s
+12-11 09:48:08.576   543  3962 E system_server: libdebuggerd_client: failed to read status response from tombstoned: Try again
+12-11 09:48:08.578   240   240 I tombstoned: intercept for pid 3877 and type kDebuggerdNativeBacktrace terminated: due to input
+12-11 09:48:08.707   543  3962 W ActivityManager: Native stack dump failed!
+12-11 09:48:08.708   543  3962 E ActivityManager: Aborting stack trace dump (current firstPid=3877); deadline exceeded.
+12-11 09:48:08.973   543  1864 W ContentProviderHelper: Slow operation: 142ms so far, now at getContentProviderImpl: before updateOomAdj
+12-11 09:48:08.981   543  1864 W ContentProviderHelper: Slow operation: 151ms so far, now at getContentProviderImpl: after updateOomAdj
+12-11 09:48:08.982   543  1864 W ContentProviderHelper: Slow operation: 151ms so far, now at getContentProviderImpl: done!
+12-11 09:48:09.066   543  1458 W ServiceManager: Waited one second for apexservice (is service started? are binder threads started and available?)
+12-11 09:48:09.068   192   192 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-11 09:48:09.704   192   192 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+12-11 09:48:09.819   192   192 I servicemanager: Tried to unregister apexservice, but there is about to be a client.
+12-11 09:48:10.263   543  1458 W FastPrintWriter: Write failure
+12-11 09:48:10.263   543  1458 W FastPrintWriter: java.io.IOException: write failed: EPIPE (Broken pipe)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at libcore.io.IoBridge.write(IoBridge.java:654)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at java.io.FileOutputStream.write(FileOutputStream.java:401)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at com.android.internal.util.FastPrintWriter.flushBytesLocked(FastPrintWriter.java:354)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at com.android.internal.util.FastPrintWriter.flushLocked(FastPrintWriter.java:377)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at com.android.internal.util.FastPrintWriter.flush(FastPrintWriter.java:412)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at android.os.Binder.dump(Binder.java:879)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at android.os.Binder.onTransact(Binder.java:813)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4818)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:8506)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at android.os.Binder.execTransact(Binder.java:1143)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: Caused by: android.system.ErrnoException: write failed: EPIPE (Broken pipe)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at libcore.io.Linux.writeBytes(Native Method)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at libcore.io.Linux.write(Linux.java:296)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at libcore.io.ForwardingOs.write(ForwardingOs.java:951)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at libcore.io.BlockGuardOs.write(BlockGuardOs.java:447)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	at libcore.io.IoBridge.write(IoBridge.java:649)
+12-11 09:48:10.263   543  1458 W FastPrintWriter: 	... 10 more
+12-11 09:48:11.071   543  3962 E ActivityManager: ANR in com.google.android.apps.photos
+12-11 09:48:11.071   543  3962 E ActivityManager: PID: 3877
+12-11 09:48:11.071   543  3962 E ActivityManager: Reason: executing service com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService
+12-11 09:48:11.071   543  3962 E ActivityManager: Frozen: false
+12-11 09:48:11.071   543  3962 E ActivityManager: Load: 0.0 / 0.0 / 0.0
+12-11 09:48:11.071   543  3962 E ActivityManager: ----- Output from /proc/pressure/memory -----
+12-11 09:48:11.071   543  3962 E ActivityManager: some avg10=45.42 avg60=31.73 avg300=17.93 total=75631942
+12-11 09:48:11.071   543  3962 E ActivityManager: full avg10=27.10 avg60=18.50 avg300=6.87 total=25380140
+12-11 09:48:11.071   543  3962 E ActivityManager: ----- End output from /proc/pressure/memory -----
+12-11 09:48:11.071   543  3962 E ActivityManager: 
+12-11 09:48:11.071   543  3962 E ActivityManager: CPU usage from 1ms to 77306ms later (2024-12-11 09:43:35.098 to 2024-12-11 09:48:08.741) with 99% awake:
+12-11 09:48:11.071   543  3962 E ActivityManager:   36% 543/system_server: 6% user + 30% kernel / faults: 1518 minor 148 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   11% 2007/com.google.android.apps.messaging: 1.8% user + 9.1% kernel / faults: 533 minor 414 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   10% 3877/com.google.android.apps.photos: 1.8% user + 8.1% kernel / faults: 2342 minor 126 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   8.4% 792/com.android.networkstack.process: 1.4% user + 7% kernel / faults: 203 minor 45 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   6.7% 1110/com.google.android.gms.persistent: 0.8% user + 5.8% kernel / faults: 151 minor 58 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   6.4% 3934/apexd: 0% user + 6.4% kernel / faults: 422 minor 1 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   5% 3629/io.github.ylimit.droidbotapp: 1.9% user + 3% kernel / faults: 1715 minor 6 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   4.3% 428/adbd: 0.3% user + 4% kernel / faults: 518 minor
+12-11 09:48:11.071   543  3962 E ActivityManager:   4.1% 9/kworker/u8:1-kverityd: 0% user + 4.1% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   4% 1/init: 0% user + 4% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   3.5% 711/com.android.systemui: 0.7% user + 2.8% kernel / faults: 537 minor 27 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   3.4% 972/com.google.android.apps.nexuslauncher: 0.9% user + 2.5% kernel / faults: 839 minor 409 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   3.2% 161/kworker/u8:3-kverityd: 0% user + 3.2% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   3.2% 224/kworker/u9:1-blk_crypto_wq: 0% user + 3.2% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   3% 2814/com.google.android.youtube: 0.7% user + 2.2% kernel / faults: 1347 minor 140 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   2.7% 189/logd: 0.1% user + 2.5% kernel / faults: 16 minor 3 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   2.6% 2745/com.android.phone: 0.4% user + 2.2% kernel / faults: 154 minor 97 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.7% 199/kworker/0:2-virtio_vsock: 0% user + 0.7% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   2.4% 393/android.hardware.sensors@2.1-service.multihal: 0% user + 2.4% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   2.1% 3176/com.google.android.googlequicksearchbox:train: 0.1% user + 2% kernel / faults: 770 minor 288 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   2.2% 192/servicemanager: 0.3% user + 1.8% kernel / faults: 87 minor
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.6% 417/android.hardware.vibrator-service.example: 0.1% user + 0.5% kernel / faults: 35 minor 77 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   2.1% 3433/kworker/u8:5-kverityd: 0% user + 2.1% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   1.9% 1884/com.android.vending: 0.3% user + 1.5% kernel / faults: 160 minor 12 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   1.7% 2535/com.android.vending:background: 0.2% user + 1.4% kernel / faults: 1866 minor 1724 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   1.6% 1520/com.google.android.gms: 0.2% user + 1.3% kernel / faults: 72 minor 34 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   1.5% 423/surfaceflinger: 0% user + 1.4% kernel / faults: 4 minor 10 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   1.4% 23/ksoftirqd/2: 0% user + 1.4% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   1.1% 230/jbd2/dm-5-8: 0% user + 1.1% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   1.1% 329/statsd: 0% user + 1.1% kernel / faults: 7 minor
+12-11 09:48:11.071   543  3962 E ActivityManager:   1% 44/kworker/2:1-cgroup_destroy: 0% user + 1% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   1% 5/kworker/0:0-events: 0% user + 1% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   1% 330/netd: 0% user + 0.9% kernel / faults: 55 minor 6 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.8% 18/ksoftirqd/1: 0% user + 0.8% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.8% 162/kworker/u8:4-kverityd: 0% user + 0.8% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.9% 3485/kworker/u8:6-kverityd: 0% user + 0.9% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.8% 1407/com.google.android.googlequicksearchbox:search: 0% user + 0.7% kernel / faults: 89 minor 121 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.9% 3800/logcat: 0% user + 0.9% kernel / faults: 1 minor
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.8% 12/ksoftirqd/0: 0% user + 0.8% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.8% 355/android.hardware.graphics.composer@2.3-service: 0% user + 0.7% kernel / faults: 1 minor
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.7% 483/wificond: 0.1% user + 0.5% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.6% 225/kworker/u9:2-blk_crypto_wq: 0% user + 0.6% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.5% 7/kworker/u8:0-kverityd: 0% user + 0.5% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.5% 13/rcu_preempt: 0% user + 0.5% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.5% 1237/com.google.android.googlequicksearchbox:interactor: 0% user + 0.4% kernel / faults: 58 minor 109 major
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.5% 104/kworker/u9:0-blk_crypto_wq: 0% user + 0.5% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.5% 28/ksoftirqd/3: 0% user + 0.5% kernel
+12-11 09:48:11.071   543  3962 E ActivityManager:   0.5% 190/lmkd: 0% user + 0.4% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.1% 352/android.hardware.graphics.allocator@3.0-service: 0% user + 0.1% kernel / faults: 10 minor 181 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.4% 131/kworker/3:2-mm_percpu_wq: 0% user + 0.4% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.4% 1415/com.google.android.setupwizard: 0% user + 0.3% kernel / faults: 27 minor 63 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.4% 1009/com.google.android.apps.wellbeing: 0% user + 0.4% kernel / faults: 31 minor 31 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.4% 103/kswapd0: 0% user + 0.4% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.3% 278/loop19: 0% user + 0.3% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.3% 282/loop21: 0% user + 0.3% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.3% 229/kworker/u9:3-hci0: 0% user + 0.3% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.3% 252/loop6: 0% user + 0.3% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.2% 283/loop22: 0% user + 0.2% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.2% 331/zygote64: 0% user + 0.2% kernel / faults: 94 minor
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.2% 400/android.hardware.wifi@1.0-service: 0% user + 0.2% kernel / faults: 1 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.2% 419/audioserver: 0% user + 0.2% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.2% 465/cameraserver: 0% user + 0.2% kernel / faults: 1 minor 4 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.2% 3306/android.process.media: 0% user + 0.1% kernel / faults: 10 minor 5 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.1% 88/kworker/1:1-events: 0% user + 0.1% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.1% 191/psimon: 0% user + 0.1% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.1% 805/com.google.android.permissioncontroller: 0% user + 0.1% kernel / faults: 13 minor 3 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.1% 3691/com.android.vending:quick_launch: 0% user + 0.1% kernel / faults: 22 minor 3 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.1% 146/kworker/2:1H-kblockd: 0% user + 0.1% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0.1% 1271/com.google.android.apps.messaging:rcs: 0% user + 0.1% kernel / faults: 112 minor 165 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 762/android.hardware.gnss@2.0-service.ranchu: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 39/khugepaged: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 356/android.hardware.health@2.1-service: 0% user + 0% kernel / faults: 2 minor 16 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 484/libgoldfish-rild: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 691/wpa_supplicant: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 3284/com.google.android.settings.intelligence: 0% user + 0% kernel / faults: 10 minor 12 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 129/kworker/1:1H-kblockd: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 89/kworker/3:1H-kblockd: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 480/storaged: 0% user + 0% kernel / faults: 1 minor 8 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 1684/kworker/u9:4-fscrypt_read_queue: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 38/kcompactd0: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 196/hwservicemanager: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 240/tombstoned: 0% user + 0% kernel / faults: 11 minor 46 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 490/android.hardware.biometrics.fingerprint@2.1-service: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 922/com.google.android.ext.services: 0% user + 0% kernel / faults: 20 minor 42 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 2663/com.google.android.inputmethod.latin: 0% user + 0% kernel / faults: 28 minor 50 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 110/kworker/0:1H-kblockd: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 169/ueventd: 0% user + 0% kernel / faults: 66 minor 182 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 198/qemu-props: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 321/dhcpclient: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 461/mdnsd: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 697/com.android.bluetooth: 0% user + 0% kernel / faults: 14 minor 31 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 1252/android.process.acore: 0% user + 0% kernel / faults: 8 minor 2 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 1639/com.google.process.gservices: 0% user + 0% kernel / faults: 12 minor 14 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 1732/com.google.android.cellbroadcastreceiver: 0% user + 0% kernel / faults: 12 minor 6 major
+12-11 09:48:11.072   543  3962 E ActivityManager:   0% 3496/com.android.imsserviceentitlement: 0% user + 0% kernel / faults: 10 minor
+12-11 09:48:11.072   543  3962 E ActivityManager:  +0% 4041/com.android.providers.calendar: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager:  +0% 4064/crash_dump64: 0% user + 0% kernel
+12-11 09:48:11.072   543  3962 E ActivityManager: 94% TOTAL: 0.5% user + 6.1% kernel + 87% iowait + 0.9% softirq
+12-11 09:48:11.072   543  3962 E ActivityManager: CPU usage from 265018ms to 265018ms ago (1970-01-01 05:30:00.000 to 1970-01-01 05:30:00.000) with 0% awake:
+12-11 09:48:11.072   543  3962 E ActivityManager: 0% TOTAL: 0% user + 0% kernel
+12-11 09:48:11.214   543  3962 I ActivityManager: Killing 3877:com.google.android.apps.photos/u0a126 (adj 0): bg anr
+12-11 09:48:11.246   543  3962 I ActivityManager: dumpStackTraces pids=null nativepids=null
+12-11 09:48:11.258   543  3962 I ActivityManager: Dumping to /data/anr/anr_2024-12-11-09-48-11-250
+12-11 09:48:11.258  2007  3977 I Bugle   : SubscriptionUtils.getCanonicalForSelf: self=redacted-pii[12-chars], country=US [CONTEXT sub_id=1 ]
+12-11 09:48:11.259   543  3962 I ActivityManager: Collecting stacks for pid 2007
+12-11 09:48:11.284   543  4071 I DropBoxManagerService: add tag=system_app_anr isTagEnabled=true flags=0x2
+12-11 09:48:11.285   543  3962 I system_server: libdebuggerd_client: started dumping process 2007
+12-11 09:48:11.289   240   240 I tombstoned: registered intercept for pid 2007 and type kDebuggerdJavaBacktrace
+12-11 09:48:11.316   543   571 E libprocessgroup: getpgid(4064) failed: Permission denied
+12-11 09:48:11.320   543   571 E libprocessgroup: getpgid(4067) failed: Permission denied

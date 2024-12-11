@@ -1,0 +1,103 @@
+{
+    "nodes": [
+        {
+            "id": "start",
+            "type": "start",
+            "data": {
+                "label": "Start",
+                "type": "start",
+                "expanded": false
+            },
+            "position": {
+                "x": 216,
+                "y": 92
+            },
+            "measured": {
+                "width": 102,
+                "height": 68
+            },
+            "selected": false,
+            "dragging": false
+        },
+        {
+            "id": "end",
+            "type": "end",
+            "data": {
+                "label": "End",
+                "type": "end",
+                "expanded": false
+            },
+            "position": {
+                "x": 246,
+                "y": 640
+            },
+            "measured": {
+                "width": 96,
+                "height": 68
+            },
+            "selected": false,
+            "dragging": false
+        },
+        {
+            "id": "deviceAction-3",
+            "type": "deviceAction",
+            "data": {
+                "label": "New deviceAction",
+                "type": "deviceAction",
+                "expanded": true
+            },
+            "position": {
+                "x": 470.87522513039556,
+                "y": 99.84327962202207
+            },
+            "measured": {
+                "width": 222,
+                "height": 233
+            },
+            "selected": true,
+            "dragging": false
+        },
+        {
+            "id": "node-4",
+            "type": "deviceAction",
+            "position": {
+                "x": 782,
+                "y": 319
+            },
+            "data": {
+                "label": "New deviceAction",
+                "type": "deviceAction",
+                "action": "type",
+                "expanded": true
+            },
+            "measured": {
+                "width": 222,
+                "height": 233
+            },
+            "selected": false,
+            "dragging": false
+        }
+    ],
+    "edges": [
+        {
+            "source": "start",
+            "target": "deviceAction-3",
+            "id": "xy-edge__start-deviceAction-3"
+        },
+        {
+            "source": "deviceAction-3",
+            "target": "end",
+            "id": "xy-edge__deviceAction-3-end"
+        },
+        {
+            "source": "deviceAction-3",
+            "target": "node-4",
+            "id": "xy-edge__deviceAction-3-node-4"
+        },
+        {
+            "source": "node-4",
+            "target": "end",
+            "id": "xy-edge__node-4-end"
+        }
+    ]
+}

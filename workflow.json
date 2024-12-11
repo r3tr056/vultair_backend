@@ -1,0 +1,197 @@
+{
+    "nodes": [
+        {
+            "id": "start",
+            "type": "start",
+            "data": {
+                "label": "Start",
+                "type": "start"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "screenshot_1",
+            "type": "deviceAction",
+            "data": {
+                "label": "Take Screenshot of Post 1",
+                "type": "deviceAction",
+                "action": "Take Screenshot"
+            },
+            "position": {
+                "x": 0,
+                "y": 300
+            }
+        },
+        {
+            "id": "scrolldown_1",
+            "type": "deviceAction",
+            "data": {
+                "label": "Scroll down",
+                "type": "deviceAction",
+                "action": "Scroll down to the next post"
+            },
+            "position": {
+                "x": 0,
+                "y": 350
+            }
+        },
+        {
+            "id": "screenshot_2",
+            "type": "deviceAction",
+            "data": {
+                "label": "Take Screenshot of Post 2",
+                "type": "deviceAction",
+                "action": "Take Screenshot"
+            },
+            "position": {
+                "x": 0,
+                "y": 400
+            }
+        },
+        {
+            "id": "scrolldown_2",
+            "type": "deviceAction",
+            "data": {
+                "label": "Scroll down",
+                "type": "deviceAction",
+                "action": "Scroll down to the next post"
+            },
+            "position": {
+                "x": 0,
+                "y": 450
+            }
+        },
+        {
+            "id": "screenshot_3",
+            "type": "deviceAction",
+            "data": {
+                "label": "Take Screenshot of Post 3",
+                "type": "deviceAction",
+                "action": "Take Screenshot"
+            },
+            "position": {
+                "x": 0,
+                "y": 500
+            }
+        },
+        {
+            "id": "scrolldown_3",
+            "type": "deviceAction",
+            "data": {
+                "label": "Scroll down",
+                "type": "deviceAction",
+                "action": "Scroll down to the next post"
+            },
+            "position": {
+                "x": 0,
+                "y": 550
+            }
+        },
+        {
+            "id": "screenshot_4",
+            "type": "deviceAction",
+            "data": {
+                "label": "Take Screenshot of Post 4",
+                "type": "deviceAction",
+                "action": "Take Screenshot"
+            },
+            "position": {
+                "x": 0,
+                "y": 600
+            }
+        },
+        {
+            "id": "scrolldown_4",
+            "type": "deviceAction",
+            "data": {
+                "label": "Scroll down",
+                "type": "deviceAction",
+                "action": "Scroll down to the next post"
+            },
+            "position": {
+                "x": 0,
+                "y": 650
+            }
+        },
+        {
+            "id": "screenshot_5",
+            "type": "deviceAction",
+            "data": {
+                "label": "Take Screenshot of Post 5",
+                "type": "deviceAction",
+                "action": "Take Screenshot"
+            },
+            "position": {
+                "x": 0,
+                "y": 700
+            }
+        },
+        {
+            "id": "end",
+            "type": "end",
+            "data": {
+                "label": "End",
+                "type": "end"
+            },
+            "position": {
+                "x": 0,
+                "y": 800
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "start",
+            "target": "screenshot_1",
+            "id": "e0"
+        },
+        {
+            "source": "screenshot_1",
+            "target": "scrolldown_1",
+            "id": "e1"
+        },
+        {
+            "source": "scrolldown_1",
+            "target": "screenshot_2",
+            "id": "e2"
+        },
+        {
+            "source": "screenshot_2",
+            "target": "scrolldown_2",
+            "id": "e3"
+        },
+        {
+            "source": "scrolldown_2",
+            "target": "screenshot_3",
+            "id": "e4"
+        },
+        {
+            "source": "screenshot_3",
+            "target": "scrolldown_3",
+            "id": "e5"
+        },
+        {
+            "source": "scrolldown_3",
+            "target": "screenshot_4",
+            "id": "e6"
+        },
+        {
+            "source": "screenshot_4",
+            "target": "scrolldown_4",
+            "id": "e7"
+        },
+        {
+            "source": "scrolldown_4",
+            "target": "screenshot_5",
+            "id": "e8"
+        },
+        {
+            "source": "screenshot_5",
+            "target": "end",
+            "id": "e9"
+        }
+    ]
+}
